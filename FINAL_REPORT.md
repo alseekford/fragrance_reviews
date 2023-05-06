@@ -48,7 +48,9 @@ The dataset, `perfume_data_combined.csv`, can be downloaded from [my GitHub repo
 **Description**
 
 The dataset contains in total 478 unique fragrances by 158 unique brands. A snippet of the original dataset is shown below.
-![df.png](attachment:8a7d1dfb-c42b-417d-8d79-b1d1bfd301e1.png)
+
+![df.png](https://github.com/alseekford/fragrance_reviews/blob/main/code/df.png)
+
 The columns `main_accords`, `longevity`, `sillage`, `gender_vote`, and `price_value` were all multi-nested in a dictionary for each observation.
 I used two different variations of "documents" in this case: one using the `description` of the fragrance (roughly 50 words/row), and another using the `notes`, which aggregated the `top notes`, `middle notes` and `base notes` columns (roughly 15 words/row). 
 
