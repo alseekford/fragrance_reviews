@@ -1,0 +1,3178 @@
+company,name,token_num,token_str,term_str
+Giorgio Armani,My Way,0,Orange,orange
+Giorgio Armani,My Way,1,Blossom,blossom
+Giorgio Armani,My Way,2,Bergamot,bergamot
+Giorgio Armani,My Way,3,Tuberose,tuberose
+Giorgio Armani,My Way,4,Indian,indian
+Giorgio Armani,My Way,5,Jasmine,jasmine
+Giorgio Armani,My Way,6,White,white
+Giorgio Armani,My Way,7,Musk,musk
+Giorgio Armani,My Way,8,Madagascar,madagascar
+Giorgio Armani,My Way,9,Vanilla,vanilla
+Giorgio Armani,My Way,10,Virginian,virginian
+Giorgio Armani,My Way,11,Cedar,cedar
+Yves Saint Laurent,Libre Intense,0,Lavender,lavender
+Yves Saint Laurent,Libre Intense,1,Mandarin,mandarin
+Yves Saint Laurent,Libre Intense,2,Orange,orange
+Yves Saint Laurent,Libre Intense,3,Bergamot,bergamot
+Yves Saint Laurent,Libre Intense,4,Lavender,lavender
+Yves Saint Laurent,Libre Intense,5,Tunisian,tunisian
+Yves Saint Laurent,Libre Intense,6,Orange,orange
+Yves Saint Laurent,Libre Intense,7,Blossom,blossom
+Yves Saint Laurent,Libre Intense,8,Jasmine,jasmine
+Yves Saint Laurent,Libre Intense,9,Sambac,sambac
+Yves Saint Laurent,Libre Intense,10,Orchid,orchid
+Yves Saint Laurent,Libre Intense,11,Madagascar,madagascar
+Yves Saint Laurent,Libre Intense,12,Vanilla,vanilla
+Yves Saint Laurent,Libre Intense,13,Tonka,tonka
+Yves Saint Laurent,Libre Intense,14,Bean,bean
+Yves Saint Laurent,Libre Intense,15,Ambergris,ambergris
+Yves Saint Laurent,Libre Intense,16,Vetiver,vetiver
+Mugler,Angel Nova,0,Raspberry,raspberry
+Mugler,Angel Nova,1,Litchi,litchi
+Mugler,Angel Nova,2,Damask,damask
+Mugler,Angel Nova,3,Rose,rose
+Mugler,Angel Nova,4,Akigalawood,akigalawood
+Mugler,Angel Nova,5,Benzoin,benzoin
+Givenchy,L'Interdit Eau de Parfum Intense,0,Black,black
+Givenchy,L'Interdit Eau de Parfum Intense,1,Pepper,pepper
+Givenchy,L'Interdit Eau de Parfum Intense,2,Tuberose,tuberose
+Givenchy,L'Interdit Eau de Parfum Intense,3,Sesame,sesame
+Givenchy,L'Interdit Eau de Parfum Intense,4,Orange,orange
+Givenchy,L'Interdit Eau de Parfum Intense,5,Blossom,blossom
+Givenchy,L'Interdit Eau de Parfum Intense,6,Madagascar,madagascar
+Givenchy,L'Interdit Eau de Parfum Intense,7,Vanilla,vanilla
+Givenchy,L'Interdit Eau de Parfum Intense,8,Patchouli,patchouli
+Givenchy,L'Interdit Eau de Parfum Intense,9,Vetiver,vetiver
+Narciso Rodriguez,Narciso Eau de Parfum Ambrée,0,Frangipani,frangipani
+Narciso Rodriguez,Narciso Eau de Parfum Ambrée,1,Ylang,ylang
+Narciso Rodriguez,Narciso Eau de Parfum Ambrée,2,Ylang,ylang
+Narciso Rodriguez,Narciso Eau de Parfum Ambrée,3,White,white
+Narciso Rodriguez,Narciso Eau de Parfum Ambrée,4,Flowers,flowers
+Narciso Rodriguez,Narciso Eau de Parfum Ambrée,5,Musk,musk
+Narciso Rodriguez,Narciso Eau de Parfum Ambrée,6,Amber,amber
+Narciso Rodriguez,Narciso Eau de Parfum Ambrée,7,Cashmeran,cashmeran
+Narciso Rodriguez,Narciso Eau de Parfum Ambrée,8,Vanilla,vanilla
+Narciso Rodriguez,Narciso Eau de Parfum Ambrée,9,Cedar,cedar
+Lancome,La Nuit Tresor Nude,0,Bergamot,bergamot
+Lancome,La Nuit Tresor Nude,1,Rose,rose
+Lancome,La Nuit Tresor Nude,2,Coconut,coconut
+Lancome,La Nuit Tresor Nude,3,Vanila,vanila
+Dolce&Gabbana,The Only One Eau de Parfum Intense,0,Neroli,neroli
+Dolce&Gabbana,The Only One Eau de Parfum Intense,1,Green,green
+Dolce&Gabbana,The Only One Eau de Parfum Intense,2,Apple,apple
+Dolce&Gabbana,The Only One Eau de Parfum Intense,3,Italian,italian
+Dolce&Gabbana,The Only One Eau de Parfum Intense,4,Mandarin,mandarin
+Dolce&Gabbana,The Only One Eau de Parfum Intense,5,Jasmine,jasmine
+Dolce&Gabbana,The Only One Eau de Parfum Intense,6,Coconut,coconut
+Dolce&Gabbana,The Only One Eau de Parfum Intense,7,Orange,orange
+Dolce&Gabbana,The Only One Eau de Parfum Intense,8,Blossom,blossom
+Dolce&Gabbana,The Only One Eau de Parfum Intense,9,Vanilla,vanilla
+Dolce&Gabbana,The Only One Eau de Parfum Intense,10,Cashmere,cashmere
+Dolce&Gabbana,The Only One Eau de Parfum Intense,11,Wood,wood
+Dolce&Gabbana,The Only One Eau de Parfum Intense,12,Cedar,cedar
+Lancome,La Vie Est Belle Intensément,0,Raspberry,raspberry
+Lancome,La Vie Est Belle Intensément,1,Pink,pink
+Lancome,La Vie Est Belle Intensément,2,Pepper,pepper
+Lancome,La Vie Est Belle Intensément,3,Bergamot,bergamot
+Lancome,La Vie Est Belle Intensément,4,Heliotrope,heliotrope
+Lancome,La Vie Est Belle Intensément,5,Jasmine,jasmine
+Lancome,La Vie Est Belle Intensément,6,Sambac,sambac
+Lancome,La Vie Est Belle Intensément,7,Orange,orange
+Lancome,La Vie Est Belle Intensément,8,Blossom,blossom
+Lancome,La Vie Est Belle Intensément,9,Vanilla,vanilla
+Lancome,La Vie Est Belle Intensément,10,iris,iris
+Lancome,La Vie Est Belle Intensément,11,Benzoin,benzoin
+Lancome,La Vie Est Belle Intensément,12,Sandalwood,sandalwood
+Lancome,La Vie Est Belle Intensément,13,Patchouli,patchouli
+Christian Dior,Miss Dior Rose N'Roses,0,Geranium,geranium
+Christian Dior,Miss Dior Rose N'Roses,1,Bergamot,bergamot
+Christian Dior,Miss Dior Rose N'Roses,2,Italian,italian
+Christian Dior,Miss Dior Rose N'Roses,3,Mandarin,mandarin
+Christian Dior,Miss Dior Rose N'Roses,4,Grasse,grasse
+Christian Dior,Miss Dior Rose N'Roses,5,Rose,rose
+Christian Dior,Miss Dior Rose N'Roses,6,Damask,damask
+Christian Dior,Miss Dior Rose N'Roses,7,Rose,rose
+Christian Dior,Miss Dior Rose N'Roses,8,White,white
+Christian Dior,Miss Dior Rose N'Roses,9,Musk,musk
+Valentino,Voce Viva,0,Mandarin,mandarin
+Valentino,Voce Viva,1,Orange,orange
+Valentino,Voce Viva,2,Bergamot,bergamot
+Valentino,Voce Viva,3,Ginger,ginger
+Valentino,Voce Viva,4,Orange,orange
+Valentino,Voce Viva,5,Blossom,blossom
+Valentino,Voce Viva,6,Gardenia,gardenia
+Valentino,Voce Viva,7,Vanilla,vanilla
+Valentino,Voce Viva,8,Tonka,tonka
+Valentino,Voce Viva,9,Bean,bean
+Valentino,Voce Viva,10,Musk,musk
+Valentino,Voce Viva,11,Sandalwood,sandalwood
+Valentino,Voce Viva,12,Oakmoss,oakmoss
+Givenchy,Irresistible Givenchy,0,Pear,pear
+Givenchy,Irresistible Givenchy,1,Ambrette,ambrette
+Givenchy,Irresistible Givenchy,2,Musk,musk
+Givenchy,Irresistible Givenchy,3,Mallow,mallow
+Givenchy,Irresistible Givenchy,4,Rose,rose
+Givenchy,Irresistible Givenchy,5,iris,iris
+Givenchy,Irresistible Givenchy,6,Musk,musk
+Givenchy,Irresistible Givenchy,7,Virginia,virginia
+Givenchy,Irresistible Givenchy,8,Cedar,cedar
+Jean Paul Gaultier,So Scandal!,1,Raspberry,raspberry
+Jean Paul Gaultier,So Scandal!,2,Tuberose,tuberose
+Jean Paul Gaultier,So Scandal!,3,Milk,milk
+Jean Paul Gaultier,So Scandal!,4,Jasmine,jasmine
+Jean Paul Gaultier,So Scandal!,5,Sambac,sambac
+Jean Paul Gaultier,So Scandal!,6,Orange,orange
+Jean Paul Gaultier,So Scandal!,7,Blossom,blossom
+Lancome,Idôle L'Intense,0,Bitter,bitter
+Lancome,Idôle L'Intense,1,Orange,orange
+Lancome,Idôle L'Intense,2,Mandarin,mandarin
+Lancome,Idôle L'Intense,3,Orange,orange
+Lancome,Idôle L'Intense,4,Turkish,turkish
+Lancome,Idôle L'Intense,5,Rose,rose
+Lancome,Idôle L'Intense,6,Grasse,grasse
+Lancome,Idôle L'Intense,7,Rose,rose
+Lancome,Idôle L'Intense,8,Egyptian,egyptian
+Lancome,Idôle L'Intense,9,Jasmine,jasmine
+Lancome,Idôle L'Intense,10,Jasmine,jasmine
+Lancome,Idôle L'Intense,11,Sambac,sambac
+Lancome,Idôle L'Intense,12,Jasmine,jasmine
+Lancome,Idôle L'Intense,13,Musk,musk
+Lancome,Idôle L'Intense,14,Acácia,acácia
+Lancome,Idôle L'Intense,15,Cashmere,cashmere
+Lancome,Idôle L'Intense,16,Wood,wood
+Lancome,Idôle L'Intense,17,Patchouli,patchouli
+Lancome,Idôle L'Intense,18,Madagascar,madagascar
+Lancome,Idôle L'Intense,19,Vanilla,vanilla
+Lancome,Idôle L'Intense,20,Cedar,cedar
+Lancome,Idôle L'Intense,21,Sandalwood,sandalwood
+Chloé,Nomade Absolu de Parfum,0,Mirabelle,mirabelle
+Chloé,Nomade Absolu de Parfum,1,Oakmoss,oakmoss
+Chloé,Nomade Absolu de Parfum,2,Davana,davana
+Chloé,Nomade Absolu de Parfum,3,Sandalwood,sandalwood
+Chloé,Nomade Absolu de Parfum,4,Musk,musk
+Christian Dior,J'Adore Infinissime,0,Blood,blood
+Christian Dior,J'Adore Infinissime,1,Orange,orange
+Christian Dior,J'Adore Infinissime,2,Bergamot,bergamot
+Christian Dior,J'Adore Infinissime,3,Pink,pink
+Christian Dior,J'Adore Infinissime,4,Pepper,pepper
+Christian Dior,J'Adore Infinissime,5,Tuberose,tuberose
+Christian Dior,J'Adore Infinissime,6,Jasmine,jasmine
+Christian Dior,J'Adore Infinissime,7,Sambac,sambac
+Christian Dior,J'Adore Infinissime,8,Ylang,ylang
+Christian Dior,J'Adore Infinissime,9,Ylang,ylang
+Christian Dior,J'Adore Infinissime,10,Lily,lily
+Christian Dior,J'Adore Infinissime,11,of,of
+Christian Dior,J'Adore Infinissime,12,the,the
+Christian Dior,J'Adore Infinissime,13,Valley,valley
+Christian Dior,J'Adore Infinissime,14,Rose,rose
+Christian Dior,J'Adore Infinissime,15,Sandalwood,sandalwood
+Mugler,Angel Eau Croisière 2020,1,Fig,fig
+Mugler,Angel Eau Croisière 2020,2,Nectar,nectar
+Mugler,Angel Eau Croisière 2020,3,Praline,praline
+Mugler,Angel Eau Croisière 2020,4,Patchouli,patchouli
+Mugler,Angel Eau Croisière 2020,5,Magnolia,magnolia
+Mugler,Angel Eau Croisière 2020,6,Vanilla,vanilla
+Ariana Grande,R.E.M.,0,Zefir,zefir
+Ariana Grande,R.E.M.,1,Caramel,caramel
+Ariana Grande,R.E.M.,2,Fig,fig
+Ariana Grande,R.E.M.,3,Salt,salt
+Ariana Grande,R.E.M.,4,Quince,quince
+Ariana Grande,R.E.M.,5,Lavender,lavender
+Ariana Grande,R.E.M.,6,Pear,pear
+Ariana Grande,R.E.M.,7,Blossom,blossom
+Ariana Grande,R.E.M.,8,Tonka,tonka
+Ariana Grande,R.E.M.,9,Bean,bean
+Ariana Grande,R.E.M.,10,Musk,musk
+Ariana Grande,R.E.M.,11,Sandalwood,sandalwood
+Teo Cabanel,Alahine,0,Ylang,ylang
+Teo Cabanel,Alahine,1,Ylang,ylang
+Teo Cabanel,Alahine,2,Bergamot,bergamot
+Teo Cabanel,Alahine,3,Pepper,pepper
+Teo Cabanel,Alahine,4,Rose,rose
+Teo Cabanel,Alahine,5,Orange,orange
+Teo Cabanel,Alahine,6,Blossom,blossom
+Teo Cabanel,Alahine,7,Jasmine,jasmine
+Teo Cabanel,Alahine,8,Benzoin,benzoin
+Teo Cabanel,Alahine,9,French,french
+Teo Cabanel,Alahine,10,labdanum,labdanum
+Teo Cabanel,Alahine,11,Sandalwood,sandalwood
+Teo Cabanel,Alahine,12,Vanilla,vanilla
+Teo Cabanel,Alahine,13,iris,iris
+Teo Cabanel,Alahine,14,Patchouli,patchouli
+Teo Cabanel,Alahine,15,Musk,musk
+Christian Dior,Poison,0,Plum,plum
+Christian Dior,Poison,1,Wild,wild
+Christian Dior,Poison,2,berries,berries
+Christian Dior,Poison,3,Coriander,coriander
+Christian Dior,Poison,4,Anise,anise
+Christian Dior,Poison,5,Brazilian,brazilian
+Christian Dior,Poison,6,Rosewood,rosewood
+Christian Dior,Poison,7,Tuberose,tuberose
+Christian Dior,Poison,8,Incense,incense
+Christian Dior,Poison,9,white,white
+Christian Dior,Poison,10,honey,honey
+Christian Dior,Poison,11,Cinnamon,cinnamon
+Christian Dior,Poison,12,Opoponax,opoponax
+Christian Dior,Poison,13,Carnation,carnation
+Christian Dior,Poison,14,Jasmine,jasmine
+Christian Dior,Poison,15,African,african
+Christian Dior,Poison,16,Orange,orange
+Christian Dior,Poison,17,flower,flower
+Christian Dior,Poison,18,Rose,rose
+Christian Dior,Poison,19,Vanille,vanille
+Christian Dior,Poison,20,Amber,amber
+Christian Dior,Poison,21,Sandalwood,sandalwood
+Christian Dior,Poison,22,Musk,musk
+Christian Dior,Poison,23,Heliotrope,heliotrope
+Christian Dior,Poison,24,Vetiver,vetiver
+Christian Dior,Poison,25,Virginia,virginia
+Christian Dior,Poison,26,Cedar,cedar
+Kate Spade,Kate Spade New York,0,Wild,wild
+Kate Spade,Kate Spade New York,1,Strawberry,strawberry
+Kate Spade,Kate Spade New York,2,Bergamot,bergamot
+Kate Spade,Kate Spade New York,3,Citruses,citruses
+Kate Spade,Kate Spade New York,4,Rose,rose
+Kate Spade,Kate Spade New York,5,Freesia,freesia
+Kate Spade,Kate Spade New York,6,Ambroxan,ambroxan
+Kate Spade,Kate Spade New York,7,Cashmeran,cashmeran
+Rasasi,La Yuqawam Jasmine Wisp,0,Mandarin,mandarin
+Rasasi,La Yuqawam Jasmine Wisp,1,Orange,orange
+Rasasi,La Yuqawam Jasmine Wisp,2,Lemon,lemon
+Rasasi,La Yuqawam Jasmine Wisp,3,Grapefruit,grapefruit
+Rasasi,La Yuqawam Jasmine Wisp,4,Passionfruit,passionfruit
+Rasasi,La Yuqawam Jasmine Wisp,5,White,white
+Rasasi,La Yuqawam Jasmine Wisp,6,Flowers,flowers
+Rasasi,La Yuqawam Jasmine Wisp,7,Pear,pear
+Rasasi,La Yuqawam Jasmine Wisp,8,Coconut,coconut
+Rasasi,La Yuqawam Jasmine Wisp,9,Peach,peach
+Rasasi,La Yuqawam Jasmine Wisp,10,Vanilla,vanilla
+Rasasi,La Yuqawam Jasmine Wisp,11,Amber,amber
+Rasasi,La Yuqawam Jasmine Wisp,12,Tonka,tonka
+Rasasi,La Yuqawam Jasmine Wisp,13,Bean,bean
+Burberry,Burberry Her Intense,0,Red,red
+Burberry,Burberry Her Intense,1,Fruits,fruits
+Burberry,Burberry Her Intense,2,Blackberry,blackberry
+Burberry,Burberry Her Intense,3,Jasmine,jasmine
+Burberry,Burberry Her Intense,4,Benzoin,benzoin
+Britney Spears,Midnight Fantasy,0,Plum,plum
+Britney Spears,Midnight Fantasy,1,Sour,sour
+Britney Spears,Midnight Fantasy,2,Cherry,cherry
+Britney Spears,Midnight Fantasy,3,Raspberry,raspberry
+Britney Spears,Midnight Fantasy,4,Orchid,orchid
+Britney Spears,Midnight Fantasy,5,iris,iris
+Britney Spears,Midnight Fantasy,6,Freesia,freesia
+Britney Spears,Midnight Fantasy,7,Vanilla,vanilla
+Britney Spears,Midnight Fantasy,8,Amber,amber
+Britney Spears,Midnight Fantasy,9,Musk,musk
+Police,Shock-In-Scent For Women,0,Almond,almond
+Police,Shock-In-Scent For Women,1,Bergamot,bergamot
+Police,Shock-In-Scent For Women,2,White,white
+Police,Shock-In-Scent For Women,3,Flowers,flowers
+Police,Shock-In-Scent For Women,4,Jasmine,jasmine
+Police,Shock-In-Scent For Women,5,Ylang,ylang
+Police,Shock-In-Scent For Women,6,Ylang,ylang
+Police,Shock-In-Scent For Women,7,Honey,honey
+Police,Shock-In-Scent For Women,8,Amber,amber
+Police,Shock-In-Scent For Women,9,Orris,orris
+Police,Shock-In-Scent For Women,10,Root,root
+Britney Spears,Fantasy The Nice Remix,1,Cupcake,cupcake
+Britney Spears,Fantasy The Nice Remix,2,Jasmine,jasmine
+Britney Spears,Fantasy The Nice Remix,3,Kiwi,kiwi
+Britney Spears,Fantasy The Nice Remix,4,Musk,musk
+Ariana Grande,Cloud,0,Lavender,lavender
+Ariana Grande,Cloud,1,Pear,pear
+Ariana Grande,Cloud,2,Bergamot,bergamot
+Ariana Grande,Cloud,3,Whipped,whipped
+Ariana Grande,Cloud,4,cream,cream
+Ariana Grande,Cloud,5,Praline,praline
+Ariana Grande,Cloud,6,Coconut,coconut
+Ariana Grande,Cloud,7,Vanilla,vanilla
+Ariana Grande,Cloud,8,orchid,orchid
+Ariana Grande,Cloud,9,Musk,musk
+Ariana Grande,Cloud,10,Woody,woody
+Ariana Grande,Cloud,11,Notes,notes
+Givenchy,L'Interdit Eau de Parfum,0,Pear,pear
+Givenchy,L'Interdit Eau de Parfum,1,Bergamot,bergamot
+Givenchy,L'Interdit Eau de Parfum,2,Tuberose,tuberose
+Givenchy,L'Interdit Eau de Parfum,3,Orange,orange
+Givenchy,L'Interdit Eau de Parfum,4,Blossom,blossom
+Givenchy,L'Interdit Eau de Parfum,5,Jasmine,jasmine
+Givenchy,L'Interdit Eau de Parfum,6,Sambac,sambac
+Givenchy,L'Interdit Eau de Parfum,7,Patchouli,patchouli
+Givenchy,L'Interdit Eau de Parfum,8,Vanilla,vanilla
+Givenchy,L'Interdit Eau de Parfum,9,Ambroxan,ambroxan
+Givenchy,L'Interdit Eau de Parfum,10,Vetiver,vetiver
+Burberry,Burberry Her,0,Strawberry,strawberry
+Burberry,Burberry Her,1,Raspberry,raspberry
+Burberry,Burberry Her,2,Blackberry,blackberry
+Burberry,Burberry Her,3,Sour,sour
+Burberry,Burberry Her,4,Cherry,cherry
+Burberry,Burberry Her,5,Black,black
+Burberry,Burberry Her,6,Currant,currant
+Burberry,Burberry Her,7,Mandarin,mandarin
+Burberry,Burberry Her,8,Orange,orange
+Burberry,Burberry Her,9,Lemon,lemon
+Burberry,Burberry Her,10,Violet,violet
+Burberry,Burberry Her,11,Jasmine,jasmine
+Burberry,Burberry Her,12,Musk,musk
+Burberry,Burberry Her,13,Vanilla,vanilla
+Burberry,Burberry Her,14,Oakmoss,oakmoss
+Burberry,Burberry Her,15,Cashmeran,cashmeran
+Burberry,Burberry Her,16,Woody,woody
+Burberry,Burberry Her,17,Notes,notes
+Burberry,Burberry Her,18,Amber,amber
+Burberry,Burberry Her,19,Patchouli,patchouli
+Chloé,Nomade,0,Mirabelle,mirabelle
+Chloé,Nomade,1,Bergamot,bergamot
+Chloé,Nomade,2,Lemon,lemon
+Chloé,Nomade,3,Orange,orange
+Chloé,Nomade,4,Freesia,freesia
+Chloé,Nomade,5,Peach,peach
+Chloé,Nomade,6,Rose,rose
+Chloé,Nomade,7,Jasmine,jasmine
+Chloé,Nomade,8,Oakmoss,oakmoss
+Chloé,Nomade,9,Amberwood,amberwood
+Chloé,Nomade,10,Patchouli,patchouli
+Chloé,Nomade,11,White,white
+Chloé,Nomade,12,Musk,musk
+Chloé,Nomade,13,Sandalwood,sandalwood
+Narciso Rodriguez,Narciso Rouge,0,iris,iris
+Narciso Rodriguez,Narciso Rouge,1,Bulgarian,bulgarian
+Narciso Rodriguez,Narciso Rouge,2,Rose,rose
+Narciso Rodriguez,Narciso Rouge,3,Musk,musk
+Narciso Rodriguez,Narciso Rouge,4,Tuberose,tuberose
+Narciso Rodriguez,Narciso Rouge,5,Orange,orange
+Narciso Rodriguez,Narciso Rouge,6,Blossom,blossom
+Narciso Rodriguez,Narciso Rouge,7,Tonka,tonka
+Narciso Rodriguez,Narciso Rouge,8,Bean,bean
+Narciso Rodriguez,Narciso Rouge,9,Vanilla,vanilla
+Narciso Rodriguez,Narciso Rouge,10,White,white
+Narciso Rodriguez,Narciso Rouge,11,Cedar,cedar
+Narciso Rodriguez,Narciso Rouge,12,Extract,extract
+Narciso Rodriguez,Narciso Rouge,13,Cedar,cedar
+Narciso Rodriguez,Narciso Rouge,14,Sandalwood,sandalwood
+Narciso Rodriguez,Narciso Rouge,15,Vetiver,vetiver
+Dolce&Gabbana,The Only One,0,Violet,violet
+Dolce&Gabbana,The Only One,1,Bergamot,bergamot
+Dolce&Gabbana,The Only One,2,Orange,orange
+Dolce&Gabbana,The Only One,3,Coffee,coffee
+Dolce&Gabbana,The Only One,4,Pear,pear
+Dolce&Gabbana,The Only One,5,iris,iris
+Dolce&Gabbana,The Only One,6,Orange,orange
+Dolce&Gabbana,The Only One,7,Blossom,blossom
+Dolce&Gabbana,The Only One,8,Rose,rose
+Dolce&Gabbana,The Only One,9,Caramel,caramel
+Dolce&Gabbana,The Only One,10,Vanilla,vanilla
+Dolce&Gabbana,The Only One,11,Patchouli,patchouli
+Chanel,Coco Mademoiselle Intense,0,Sicilian,sicilian
+Chanel,Coco Mademoiselle Intense,1,Orange,orange
+Chanel,Coco Mademoiselle Intense,2,Calabrian,calabrian
+Chanel,Coco Mademoiselle Intense,3,bergamot,bergamot
+Chanel,Coco Mademoiselle Intense,4,Lemon,lemon
+Chanel,Coco Mademoiselle Intense,5,Rose,rose
+Chanel,Coco Mademoiselle Intense,6,Fruity,fruity
+Chanel,Coco Mademoiselle Intense,7,Notes,notes
+Chanel,Coco Mademoiselle Intense,8,Jasmine,jasmine
+Chanel,Coco Mademoiselle Intense,9,Patchouli,patchouli
+Chanel,Coco Mademoiselle Intense,10,Tonka,tonka
+Chanel,Coco Mademoiselle Intense,11,Bean,bean
+Chanel,Coco Mademoiselle Intense,12,Madagascar,madagascar
+Chanel,Coco Mademoiselle Intense,13,Vanilla,vanilla
+Chanel,Coco Mademoiselle Intense,14,Labdanum,labdanum
+Chanel,Coco Mademoiselle Intense,15,White,white
+Chanel,Coco Mademoiselle Intense,16,Musk,musk
+Lancome,La Nuit Trésor à la Folie,0,Red,red
+Lancome,La Nuit Trésor à la Folie,1,Currant,currant
+Lancome,La Nuit Trésor à la Folie,2,Pear,pear
+Lancome,La Nuit Trésor à la Folie,3,Pink,pink
+Lancome,La Nuit Trésor à la Folie,4,Pepper,pepper
+Lancome,La Nuit Trésor à la Folie,5,Bergamot,bergamot
+Lancome,La Nuit Trésor à la Folie,6,Damask,damask
+Lancome,La Nuit Trésor à la Folie,7,Rose,rose
+Lancome,La Nuit Trésor à la Folie,8,Violet,violet
+Lancome,La Nuit Trésor à la Folie,9,Peony,peony
+Lancome,La Nuit Trésor à la Folie,10,Jasmine,jasmine
+Lancome,La Nuit Trésor à la Folie,11,Bourbon,bourbon
+Lancome,La Nuit Trésor à la Folie,12,Vanilla,vanilla
+Lancome,La Nuit Trésor à la Folie,13,Tonka,tonka
+Lancome,La Nuit Trésor à la Folie,14,Bean,bean
+Lancome,La Nuit Trésor à la Folie,15,Benzoin,benzoin
+Lancome,La Nuit Trésor à la Folie,16,Nutmeg,nutmeg
+Lancome,La Nuit Trésor à la Folie,17,Ambroxan,ambroxan
+Lancome,La Nuit Trésor à la Folie,18,Patchouli,patchouli
+Lancome,La Nuit Trésor à la Folie,19,Woody,woody
+Lancome,La Nuit Trésor à la Folie,20,Notes,notes
+Parfums de Marly,Delina Exclusif,0,Litchi,litchi
+Parfums de Marly,Delina Exclusif,1,Pear,pear
+Parfums de Marly,Delina Exclusif,2,Bergamot,bergamot
+Parfums de Marly,Delina Exclusif,3,Turkish,turkish
+Parfums de Marly,Delina Exclusif,4,Rose,rose
+Parfums de Marly,Delina Exclusif,5,Agarwood,agarwood
+Parfums de Marly,Delina Exclusif,6,Oud,oud
+Parfums de Marly,Delina Exclusif,7,Incense,incense
+Parfums de Marly,Delina Exclusif,8,Vanilla,vanilla
+Parfums de Marly,Delina Exclusif,9,Amber,amber
+Parfums de Marly,Delina Exclusif,10,Woody,woody
+Parfums de Marly,Delina Exclusif,11,Notes,notes
+Paco Rabanne,Pure XS For Her,1,Popocorn,popocorn
+Paco Rabanne,Pure XS For Her,2,Vanilla,vanilla
+Paco Rabanne,Pure XS For Her,3,Ylang,ylang
+Paco Rabanne,Pure XS For Her,4,Ylang,ylang
+Paco Rabanne,Pure XS For Her,5,Coconut,coconut
+Paco Rabanne,Pure XS For Her,6,Peach,peach
+Paco Rabanne,Pure XS For Her,7,Orange,orange
+Paco Rabanne,Pure XS For Her,8,Blossom,blossom
+Paco Rabanne,Pure XS For Her,9,Ambrette,ambrette
+Paco Rabanne,Pure XS For Her,10,Musk,musk
+Paco Rabanne,Pure XS For Her,11,Mallow,mallow
+Paco Rabanne,Pure XS For Her,12,White,white
+Paco Rabanne,Pure XS For Her,13,Musk,musk
+Paco Rabanne,Pure XS For Her,14,Sandalwood,sandalwood
+Paco Rabanne,Pure XS For Her,15,Amberwood,amberwood
+Jean Paul Gaultier,Scandal By Night,0,Honey,honey
+Jean Paul Gaultier,Scandal By Night,1,Bitter,bitter
+Jean Paul Gaultier,Scandal By Night,2,Orange,orange
+Jean Paul Gaultier,Scandal By Night,3,Citruses,citruses
+Jean Paul Gaultier,Scandal By Night,4,Tuberose,tuberose
+Jean Paul Gaultier,Scandal By Night,5,Cherry,cherry
+Jean Paul Gaultier,Scandal By Night,6,Orange,orange
+Jean Paul Gaultier,Scandal By Night,7,Blossom,blossom
+Jean Paul Gaultier,Scandal By Night,8,Pear,pear
+Jean Paul Gaultier,Scandal By Night,9,Nard,nard
+Jean Paul Gaultier,Scandal By Night,10,Himalayan,himalayan
+Jean Paul Gaultier,Scandal By Night,11,Jatamansi,jatamansi
+Jean Paul Gaultier,Scandal By Night,12,Tonka,tonka
+Jean Paul Gaultier,Scandal By Night,13,Bean,bean
+Jean Paul Gaultier,Scandal By Night,14,Vanilla,vanilla
+Jean Paul Gaultier,Scandal By Night,15,Patchouli,patchouli
+Jean Paul Gaultier,Scandal By Night,16,Sandalwood,sandalwood
+Jean Paul Gaultier,Scandal By Night,17,Amberwood,amberwood
+Jean Paul Gaultier,Scandal By Night,18,White,white
+Jean Paul Gaultier,Scandal By Night,19,Musk,musk
+Hugo Boss,Boss The Scent Private Accord for Her ,0,Mandarin,mandarin
+Hugo Boss,Boss The Scent Private Accord for Her ,1,Orange,orange
+Hugo Boss,Boss The Scent Private Accord for Her ,2,Coffee,coffee
+Hugo Boss,Boss The Scent Private Accord for Her ,3,Osmanthus,osmanthus
+Hugo Boss,Boss The Scent Private Accord for Her ,4,Cacao,cacao
+Hugo Boss,Boss The Scent Private Accord for Her ,5,Tonka,tonka
+Hugo Boss,Boss The Scent Private Accord for Her ,6,Bean,bean
+Dolce&Gabbana,Dolce Garden,0,Magnolia,magnolia
+Dolce&Gabbana,Dolce Garden,1,Mandarin,mandarin
+Dolce&Gabbana,Dolce Garden,2,Orange,orange
+Dolce&Gabbana,Dolce Garden,3,Neroli,neroli
+Dolce&Gabbana,Dolce Garden,4,Coconut,coconut
+Dolce&Gabbana,Dolce Garden,5,Frangipani,frangipani
+Dolce&Gabbana,Dolce Garden,6,Ylang,ylang
+Dolce&Gabbana,Dolce Garden,7,Ylang,ylang
+Dolce&Gabbana,Dolce Garden,8,Vanilla,vanilla
+Dolce&Gabbana,Dolce Garden,9,Absolute,absolute
+Dolce&Gabbana,Dolce Garden,10,Almond,almond
+Dolce&Gabbana,Dolce Garden,11,Milk,milk
+Dolce&Gabbana,Dolce Garden,12,Sandalwood,sandalwood
+Christian Dior,Joy by Dior,0,Bergamot,bergamot
+Christian Dior,Joy by Dior,1,Mandarin,mandarin
+Christian Dior,Joy by Dior,2,Orange,orange
+Christian Dior,Joy by Dior,3,Jasmine,jasmine
+Christian Dior,Joy by Dior,4,Grasse,grasse
+Christian Dior,Joy by Dior,5,Rose,rose
+Christian Dior,Joy by Dior,6,Peach,peach
+Christian Dior,Joy by Dior,7,Cassis,cassis
+Christian Dior,Joy by Dior,8,White,white
+Christian Dior,Joy by Dior,9,Musk,musk
+Christian Dior,Joy by Dior,10,Sandalwood,sandalwood
+Christian Dior,Joy by Dior,11,Cedar,cedar
+Christian Dior,Joy by Dior,12,Patchouli,patchouli
+Christian Dior,Joy by Dior,13,Benzoin,benzoin
+Calvin Klein,Euphoria Amber Gold,0,Plum,plum
+Calvin Klein,Euphoria Amber Gold,1,Mandarin,mandarin
+Calvin Klein,Euphoria Amber Gold,2,Orange,orange
+Calvin Klein,Euphoria Amber Gold,3,Rose,rose
+Calvin Klein,Euphoria Amber Gold,4,Honey,honey
+Calvin Klein,Euphoria Amber Gold,5,Orange,orange
+Calvin Klein,Euphoria Amber Gold,6,Blossom,blossom
+Calvin Klein,Euphoria Amber Gold,7,Orris,orris
+Calvin Klein,Euphoria Amber Gold,8,Amber,amber
+Calvin Klein,Euphoria Amber Gold,9,Sandalwood,sandalwood
+Calvin Klein,Euphoria Amber Gold,10,Vanilla,vanilla
+Calvin Klein,Euphoria Amber Gold,11,Labdanum,labdanum
+Kenzo,Flower by Kenzo Eau de Lumière,0,Calabrian,calabrian
+Kenzo,Flower by Kenzo Eau de Lumière,1,bergamot,bergamot
+Kenzo,Flower by Kenzo Eau de Lumière,2,Cassis,cassis
+Kenzo,Flower by Kenzo Eau de Lumière,3,Jasmine,jasmine
+Kenzo,Flower by Kenzo Eau de Lumière,4,Bulgarian,bulgarian
+Kenzo,Flower by Kenzo Eau de Lumière,5,Rose,rose
+Kenzo,Flower by Kenzo Eau de Lumière,6,Ylang,ylang
+Kenzo,Flower by Kenzo Eau de Lumière,7,Ylang,ylang
+Kenzo,Flower by Kenzo Eau de Lumière,8,Peach,peach
+Kenzo,Flower by Kenzo Eau de Lumière,9,Violet,violet
+Kenzo,Flower by Kenzo Eau de Lumière,10,White,white
+Kenzo,Flower by Kenzo Eau de Lumière,11,Musk,musk
+Kenzo,Flower by Kenzo Eau de Lumière,12,Heliotrope,heliotrope
+Boucheron,Boucheron,0,Tagetes,tagetes
+Boucheron,Boucheron,1,Orange,orange
+Boucheron,Boucheron,2,Tangerine,tangerine
+Boucheron,Boucheron,3,Apricot,apricot
+Boucheron,Boucheron,4,Bitter,bitter
+Boucheron,Boucheron,5,Orange,orange
+Boucheron,Boucheron,6,Asafoetida,asafoetida
+Boucheron,Boucheron,7,Cassia,cassia
+Boucheron,Boucheron,8,Basil,basil
+Boucheron,Boucheron,9,Lemon,lemon
+Boucheron,Boucheron,10,Bergamot,bergamot
+Boucheron,Boucheron,11,Tuberose,tuberose
+Boucheron,Boucheron,12,Madagascar,madagascar
+Boucheron,Boucheron,13,Ylang,ylang
+Boucheron,Boucheron,14,Ylang,ylang
+Boucheron,Boucheron,15,Jasmine,jasmine
+Boucheron,Boucheron,16,Orange,orange
+Boucheron,Boucheron,17,Blossom,blossom
+Boucheron,Boucheron,18,Narcissus,narcissus
+Boucheron,Boucheron,19,Geranium,geranium
+Boucheron,Boucheron,20,Orris,orris
+Boucheron,Boucheron,21,Root,root
+Boucheron,Boucheron,22,Cedar,cedar
+Boucheron,Boucheron,23,Lydia,lydia
+Boucheron,Boucheron,24,Broom,broom
+Boucheron,Boucheron,25,Lily,lily
+Boucheron,Boucheron,26,of,of
+Boucheron,Boucheron,27,the,the
+Boucheron,Boucheron,28,Valley,valley
+Boucheron,Boucheron,29,Amber,amber
+Boucheron,Boucheron,30,Civet,civet
+Boucheron,Boucheron,31,Sandalwood,sandalwood
+Boucheron,Boucheron,32,Benzoin,benzoin
+Boucheron,Boucheron,33,Indian,indian
+Boucheron,Boucheron,34,Vanilla,vanilla
+Boucheron,Boucheron,35,Oakmoss,oakmoss
+Boucheron,Boucheron,36,Tonka,tonka
+Boucheron,Boucheron,37,Bean,bean
+Boucheron,Boucheron,38,Musk,musk
+Guerlain,Mon Guerlain,0,Lavender,lavender
+Guerlain,Mon Guerlain,1,Bergamot,bergamot
+Guerlain,Mon Guerlain,2,iris,iris
+Guerlain,Mon Guerlain,3,Jasmine,jasmine
+Guerlain,Mon Guerlain,4,Sambac,sambac
+Guerlain,Mon Guerlain,5,Rose,rose
+Guerlain,Mon Guerlain,6,Tahitian,tahitian
+Guerlain,Mon Guerlain,7,Vanilla,vanilla
+Guerlain,Mon Guerlain,8,Coumarin,coumarin
+Guerlain,Mon Guerlain,9,Australian,australian
+Guerlain,Mon Guerlain,10,Sandalwood,sandalwood
+Guerlain,Mon Guerlain,11,Benzoin,benzoin
+Guerlain,Mon Guerlain,12,Licorice,licorice
+Guerlain,Mon Guerlain,13,Patchouli,patchouli
+Parfums de Marly,Delina,0,Litchi,litchi
+Parfums de Marly,Delina,1,Rhubarb,rhubarb
+Parfums de Marly,Delina,2,Bergamot,bergamot
+Parfums de Marly,Delina,3,Nutmeg,nutmeg
+Parfums de Marly,Delina,4,Turkish,turkish
+Parfums de Marly,Delina,5,Rose,rose
+Parfums de Marly,Delina,6,Peony,peony
+Parfums de Marly,Delina,7,Musk,musk
+Parfums de Marly,Delina,8,Petalia,petalia
+Parfums de Marly,Delina,9,Vanilla,vanilla
+Parfums de Marly,Delina,10,Cashmeran,cashmeran
+Parfums de Marly,Delina,11,Cedar,cedar
+Parfums de Marly,Delina,12,Haitian,haitian
+Parfums de Marly,Delina,13,Vetiver,vetiver
+Parfums de Marly,Delina,14,Incense,incense
+Mugler,Aura Mugler,0,Rhubarb,rhubarb
+Mugler,Aura Mugler,1,Leaf,leaf
+Mugler,Aura Mugler,2,Bergamot,bergamot
+Mugler,Aura Mugler,3,Green,green
+Mugler,Aura Mugler,4,Notes,notes
+Mugler,Aura Mugler,5,Orange,orange
+Mugler,Aura Mugler,6,Blossom,blossom
+Mugler,Aura Mugler,7,Ylang,ylang
+Mugler,Aura Mugler,8,Ylang,ylang
+Mugler,Aura Mugler,9,Pear,pear
+Mugler,Aura Mugler,10,Bourbon,bourbon
+Mugler,Aura Mugler,11,Vanilla,vanilla
+Mugler,Aura Mugler,12,Woody,woody
+Mugler,Aura Mugler,13,Notes,notes
+Mugler,Aura Mugler,14,Amberwood,amberwood
+Mugler,Aura Mugler,15,Sandalwood,sandalwood
+Mugler,Aura Mugler,16,Coumarin,coumarin
+Elie Saab,Girl of Now,0,Pistachio,pistachio
+Elie Saab,Girl of Now,1,Pear,pear
+Elie Saab,Girl of Now,2,Mandarin,mandarin
+Elie Saab,Girl of Now,3,Orange,orange
+Elie Saab,Girl of Now,4,Almond,almond
+Elie Saab,Girl of Now,5,Orange,orange
+Elie Saab,Girl of Now,6,Blossom,blossom
+Elie Saab,Girl of Now,7,Magnolia,magnolia
+Elie Saab,Girl of Now,8,Almond,almond
+Elie Saab,Girl of Now,9,Milk,milk
+Elie Saab,Girl of Now,10,Tonka,tonka
+Elie Saab,Girl of Now,11,Bean,bean
+Elie Saab,Girl of Now,12,Cashmeran,cashmeran
+Elie Saab,Girl of Now,13,Patchouli,patchouli
+Jean Paul Gaultier,Scandal,0,Blood,blood
+Jean Paul Gaultier,Scandal,1,Orange,orange
+Jean Paul Gaultier,Scandal,2,Mandarin,mandarin
+Jean Paul Gaultier,Scandal,3,Orange,orange
+Jean Paul Gaultier,Scandal,4,Honey,honey
+Jean Paul Gaultier,Scandal,5,Gardenia,gardenia
+Jean Paul Gaultier,Scandal,6,Orange,orange
+Jean Paul Gaultier,Scandal,7,Blossom,blossom
+Jean Paul Gaultier,Scandal,8,Jasmine,jasmine
+Jean Paul Gaultier,Scandal,9,Peach,peach
+Jean Paul Gaultier,Scandal,10,Beeswax,beeswax
+Jean Paul Gaultier,Scandal,11,Patchouli,patchouli
+Jean Paul Gaultier,Scandal,12,Caramel,caramel
+Jean Paul Gaultier,Scandal,13,Licorice,licorice
+Gucci,Gucci Bloom,0,Jasmine,jasmine
+Gucci,Gucci Bloom,1,Tuberose,tuberose
+Gucci,Gucci Bloom,2,Rangoon,rangoon
+Gucci,Gucci Bloom,3,creeper,creeper
+Dolce&Gabbana,Light Blue Eau Intense,0,Lemon,lemon
+Dolce&Gabbana,Light Blue Eau Intense,1,Granny,granny
+Dolce&Gabbana,Light Blue Eau Intense,2,Smith,smith
+Dolce&Gabbana,Light Blue Eau Intense,3,apple,apple
+Dolce&Gabbana,Light Blue Eau Intense,4,Marigold,marigold
+Dolce&Gabbana,Light Blue Eau Intense,5,Jasmine,jasmine
+Dolce&Gabbana,Light Blue Eau Intense,6,Musk,musk
+Dolce&Gabbana,Light Blue Eau Intense,7,Amberwood,amberwood
+Guerlain,Black Perfecto by La Petite Robe Noire,0,Sour,sour
+Guerlain,Black Perfecto by La Petite Robe Noire,1,Cherry,cherry
+Guerlain,Black Perfecto by La Petite Robe Noire,2,Almond,almond
+Guerlain,Black Perfecto by La Petite Robe Noire,3,Black,black
+Guerlain,Black Perfecto by La Petite Robe Noire,4,Tea,tea
+Guerlain,Black Perfecto by La Petite Robe Noire,5,Rose,rose
+Guerlain,Black Perfecto by La Petite Robe Noire,6,Licorice,licorice
+Guerlain,Black Perfecto by La Petite Robe Noire,7,Leather,leather
+Guerlain,Black Perfecto by La Petite Robe Noire,8,Tonka,tonka
+Guerlain,Black Perfecto by La Petite Robe Noire,9,Bean,bean
+Guerlain,Black Perfecto by La Petite Robe Noire,10,Patchouli,patchouli
+Guerlain,Black Perfecto by La Petite Robe Noire,11,Black,black
+Guerlain,Black Perfecto by La Petite Robe Noire,12,Musk,musk
+Giorgio Armani,Sì Passione,0,Pear,pear
+Giorgio Armani,Sì Passione,1,Black,black
+Giorgio Armani,Sì Passione,2,Currant,currant
+Giorgio Armani,Sì Passione,3,Pink,pink
+Giorgio Armani,Sì Passione,4,Pepper,pepper
+Giorgio Armani,Sì Passione,5,Grapefruit,grapefruit
+Giorgio Armani,Sì Passione,6,Rose,rose
+Giorgio Armani,Sì Passione,7,Pineapple,pineapple
+Giorgio Armani,Sì Passione,8,Heliotrope,heliotrope
+Giorgio Armani,Sì Passione,9,Jasmine,jasmine
+Giorgio Armani,Sì Passione,10,Vanilla,vanilla
+Giorgio Armani,Sì Passione,11,Cedar,cedar
+Giorgio Armani,Sì Passione,12,Patchouli,patchouli
+Giorgio Armani,Sì Passione,13,Amberwood,amberwood
+Hermès,Twilly d’Hermès,0,Ginger,ginger
+Hermès,Twilly d’Hermès,1,Bitter,bitter
+Hermès,Twilly d’Hermès,2,Orange,orange
+Hermès,Twilly d’Hermès,3,Bergamot,bergamot
+Hermès,Twilly d’Hermès,4,Tuberose,tuberose
+Hermès,Twilly d’Hermès,5,Orange,orange
+Hermès,Twilly d’Hermès,6,Blossom,blossom
+Hermès,Twilly d’Hermès,7,Jasmine,jasmine
+Hermès,Twilly d’Hermès,8,Sandalwood,sandalwood
+Hermès,Twilly d’Hermès,9,Vanilla,vanilla
+Narciso Rodriguez,Fleur Musc for Her,0,Pink,pink
+Narciso Rodriguez,Fleur Musc for Her,1,Pepper,pepper
+Narciso Rodriguez,Fleur Musc for Her,2,Rose,rose
+Narciso Rodriguez,Fleur Musc for Her,3,Musk,musk
+Narciso Rodriguez,Fleur Musc for Her,4,Peony,peony
+Narciso Rodriguez,Fleur Musc for Her,5,Patchouli,patchouli
+Narciso Rodriguez,Fleur Musc for Her,6,Violet,violet
+Narciso Rodriguez,Fleur Musc for Her,7,Amber,amber
+Chanel,Gabrielle,0,Grapefruit,grapefruit
+Chanel,Gabrielle,1,Mandarin,mandarin
+Chanel,Gabrielle,2,Orange,orange
+Chanel,Gabrielle,3,Black,black
+Chanel,Gabrielle,4,Currant,currant
+Chanel,Gabrielle,5,Orange,orange
+Chanel,Gabrielle,6,Blossom,blossom
+Chanel,Gabrielle,7,Jasmine,jasmine
+Chanel,Gabrielle,8,Ylang,ylang
+Chanel,Gabrielle,9,Ylang,ylang
+Chanel,Gabrielle,10,Tuberose,tuberose
+Chanel,Gabrielle,11,Lily,lily
+Chanel,Gabrielle,12,of,of
+Chanel,Gabrielle,13,the,the
+Chanel,Gabrielle,14,Valley,valley
+Chanel,Gabrielle,15,Pear,pear
+Chanel,Gabrielle,16,Pink,pink
+Chanel,Gabrielle,17,Pepper,pepper
+Chanel,Gabrielle,18,Musk,musk
+Chanel,Gabrielle,19,Sandalwood,sandalwood
+Chanel,Gabrielle,20,Cashmeran,cashmeran
+Chanel,Gabrielle,21,Orris,orris
+Versace,Versace Pour Femme Dylan Blue,0,Granny,granny
+Versace,Versace Pour Femme Dylan Blue,1,Smith,smith
+Versace,Versace Pour Femme Dylan Blue,2,apple,apple
+Versace,Versace Pour Femme Dylan Blue,3,Black,black
+Versace,Versace Pour Femme Dylan Blue,4,Currant,currant
+Versace,Versace Pour Femme Dylan Blue,5,Clover,clover
+Versace,Versace Pour Femme Dylan Blue,6,Forget,forget
+Versace,Versace Pour Femme Dylan Blue,7,me,me
+Versace,Versace Pour Femme Dylan Blue,8,not,not
+Versace,Versace Pour Femme Dylan Blue,9,Shiso,shiso
+Versace,Versace Pour Femme Dylan Blue,10,Peach,peach
+Versace,Versace Pour Femme Dylan Blue,11,Rose,rose
+Versace,Versace Pour Femme Dylan Blue,12,Hip,hip
+Versace,Versace Pour Femme Dylan Blue,13,Petalia,petalia
+Versace,Versace Pour Femme Dylan Blue,14,Rose,rose
+Versace,Versace Pour Femme Dylan Blue,15,Jasmine,jasmine
+Versace,Versace Pour Femme Dylan Blue,16,Musk,musk
+Versace,Versace Pour Femme Dylan Blue,17,White,white
+Versace,Versace Pour Femme Dylan Blue,18,Woods,woods
+Versace,Versace Pour Femme Dylan Blue,19,Styrax,styrax
+Versace,Versace Pour Femme Dylan Blue,20,Patchouli,patchouli
+Christian Dior,Miss Dior Eau de Parfum (2017),0,Pink,pink
+Christian Dior,Miss Dior Eau de Parfum (2017),1,Pepper,pepper
+Christian Dior,Miss Dior Eau de Parfum (2017),2,Blood,blood
+Christian Dior,Miss Dior Eau de Parfum (2017),3,Orange,orange
+Christian Dior,Miss Dior Eau de Parfum (2017),4,Sweet,sweet
+Christian Dior,Miss Dior Eau de Parfum (2017),5,Orange,orange
+Christian Dior,Miss Dior Eau de Parfum (2017),6,Mandarin,mandarin
+Christian Dior,Miss Dior Eau de Parfum (2017),7,Orange,orange
+Christian Dior,Miss Dior Eau de Parfum (2017),8,Calabrian,calabrian
+Christian Dior,Miss Dior Eau de Parfum (2017),9,bergamot,bergamot
+Christian Dior,Miss Dior Eau de Parfum (2017),10,Lemon,lemon
+Christian Dior,Miss Dior Eau de Parfum (2017),11,Grasse,grasse
+Christian Dior,Miss Dior Eau de Parfum (2017),12,Rose,rose
+Christian Dior,Miss Dior Eau de Parfum (2017),13,Damask,damask
+Christian Dior,Miss Dior Eau de Parfum (2017),14,Rose,rose
+Christian Dior,Miss Dior Eau de Parfum (2017),15,Jasmine,jasmine
+Christian Dior,Miss Dior Eau de Parfum (2017),16,Leaf,leaf
+Christian Dior,Miss Dior Eau de Parfum (2017),17,Patchouli,patchouli
+Christian Dior,Miss Dior Eau de Parfum (2017),18,Palisander,palisander
+Christian Dior,Miss Dior Eau de Parfum (2017),19,Rosewood,rosewood
+Guerlain,Insolence Eau de Parfum,1,Violet,violet
+Guerlain,Insolence Eau de Parfum,2,Powdery,powdery
+Guerlain,Insolence Eau de Parfum,3,Notes,notes
+Guerlain,Insolence Eau de Parfum,4,iris,iris
+Guerlain,Insolence Eau de Parfum,5,Red,red
+Guerlain,Insolence Eau de Parfum,6,Berries,berries
+Lancome,La Vie est Belle L'Éclat,0,Bergamot,bergamot
+Lancome,La Vie est Belle L'Éclat,1,Mandarin,mandarin
+Lancome,La Vie est Belle L'Éclat,2,Orange,orange
+Lancome,La Vie est Belle L'Éclat,3,Freesia,freesia
+Lancome,La Vie est Belle L'Éclat,4,Orange,orange
+Lancome,La Vie est Belle L'Éclat,5,Blossom,blossom
+Lancome,La Vie est Belle L'Éclat,6,White,white
+Lancome,La Vie est Belle L'Éclat,7,Flowers,flowers
+Lancome,La Vie est Belle L'Éclat,8,iris,iris
+Lancome,La Vie est Belle L'Éclat,9,Jasmine,jasmine
+Lancome,La Vie est Belle L'Éclat,10,Sambac,sambac
+Lancome,La Vie est Belle L'Éclat,11,Vanilla,vanilla
+Lancome,La Vie est Belle L'Éclat,12,Sandalwood,sandalwood
+Lancome,La Vie est Belle L'Éclat,13,Patchouli,patchouli
+Guerlain,L'Heure Bleue Eau de Parfum,0,Anise,anise
+Guerlain,L'Heure Bleue Eau de Parfum,1,Neroli,neroli
+Guerlain,L'Heure Bleue Eau de Parfum,2,Coriander,coriander
+Guerlain,L'Heure Bleue Eau de Parfum,3,Bergamot,bergamot
+Guerlain,L'Heure Bleue Eau de Parfum,4,Lemon,lemon
+Guerlain,L'Heure Bleue Eau de Parfum,5,Heliotrope,heliotrope
+Guerlain,L'Heure Bleue Eau de Parfum,6,Carnation,carnation
+Guerlain,L'Heure Bleue Eau de Parfum,7,Violet,violet
+Guerlain,L'Heure Bleue Eau de Parfum,8,Cloves,cloves
+Guerlain,L'Heure Bleue Eau de Parfum,9,Neroli,neroli
+Guerlain,L'Heure Bleue Eau de Parfum,10,Ylang,ylang
+Guerlain,L'Heure Bleue Eau de Parfum,11,Ylang,ylang
+Guerlain,L'Heure Bleue Eau de Parfum,12,Bulgarian,bulgarian
+Guerlain,L'Heure Bleue Eau de Parfum,13,Rose,rose
+Guerlain,L'Heure Bleue Eau de Parfum,14,Jasmine,jasmine
+Guerlain,L'Heure Bleue Eau de Parfum,15,Orchid,orchid
+Guerlain,L'Heure Bleue Eau de Parfum,16,Tuberose,tuberose
+Guerlain,L'Heure Bleue Eau de Parfum,17,iris,iris
+Guerlain,L'Heure Bleue Eau de Parfum,18,Vanilla,vanilla
+Guerlain,L'Heure Bleue Eau de Parfum,19,Benzoin,benzoin
+Guerlain,L'Heure Bleue Eau de Parfum,20,Sandalwood,sandalwood
+Guerlain,L'Heure Bleue Eau de Parfum,21,Tonka,tonka
+Guerlain,L'Heure Bleue Eau de Parfum,22,Bean,bean
+Guerlain,L'Heure Bleue Eau de Parfum,23,Musk,musk
+Guerlain,L'Heure Bleue Eau de Parfum,24,Vetiver,vetiver
+Jennifer Lopez,Glow,0,Neroli,neroli
+Jennifer Lopez,Glow,1,Orange,orange
+Jennifer Lopez,Glow,2,Blossom,blossom
+Jennifer Lopez,Glow,3,Grapefruit,grapefruit
+Jennifer Lopez,Glow,4,Jasmine,jasmine
+Jennifer Lopez,Glow,5,Rose,rose
+Jennifer Lopez,Glow,6,Tuberose,tuberose
+Jennifer Lopez,Glow,7,Musk,musk
+Jennifer Lopez,Glow,8,Sandalwood,sandalwood
+Jennifer Lopez,Glow,9,Orris,orris
+Jennifer Lopez,Glow,10,Root,root
+Jennifer Lopez,Glow,11,Vanilla,vanilla
+Jennifer Lopez,Glow,12,Amber,amber
+Chanel,Coco Mademoiselle,0,Orange,orange
+Chanel,Coco Mademoiselle,1,Mandarin,mandarin
+Chanel,Coco Mademoiselle,2,Orange,orange
+Chanel,Coco Mademoiselle,3,Bergamot,bergamot
+Chanel,Coco Mademoiselle,4,Orange,orange
+Chanel,Coco Mademoiselle,5,Blossom,blossom
+Chanel,Coco Mademoiselle,6,Turkish,turkish
+Chanel,Coco Mademoiselle,7,Rose,rose
+Chanel,Coco Mademoiselle,8,Jasmine,jasmine
+Chanel,Coco Mademoiselle,9,Mimosa,mimosa
+Chanel,Coco Mademoiselle,10,Ylang,ylang
+Chanel,Coco Mademoiselle,11,Ylang,ylang
+Chanel,Coco Mademoiselle,12,Patchouli,patchouli
+Chanel,Coco Mademoiselle,13,White,white
+Chanel,Coco Mademoiselle,14,Musk,musk
+Chanel,Coco Mademoiselle,15,Vanilla,vanilla
+Chanel,Coco Mademoiselle,16,Vetiver,vetiver
+Chanel,Coco Mademoiselle,17,Tonka,tonka
+Chanel,Coco Mademoiselle,18,Bean,bean
+Chanel,Coco Mademoiselle,19,Opoponax,opoponax
+Yves Saint Laurent,Libre,0,Lavender,lavender
+Yves Saint Laurent,Libre,1,Mandarin,mandarin
+Yves Saint Laurent,Libre,2,Orange,orange
+Yves Saint Laurent,Libre,3,Black,black
+Yves Saint Laurent,Libre,4,Currant,currant
+Yves Saint Laurent,Libre,5,Petitgrain,petitgrain
+Yves Saint Laurent,Libre,6,Lavender,lavender
+Yves Saint Laurent,Libre,7,Orange,orange
+Yves Saint Laurent,Libre,8,Blossom,blossom
+Yves Saint Laurent,Libre,9,Jasmine,jasmine
+Yves Saint Laurent,Libre,10,Madagascar,madagascar
+Yves Saint Laurent,Libre,11,Vanilla,vanilla
+Yves Saint Laurent,Libre,12,Ambergris,ambergris
+Yves Saint Laurent,Libre,13,Musk,musk
+Yves Saint Laurent,Libre,14,Cedar,cedar
+Rochas,Secret de Rochas Rose Intense,0,May,may
+Rochas,Secret de Rochas Rose Intense,1,Rose,rose
+Rochas,Secret de Rochas Rose Intense,2,Passionfruit,passionfruit
+Rochas,Secret de Rochas Rose Intense,3,Peach,peach
+Rochas,Secret de Rochas Rose Intense,4,Red,red
+Rochas,Secret de Rochas Rose Intense,5,Rose,rose
+Rochas,Secret de Rochas Rose Intense,6,Green,green
+Rochas,Secret de Rochas Rose Intense,7,Leaves,leaves
+Rochas,Secret de Rochas Rose Intense,8,Osmanthus,osmanthus
+Rochas,Secret de Rochas Rose Intense,9,Patchouli,patchouli
+Rochas,Secret de Rochas Rose Intense,10,Musk,musk
+Rochas,Secret de Rochas Rose Intense,11,Moss,moss
+Rochas,Secret de Rochas Rose Intense,12,Amber,amber
+Etat Libre d'Orange,Jasmin et Cigarette,1,Jasmine,jasmine
+Etat Libre d'Orange,Jasmin et Cigarette,2,Tobacco,tobacco
+Etat Libre d'Orange,Jasmin et Cigarette,3,Apricot,apricot
+Etat Libre d'Orange,Jasmin et Cigarette,4,Hay,hay
+Etat Libre d'Orange,Jasmin et Cigarette,5,Musk,musk
+Etat Libre d'Orange,Jasmin et Cigarette,6,Cedar,cedar
+Etat Libre d'Orange,Jasmin et Cigarette,7,Cumin,cumin
+Etat Libre d'Orange,Jasmin et Cigarette,8,Tonka,tonka
+Etat Libre d'Orange,Jasmin et Cigarette,9,Bean,bean
+Etat Libre d'Orange,Jasmin et Cigarette,10,Amber,amber
+Frederic Malle,En Passant,1,Lilac,lilac
+Frederic Malle,En Passant,2,Watery,watery
+Frederic Malle,En Passant,3,Notes,notes
+Frederic Malle,En Passant,4,Cucumber,cucumber
+Frederic Malle,En Passant,5,Wheat,wheat
+Frederic Malle,En Passant,6,Petitgrain,petitgrain
+Lancome,Idôle,0,Pear,pear
+Lancome,Idôle,1,Bergamot,bergamot
+Lancome,Idôle,2,Turkish,turkish
+Lancome,Idôle,3,Rose,rose
+Lancome,Idôle,4,Rose,rose
+Lancome,Idôle,5,de,de
+Lancome,Idôle,6,Mai,mai
+Lancome,Idôle,7,Indian,indian
+Lancome,Idôle,8,Jasmine,jasmine
+Lancome,Idôle,9,White,white
+Lancome,Idôle,10,Musk,musk
+Lancome,Idôle,11,Vanilla,vanilla
+Narciso Rodriguez,Pure Musc For Her,0,Musk,musk
+Narciso Rodriguez,Pure Musc For Her,1,Flowers,flowers
+Narciso Rodriguez,Pure Musc For Her,2,Cashmeran,cashmeran
+Jean Paul Gaultier,La Belle,0,Pear,pear
+Jean Paul Gaultier,La Belle,1,Vetiver,vetiver
+Jean Paul Gaultier,La Belle,2,Vanilla,vanilla
+Guerlain,Mon Guerlain Eau de Parfum Intense,0,Lavender,lavender
+Guerlain,Mon Guerlain Eau de Parfum Intense,1,Mandarin,mandarin
+Guerlain,Mon Guerlain Eau de Parfum Intense,2,Orange,orange
+Guerlain,Mon Guerlain Eau de Parfum Intense,3,Bergamot,bergamot
+Guerlain,Mon Guerlain Eau de Parfum Intense,4,Tahitian,tahitian
+Guerlain,Mon Guerlain Eau de Parfum Intense,5,Vanilla,vanilla
+Guerlain,Mon Guerlain Eau de Parfum Intense,6,Madagascar,madagascar
+Guerlain,Mon Guerlain Eau de Parfum Intense,7,Vanilla,vanilla
+Guerlain,Mon Guerlain Eau de Parfum Intense,8,iris,iris
+Guerlain,Mon Guerlain Eau de Parfum Intense,9,Jasmine,jasmine
+Guerlain,Mon Guerlain Eau de Parfum Intense,10,Sambac,sambac
+Guerlain,Mon Guerlain Eau de Parfum Intense,11,Rose,rose
+Guerlain,Mon Guerlain Eau de Parfum Intense,12,Coumarin,coumarin
+Guerlain,Mon Guerlain Eau de Parfum Intense,13,Patchouli,patchouli
+Guerlain,Mon Guerlain Eau de Parfum Intense,14,Licorice,licorice
+Guerlain,Mon Guerlain Eau de Parfum Intense,15,Benzoin,benzoin
+Guerlain,Mon Guerlain Eau de Parfum Intense,16,Australian,australian
+Guerlain,Mon Guerlain Eau de Parfum Intense,17,Sandalwood,sandalwood
+Guerlain,Mon Guerlain Eau de Parfum Intense,18,White,white
+Guerlain,Mon Guerlain Eau de Parfum Intense,19,Musk,musk
+Giorgio Armani,Sì Fiori,0,Black,black
+Giorgio Armani,Sì Fiori,1,Currant,currant
+Giorgio Armani,Sì Fiori,2,Green,green
+Giorgio Armani,Sì Fiori,3,Mandarin,mandarin
+Giorgio Armani,Sì Fiori,4,Neroli,neroli
+Giorgio Armani,Sì Fiori,5,Rose,rose
+Giorgio Armani,Sì Fiori,6,Patchouli,patchouli
+Giorgio Armani,Sì Fiori,7,Oakmoss,oakmoss
+Giorgio Armani,Sì Fiori,8,Vanilla,vanilla
+Giorgio Armani,Sì Fiori,9,White,white
+Giorgio Armani,Sì Fiori,10,Musk,musk
+Chanel,Gabrielle Essence,0,Citruses,citruses
+Chanel,Gabrielle Essence,1,Peach,peach
+Chanel,Gabrielle Essence,2,Red,red
+Chanel,Gabrielle Essence,3,Fruits,fruits
+Chanel,Gabrielle Essence,4,Petitgrain,petitgrain
+Chanel,Gabrielle Essence,5,Black,black
+Chanel,Gabrielle Essence,6,Currant,currant
+Chanel,Gabrielle Essence,7,White,white
+Chanel,Gabrielle Essence,8,Flowers,flowers
+Chanel,Gabrielle Essence,9,Tuberose,tuberose
+Chanel,Gabrielle Essence,10,Ylang,ylang
+Chanel,Gabrielle Essence,11,Ylang,ylang
+Chanel,Gabrielle Essence,12,Jasmine,jasmine
+Chanel,Gabrielle Essence,13,Orange,orange
+Chanel,Gabrielle Essence,14,Blossom,blossom
+Chanel,Gabrielle Essence,15,Coconut,coconut
+Chanel,Gabrielle Essence,16,Musk,musk
+Chanel,Gabrielle Essence,17,Sandalwood,sandalwood
+Chanel,Gabrielle Essence,18,Vanilla,vanilla
+Giorgio Armani,Si,0,Cassis,cassis
+Giorgio Armani,Si,1,May,may
+Giorgio Armani,Si,2,Rose,rose
+Giorgio Armani,Si,3,Freesia,freesia
+Giorgio Armani,Si,4,Vanilla,vanilla
+Giorgio Armani,Si,5,Patchouli,patchouli
+Giorgio Armani,Si,6,Ambroxan,ambroxan
+Giorgio Armani,Si,7,Woody,woody
+Giorgio Armani,Si,8,Notes,notes
+Jo Malone London,Peony & Blush Suede,0,Red,red
+Jo Malone London,Peony & Blush Suede,1,Apple,apple
+Jo Malone London,Peony & Blush Suede,2,Peony,peony
+Jo Malone London,Peony & Blush Suede,3,Rose,rose
+Jo Malone London,Peony & Blush Suede,4,Jasmine,jasmine
+Jo Malone London,Peony & Blush Suede,5,Carnation,carnation
+Jo Malone London,Peony & Blush Suede,6,Suede,suede
+Tom Ford,Plum Japonais,0,Cinnamon,cinnamon
+Tom Ford,Plum Japonais,1,Saffron,saffron
+Tom Ford,Plum Japonais,2,Japanese,japanese
+Tom Ford,Plum Japonais,3,Plum,plum
+Tom Ford,Plum Japonais,4,Plum,plum
+Tom Ford,Plum Japonais,5,Blossom,blossom
+Tom Ford,Plum Japonais,6,Immortelle,immortelle
+Tom Ford,Plum Japonais,7,Camellia,camellia
+Tom Ford,Plum Japonais,8,Liquor,liquor
+Tom Ford,Plum Japonais,9,Cypress,cypress
+Tom Ford,Plum Japonais,10,Agarwood,agarwood
+Tom Ford,Plum Japonais,11,Oud,oud
+Tom Ford,Plum Japonais,12,Amber,amber
+Tom Ford,Plum Japonais,13,Benzoin,benzoin
+Tom Ford,Plum Japonais,14,Fir,fir
+Tom Ford,Plum Japonais,15,Vanilla,vanilla
+Hermès,Jour d'Hermes,0,Grapefruit,grapefruit
+Hermès,Jour d'Hermes,1,Lemon,lemon
+Hermès,Jour d'Hermes,2,Watery,watery
+Hermès,Jour d'Hermes,3,Notes,notes
+Hermès,Jour d'Hermes,4,White,white
+Hermès,Jour d'Hermes,5,Flowers,flowers
+Hermès,Jour d'Hermes,6,Gardenia,gardenia
+Hermès,Jour d'Hermes,7,Green,green
+Hermès,Jour d'Hermes,8,Notes,notes
+Hermès,Jour d'Hermes,9,Sweet,sweet
+Hermès,Jour d'Hermes,10,Pea,pea
+Hermès,Jour d'Hermes,11,Musk,musk
+Hermès,Jour d'Hermes,12,Woody,woody
+Hermès,Jour d'Hermes,13,Notes,notes
+Versace,Bright Crystal Absolu,0,Pomegranate,pomegranate
+Versace,Bright Crystal Absolu,1,Yuzu,yuzu
+Versace,Bright Crystal Absolu,2,Water,water
+Versace,Bright Crystal Absolu,3,Notes,notes
+Versace,Bright Crystal Absolu,4,Peony,peony
+Versace,Bright Crystal Absolu,5,Raspberry,raspberry
+Versace,Bright Crystal Absolu,6,Lotus,lotus
+Versace,Bright Crystal Absolu,7,Magnolia,magnolia
+Versace,Bright Crystal Absolu,8,Musk,musk
+Versace,Bright Crystal Absolu,9,Mahogany,mahogany
+Versace,Bright Crystal Absolu,10,Amber,amber
+Dolce&Gabbana,Dolce&Gabbana Pour Femme Intense,0,Neroli,neroli
+Dolce&Gabbana,Dolce&Gabbana Pour Femme Intense,1,Green,green
+Dolce&Gabbana,Dolce&Gabbana Pour Femme Intense,2,Mandarin,mandarin
+Dolce&Gabbana,Dolce&Gabbana Pour Femme Intense,3,Orange,orange
+Dolce&Gabbana,Dolce&Gabbana Pour Femme Intense,4,Blossom,blossom
+Dolce&Gabbana,Dolce&Gabbana Pour Femme Intense,5,Tuberose,tuberose
+Dolce&Gabbana,Dolce&Gabbana Pour Femme Intense,6,Marshmallow,marshmallow
+Dolce&Gabbana,Dolce&Gabbana Pour Femme Intense,7,Sandalwood,sandalwood
+Chloé,Chloe Roses De Chloe,0,Litchi,litchi
+Chloé,Chloe Roses De Chloe,1,Bergamot,bergamot
+Chloé,Chloe Roses De Chloe,2,Tarragon,tarragon
+Chloé,Chloe Roses De Chloe,3,Lemon,lemon
+Chloé,Chloe Roses De Chloe,4,Damask,damask
+Chloé,Chloe Roses De Chloe,5,Rose,rose
+Chloé,Chloe Roses De Chloe,6,Magnolia,magnolia
+Chloé,Chloe Roses De Chloe,7,Cedar,cedar
+Chloé,Chloe Roses De Chloe,8,Apple,apple
+Chloé,Chloe Roses De Chloe,9,Black,black
+Chloé,Chloe Roses De Chloe,10,Currant,currant
+Chloé,Chloe Roses De Chloe,11,Peach,peach
+Chloé,Chloe Roses De Chloe,12,White,white
+Chloé,Chloe Roses De Chloe,13,Musk,musk
+Chloé,Chloe Roses De Chloe,14,Amber,amber
+Chloé,Chloe Roses De Chloe,15,Woody,woody
+Chloé,Chloe Roses De Chloe,16,Notes,notes
+Parfums de Marly,Meliora,0,Black,black
+Parfums de Marly,Meliora,1,Currant,currant
+Parfums de Marly,Meliora,2,Red,red
+Parfums de Marly,Meliora,3,Berries,berries
+Parfums de Marly,Meliora,4,Cassis,cassis
+Parfums de Marly,Meliora,5,Rose,rose
+Parfums de Marly,Meliora,6,Ylang,ylang
+Parfums de Marly,Meliora,7,Ylang,ylang
+Parfums de Marly,Meliora,8,Lily,lily
+Parfums de Marly,Meliora,9,of,of
+Parfums de Marly,Meliora,10,the,the
+Parfums de Marly,Meliora,11,Valley,valley
+Parfums de Marly,Meliora,12,Vanilla,vanilla
+Parfums de Marly,Meliora,13,Musk,musk
+Juicy Couture,Viva La Juicy Noir,0,Wild,wild
+Juicy Couture,Viva La Juicy Noir,1,berries,berries
+Juicy Couture,Viva La Juicy Noir,2,Mandarin,mandarin
+Juicy Couture,Viva La Juicy Noir,3,Orange,orange
+Juicy Couture,Viva La Juicy Noir,4,Honeysuckle,honeysuckle
+Juicy Couture,Viva La Juicy Noir,5,Gardenia,gardenia
+Juicy Couture,Viva La Juicy Noir,6,Jasmine,jasmine
+Juicy Couture,Viva La Juicy Noir,7,Caramel,caramel
+Juicy Couture,Viva La Juicy Noir,8,Vanilla,vanilla
+Juicy Couture,Viva La Juicy Noir,9,Amber,amber
+Juicy Couture,Viva La Juicy Noir,10,Sandalwood,sandalwood
+Trussardi,My Name,0,Heliotrope,heliotrope
+Trussardi,My Name,1,White,white
+Trussardi,My Name,2,Violet,violet
+Trussardi,My Name,3,Lilac,lilac
+Trussardi,My Name,4,Musk,musk
+Trussardi,My Name,5,Arum,arum
+Trussardi,My Name,6,Lily,lily
+Trussardi,My Name,7,Vanilla,vanilla
+Trussardi,My Name,8,Amber,amber
+Lalique,Satine,0,Heliotrope,heliotrope
+Lalique,Satine,1,Gardenia,gardenia
+Lalique,Satine,2,Jasmine,jasmine
+Lalique,Satine,3,Tonka,tonka
+Lalique,Satine,4,Bean,bean
+Lalique,Satine,5,Vanila,vanila
+Lalique,Satine,6,Pink,pink
+Lalique,Satine,7,Pepper,pepper
+Lalique,Satine,8,Sandalwood,sandalwood
+Lalique,Satine,9,Patchouli,patchouli
+Lalique,Satine,10,Vetiver,vetiver
+Adam Levine,Adam Levine for Women,0,Spices,spices
+Adam Levine,Adam Levine for Women,1,Marigold,marigold
+Adam Levine,Adam Levine for Women,2,Saffron,saffron
+Adam Levine,Adam Levine for Women,3,Citruses,citruses
+Adam Levine,Adam Levine for Women,4,Australian,australian
+Adam Levine,Adam Levine for Women,5,Sandalwood,sandalwood
+Adam Levine,Adam Levine for Women,6,Indian,indian
+Adam Levine,Adam Levine for Women,7,Jasmine,jasmine
+Adam Levine,Adam Levine for Women,8,Rose,rose
+Adam Levine,Adam Levine for Women,9,Petals,petals
+Adam Levine,Adam Levine for Women,10,Vanila,vanila
+Adam Levine,Adam Levine for Women,11,Benzoin,benzoin
+Amouage,Fate for Women,0,Cinnamon,cinnamon
+Amouage,Fate for Women,1,Pepper,pepper
+Amouage,Fate for Women,2,Red,red
+Amouage,Fate for Women,3,Chilli,chilli
+Amouage,Fate for Women,4,Pepper,pepper
+Amouage,Fate for Women,5,Bergamot,bergamot
+Amouage,Fate for Women,6,Incense,incense
+Amouage,Fate for Women,7,Narcissus,narcissus
+Amouage,Fate for Women,8,Labdanum,labdanum
+Amouage,Fate for Women,9,Rose,rose
+Amouage,Fate for Women,10,Jasmine,jasmine
+Amouage,Fate for Women,11,Incense,incense
+Amouage,Fate for Women,12,Benzoin,benzoin
+Amouage,Fate for Women,13,Vanila,vanila
+Amouage,Fate for Women,14,Castoreum,castoreum
+Amouage,Fate for Women,15,Leather,leather
+Amouage,Fate for Women,16,Oakmoss,oakmoss
+Amouage,Fate for Women,17,Patchouli,patchouli
+Parfums de Marly,Safanad,0,Pear,pear
+Parfums de Marly,Safanad,1,Orange,orange
+Parfums de Marly,Safanad,2,Orange,orange
+Parfums de Marly,Safanad,3,Blossom,blossom
+Parfums de Marly,Safanad,4,Ylang,ylang
+Parfums de Marly,Safanad,5,Ylang,ylang
+Parfums de Marly,Safanad,6,iris,iris
+Parfums de Marly,Safanad,7,Vanilla,vanilla
+Parfums de Marly,Safanad,8,Sandalwood,sandalwood
+Parfums de Marly,Safanad,9,Amber,amber
+Yves Saint Laurent,Manifesto l'Elixir,0,Bergamot,bergamot
+Yves Saint Laurent,Manifesto l'Elixir,1,Mandarin,mandarin
+Yves Saint Laurent,Manifesto l'Elixir,2,Orange,orange
+Yves Saint Laurent,Manifesto l'Elixir,3,Heliotrope,heliotrope
+Yves Saint Laurent,Manifesto l'Elixir,4,Jasmine,jasmine
+Yves Saint Laurent,Manifesto l'Elixir,5,Sambac,sambac
+Yves Saint Laurent,Manifesto l'Elixir,6,Tuberose,tuberose
+Yves Saint Laurent,Manifesto l'Elixir,7,Vanilla,vanilla
+Yves Saint Laurent,Manifesto l'Elixir,8,Cashmere,cashmere
+Yves Saint Laurent,Manifesto l'Elixir,9,Wood,wood
+Yves Saint Laurent,Manifesto l'Elixir,10,Ambroxan,ambroxan
+Lancome,La Nuit Tresor,0,Pear,pear
+Lancome,La Nuit Tresor,1,Tangerine,tangerine
+Lancome,La Nuit Tresor,2,Bergamot,bergamot
+Lancome,La Nuit Tresor,3,Strawberry,strawberry
+Lancome,La Nuit Tresor,4,Vanilla,vanilla
+Lancome,La Nuit Tresor,5,orchid,orchid
+Lancome,La Nuit Tresor,6,Black,black
+Lancome,La Nuit Tresor,7,Rose,rose
+Lancome,La Nuit Tresor,8,Passionfruit,passionfruit
+Lancome,La Nuit Tresor,9,Praline,praline
+Lancome,La Nuit Tresor,10,Caramel,caramel
+Lancome,La Nuit Tresor,11,Litchi,litchi
+Lancome,La Nuit Tresor,12,Patchouli,patchouli
+Lancome,La Nuit Tresor,13,Vanilla,vanilla
+Lancome,La Nuit Tresor,14,Incense,incense
+Lancome,La Nuit Tresor,15,Coffee,coffee
+Lancome,La Nuit Tresor,16,Licorice,licorice
+Lancome,La Nuit Tresor,17,Coumarin,coumarin
+Lancome,La Nuit Tresor,18,Papyrus,papyrus
+Paco Rabanne,Olympéa,0,Water,water
+Paco Rabanne,Olympéa,1,Jasmine,jasmine
+Paco Rabanne,Olympéa,2,Green,green
+Paco Rabanne,Olympéa,3,Mandarin,mandarin
+Paco Rabanne,Olympéa,4,Ginger,ginger
+Paco Rabanne,Olympéa,5,flower,flower
+Paco Rabanne,Olympéa,6,Salt,salt
+Paco Rabanne,Olympéa,7,Vanilla,vanilla
+Paco Rabanne,Olympéa,8,Cashmere,cashmere
+Paco Rabanne,Olympéa,9,Wood,wood
+Paco Rabanne,Olympéa,10,Ambergris,ambergris
+Paco Rabanne,Olympéa,11,Sandalwood,sandalwood
+Tom Ford,Noir Pour Femme,0,Ginger,ginger
+Tom Ford,Noir Pour Femme,1,Bitter,bitter
+Tom Ford,Noir Pour Femme,2,Orange,orange
+Tom Ford,Noir Pour Femme,3,Mandarin,mandarin
+Tom Ford,Noir Pour Femme,4,Orange,orange
+Tom Ford,Noir Pour Femme,5,Bergamot,bergamot
+Tom Ford,Noir Pour Femme,6,Kulfi,kulfi
+Tom Ford,Noir Pour Femme,7,Rose,rose
+Tom Ford,Noir Pour Femme,8,Orange,orange
+Tom Ford,Noir Pour Femme,9,Blossom,blossom
+Tom Ford,Noir Pour Femme,10,Jasmine,jasmine
+Tom Ford,Noir Pour Femme,11,Vanilla,vanilla
+Tom Ford,Noir Pour Femme,12,Amber,amber
+Tom Ford,Noir Pour Femme,13,Sandalwood,sandalwood
+Tom Ford,Noir Pour Femme,14,Mastic,mastic
+Tom Ford,Noir Pour Femme,15,or,or
+Tom Ford,Noir Pour Femme,16,Lentisque,lentisque
+Marc Jacobs,Decadence,0,Plum,plum
+Marc Jacobs,Decadence,1,Saffron,saffron
+Marc Jacobs,Decadence,2,iris,iris
+Marc Jacobs,Decadence,3,Orris,orris
+Marc Jacobs,Decadence,4,Bulgarian,bulgarian
+Marc Jacobs,Decadence,5,Rose,rose
+Marc Jacobs,Decadence,6,Jasmine,jasmine
+Marc Jacobs,Decadence,7,Sambac,sambac
+Marc Jacobs,Decadence,8,Amber,amber
+Marc Jacobs,Decadence,9,Vetiver,vetiver
+Marc Jacobs,Decadence,10,Papyrus,papyrus
+Valentino,Valentino Donna,0,Bergamot,bergamot
+Valentino,Valentino Donna,1,iris,iris
+Valentino,Valentino Donna,2,Bulgarian,bulgarian
+Valentino,Valentino Donna,3,Rose,rose
+Valentino,Valentino Donna,4,Vanilla,vanilla
+Valentino,Valentino Donna,5,Leather,leather
+Valentino,Valentino Donna,6,Patchouli,patchouli
+Chanel,Chanel No 5 Eau Premiere (2015),0,Aldehydes,aldehydes
+Chanel,Chanel No 5 Eau Premiere (2015),1,Ylang,ylang
+Chanel,Chanel No 5 Eau Premiere (2015),2,Ylang,ylang
+Chanel,Chanel No 5 Eau Premiere (2015),3,Neroli,neroli
+Chanel,Chanel No 5 Eau Premiere (2015),4,Jasmine,jasmine
+Chanel,Chanel No 5 Eau Premiere (2015),5,Rose,rose
+Chanel,Chanel No 5 Eau Premiere (2015),6,Vanilla,vanilla
+Chanel,Chanel No 5 Eau Premiere (2015),7,Sandalwood,sandalwood
+Chanel,Chanel No 5 Eau Premiere (2015),8,Vetiver,vetiver
+Nina Ricci,L’Extase,0,Pink,pink
+Nina Ricci,L’Extase,1,Pepper,pepper
+Nina Ricci,L’Extase,2,Peach,peach
+Nina Ricci,L’Extase,3,Pear,pear
+Nina Ricci,L’Extase,4,Rose,rose
+Nina Ricci,L’Extase,5,Raspberry,raspberry
+Nina Ricci,L’Extase,6,White,white
+Nina Ricci,L’Extase,7,Flowers,flowers
+Nina Ricci,L’Extase,8,Jasmine,jasmine
+Nina Ricci,L’Extase,9,Caramel,caramel
+Nina Ricci,L’Extase,10,Siam,siam
+Nina Ricci,L’Extase,11,Benzoin,benzoin
+Nina Ricci,L’Extase,12,Amber,amber
+Nina Ricci,L’Extase,13,Vanilla,vanilla
+Nina Ricci,L’Extase,14,Musk,musk
+Nina Ricci,L’Extase,15,Patchouli,patchouli
+Nina Ricci,L’Extase,16,Virginia,virginia
+Nina Ricci,L’Extase,17,Cedar,cedar
+Agent Provocateur,Fatale Intense ,0,Licorice,licorice
+Agent Provocateur,Fatale Intense ,1,Dewberry,dewberry
+Agent Provocateur,Fatale Intense ,2,Chili,chili
+Agent Provocateur,Fatale Intense ,3,Pepper,pepper
+Agent Provocateur,Fatale Intense ,4,Champaca,champaca
+Agent Provocateur,Fatale Intense ,5,Red,red
+Agent Provocateur,Fatale Intense ,6,Rose,rose
+Agent Provocateur,Fatale Intense ,7,Lotus,lotus
+Agent Provocateur,Fatale Intense ,8,Vanilla,vanilla
+Agent Provocateur,Fatale Intense ,9,Leather,leather
+Agent Provocateur,Fatale Intense ,10,Amber,amber
+Ariana Grande,Ari,0,Raspberry,raspberry
+Ariana Grande,Ari,1,Pear,pear
+Ariana Grande,Ari,2,Grapefruit,grapefruit
+Ariana Grande,Ari,3,Vanilla,vanilla
+Ariana Grande,Ari,4,orchid,orchid
+Ariana Grande,Ari,5,Lily,lily
+Ariana Grande,Ari,6,of,of
+Ariana Grande,Ari,7,the,the
+Ariana Grande,Ari,8,Valley,valley
+Ariana Grande,Ari,9,Rose,rose
+Ariana Grande,Ari,10,Marshmallow,marshmallow
+Ariana Grande,Ari,11,Musk,musk
+Ariana Grande,Ari,12,Woody,woody
+Ariana Grande,Ari,13,Notes,notes
+Avon,HerStory Love Inspires,0,Jasmine,jasmine
+Avon,HerStory Love Inspires,1,Apricot,apricot
+Avon,HerStory Love Inspires,2,Mandarin,mandarin
+Avon,HerStory Love Inspires,3,Orange,orange
+Avon,HerStory Love Inspires,4,iris,iris
+Avon,HerStory Love Inspires,5,Gardenia,gardenia
+Avon,HerStory Love Inspires,6,Brandy,brandy
+Avon,HerStory Love Inspires,7,Amber,amber
+Avon,HerStory Love Inspires,8,Vetiver,vetiver
+Avon,HerStory Love Inspires,9,Praline,praline
+Britney Spears,Fantasy,0,Kiwi,kiwi
+Britney Spears,Fantasy,1,Red,red
+Britney Spears,Fantasy,2,Litchi,litchi
+Britney Spears,Fantasy,3,Quince,quince
+Britney Spears,Fantasy,4,White,white
+Britney Spears,Fantasy,5,Chocolate,chocolate
+Britney Spears,Fantasy,6,Cupcake,cupcake
+Britney Spears,Fantasy,7,Orchid,orchid
+Britney Spears,Fantasy,8,Jasmine,jasmine
+Britney Spears,Fantasy,9,Musk,musk
+Britney Spears,Fantasy,10,Woodsy,woodsy
+Britney Spears,Fantasy,11,Notes,notes
+Britney Spears,Fantasy,12,Orris,orris
+Britney Spears,Fantasy,13,Root,root
+Paco Rabanne,Olympéa Aqua Eau de Parfum Légère,0,Clementine,clementine
+Paco Rabanne,Olympéa Aqua Eau de Parfum Légère,1,Lemon,lemon
+Paco Rabanne,Olympéa Aqua Eau de Parfum Légère,2,Blossom,blossom
+Paco Rabanne,Olympéa Aqua Eau de Parfum Légère,3,Water,water
+Paco Rabanne,Olympéa Aqua Eau de Parfum Légère,4,Jasmine,jasmine
+Paco Rabanne,Olympéa Aqua Eau de Parfum Légère,5,Solar,solar
+Paco Rabanne,Olympéa Aqua Eau de Parfum Légère,6,notes,notes
+Paco Rabanne,Olympéa Aqua Eau de Parfum Légère,7,Water,water
+Paco Rabanne,Olympéa Aqua Eau de Parfum Légère,8,Lily,lily
+Paco Rabanne,Olympéa Aqua Eau de Parfum Légère,9,Salt,salt
+Paco Rabanne,Olympéa Aqua Eau de Parfum Légère,10,Vanilla,vanilla
+Paco Rabanne,Olympéa Aqua Eau de Parfum Légère,11,Ambergris,ambergris
+Paco Rabanne,Olympéa Aqua Eau de Parfum Légère,12,Cashmere,cashmere
+Paco Rabanne,Olympéa Aqua Eau de Parfum Légère,13,Wood,wood
+The Master Perfumer,Absolute Iris N°39,1,iris,iris
+The Master Perfumer,Absolute Iris N°39,2,Patchouli,patchouli
+The Master Perfumer,Absolute Iris N°39,3,Musk,musk
+Lancome,Magie Noire Parfum,0,Cassis,cassis
+Lancome,Magie Noire Parfum,1,Cassia,cassia
+Lancome,Magie Noire Parfum,2,Galbanum,galbanum
+Lancome,Magie Noire Parfum,3,Bulgarian,bulgarian
+Lancome,Magie Noire Parfum,4,Rose,rose
+Lancome,Magie Noire Parfum,5,Raspberry,raspberry
+Lancome,Magie Noire Parfum,6,Hyacinth,hyacinth
+Lancome,Magie Noire Parfum,7,Bergamot,bergamot
+Lancome,Magie Noire Parfum,8,Honey,honey
+Lancome,Magie Noire Parfum,9,Narcissus,narcissus
+Lancome,Magie Noire Parfum,10,Orris,orris
+Lancome,Magie Noire Parfum,11,Root,root
+Lancome,Magie Noire Parfum,12,Cedar,cedar
+Lancome,Magie Noire Parfum,13,Tuberose,tuberose
+Lancome,Magie Noire Parfum,14,Ylang,ylang
+Lancome,Magie Noire Parfum,15,Ylang,ylang
+Lancome,Magie Noire Parfum,16,Jasmine,jasmine
+Lancome,Magie Noire Parfum,17,Lily,lily
+Lancome,Magie Noire Parfum,18,of,of
+Lancome,Magie Noire Parfum,19,the,the
+Lancome,Magie Noire Parfum,20,Valley,valley
+Lancome,Magie Noire Parfum,21,Oakmoss,oakmoss
+Lancome,Magie Noire Parfum,22,Myrrh,myrrh
+Lancome,Magie Noire Parfum,23,Incense,incense
+Lancome,Magie Noire Parfum,24,Civet,civet
+Lancome,Magie Noire Parfum,25,Spices,spices
+Lancome,Magie Noire Parfum,26,Patchouli,patchouli
+Lancome,Magie Noire Parfum,27,Ambergris,ambergris
+Lancome,Magie Noire Parfum,28,Sandalwood,sandalwood
+Lancome,Magie Noire Parfum,29,Vetiver,vetiver
+Lancome,Magie Noire Parfum,30,Musk,musk
+Anima Vinci,Rose Prana,0,Violet,violet
+Anima Vinci,Rose Prana,1,Leaf,leaf
+Anima Vinci,Rose Prana,2,Verbena,verbena
+Anima Vinci,Rose Prana,3,Pink,pink
+Anima Vinci,Rose Prana,4,Pepper,pepper
+Anima Vinci,Rose Prana,5,May,may
+Anima Vinci,Rose Prana,6,Rose,rose
+Anima Vinci,Rose Prana,7,Hedione,hedione
+Anima Vinci,Rose Prana,8,Oakmoss,oakmoss
+Anima Vinci,Rose Prana,9,White,white
+Anima Vinci,Rose Prana,10,Musk,musk
+Anima Vinci,Rose Prana,11,Woody,woody
+Anima Vinci,Rose Prana,12,Notes,notes
+Anima Vinci,Rose Prana,13,Vetiver,vetiver
+Anima Vinci,Rose Prana,14,Patchouli,patchouli
+Carolina Herrera,Good Girl,0,Almond,almond
+Carolina Herrera,Good Girl,1,Coffee,coffee
+Carolina Herrera,Good Girl,2,Bergamot,bergamot
+Carolina Herrera,Good Girl,3,Lemon,lemon
+Carolina Herrera,Good Girl,4,Tuberose,tuberose
+Carolina Herrera,Good Girl,5,Jasmine,jasmine
+Carolina Herrera,Good Girl,6,Sambac,sambac
+Carolina Herrera,Good Girl,7,Orris,orris
+Carolina Herrera,Good Girl,8,Orange,orange
+Carolina Herrera,Good Girl,9,Blossom,blossom
+Carolina Herrera,Good Girl,10,Bulgarian,bulgarian
+Carolina Herrera,Good Girl,11,Rose,rose
+Carolina Herrera,Good Girl,12,Tonka,tonka
+Carolina Herrera,Good Girl,13,Bean,bean
+Carolina Herrera,Good Girl,14,Cacao,cacao
+Carolina Herrera,Good Girl,15,Vanilla,vanilla
+Carolina Herrera,Good Girl,16,Praline,praline
+Carolina Herrera,Good Girl,17,Sandalwood,sandalwood
+Carolina Herrera,Good Girl,18,Amber,amber
+Carolina Herrera,Good Girl,19,Musk,musk
+Carolina Herrera,Good Girl,20,Cashmere,cashmere
+Carolina Herrera,Good Girl,21,Wood,wood
+Carolina Herrera,Good Girl,22,Patchouli,patchouli
+Carolina Herrera,Good Girl,23,Cinnamon,cinnamon
+Carolina Herrera,Good Girl,24,Cedar,cedar
+Mugler,Angel Muse,0,Pink,pink
+Mugler,Angel Muse,1,Pepper,pepper
+Mugler,Angel Muse,2,Grapefruit,grapefruit
+Mugler,Angel Muse,3,Hazelnut,hazelnut
+Mugler,Angel Muse,4,cocoa,cocoa
+Mugler,Angel Muse,5,spread,spread
+Mugler,Angel Muse,6,Patchouli,patchouli
+Mugler,Angel Muse,7,Vetiver,vetiver
+Narciso Rodriguez,Narciso Poudree,0,Jasmine,jasmine
+Narciso Rodriguez,Narciso Poudree,1,Bulgarian,bulgarian
+Narciso Rodriguez,Narciso Poudree,2,Rose,rose
+Narciso Rodriguez,Narciso Poudree,3,Orange,orange
+Narciso Rodriguez,Narciso Poudree,4,Blossom,blossom
+Narciso Rodriguez,Narciso Poudree,5,Musk,musk
+Narciso Rodriguez,Narciso Poudree,6,Coumarin,coumarin
+Narciso Rodriguez,Narciso Poudree,7,Cedar,cedar
+Narciso Rodriguez,Narciso Poudree,8,Vetiver,vetiver
+Narciso Rodriguez,Narciso Poudree,9,Patchouli,patchouli
+Chanel,Les Exclusifs de Chanel Bel Respiro,1,Green,green
+Chanel,Les Exclusifs de Chanel Bel Respiro,2,Notes,notes
+Chanel,Les Exclusifs de Chanel Bel Respiro,3,Grass,grass
+Chanel,Les Exclusifs de Chanel Bel Respiro,4,Leather,leather
+Chanel,Les Exclusifs de Chanel Bel Respiro,5,Flowers,flowers
+Yardley,Lily of the Valley,1,Lily,lily
+Yardley,Lily of the Valley,2,of,of
+Yardley,Lily of the Valley,3,the,the
+Yardley,Lily of the Valley,4,Valley,valley
+Yardley,Lily of the Valley,5,Green,green
+Yardley,Lily of the Valley,6,Notes,notes
+Yardley,Lily of the Valley,7,Jasmine,jasmine
+Yardley,Lily of the Valley,8,Gardenia,gardenia
+Yardley,Lily of the Valley,9,Geranium,geranium
+Yardley,Lily of the Valley,10,Magnolia,magnolia
+Girard,Lysval,0,Jasmine,jasmine
+Girard,Lysval,1,tincture,tincture
+Girard,Lysval,2,of,of
+Girard,Lysval,3,rose,rose
+Girard,Lysval,4,Ylang,ylang
+Girard,Lysval,5,Ylang,ylang
+Girard,Lysval,6,African,african
+Girard,Lysval,7,Orange,orange
+Girard,Lysval,8,flower,flower
+Girard,Lysval,9,iris,iris
+Girard,Lysval,10,Sandalwood,sandalwood
+Girard,Lysval,11,Benzoin,benzoin
+Girard,Lysval,12,Orris,orris
+Girard,Lysval,13,Water,water
+Girard,Lysval,14,Hyacinth,hyacinth
+Girard,Lysval,15,Freesia,freesia
+Girard,Lysval,16,Lily,lily
+Girard,Lysval,17,of,of
+Girard,Lysval,18,the,the
+Girard,Lysval,19,Valley,valley
+Nouvelle Etoile – Новая Заря,Novaya Zarya,0,Orange,orange
+Nouvelle Etoile – Новая Заря,Novaya Zarya,1,Blossom,blossom
+Nouvelle Etoile – Новая Заря,Novaya Zarya,2,Lilac,lilac
+Nouvelle Etoile – Новая Заря,Novaya Zarya,3,Aldehydes,aldehydes
+Nouvelle Etoile – Новая Заря,Novaya Zarya,4,Jasmine,jasmine
+Nouvelle Etoile – Новая Заря,Novaya Zarya,5,Neroli,neroli
+Nouvelle Etoile – Новая Заря,Novaya Zarya,6,Ylang,ylang
+Nouvelle Etoile – Новая Заря,Novaya Zarya,7,Ylang,ylang
+Nouvelle Etoile – Новая Заря,Novaya Zarya,8,Vetiver,vetiver
+Nouvelle Etoile – Новая Заря,Novaya Zarya,9,Benzoin,benzoin
+Nouvelle Etoile – Новая Заря,Novaya Zarya,10,Musk,musk
+Nouvelle Etoile – Новая Заря,Sweet Pea Душистый горошек,0,Aldehydes,aldehydes
+Nouvelle Etoile – Новая Заря,Sweet Pea Душистый горошек,1,Lily,lily
+Nouvelle Etoile – Новая Заря,Sweet Pea Душистый горошек,2,of,of
+Nouvelle Etoile – Новая Заря,Sweet Pea Душистый горошек,3,the,the
+Nouvelle Etoile – Новая Заря,Sweet Pea Душистый горошек,4,Valley,valley
+Nouvelle Etoile – Новая Заря,Sweet Pea Душистый горошек,5,Lilac,lilac
+Nouvelle Etoile – Новая Заря,Sweet Pea Душистый горошек,6,Green,green
+Nouvelle Etoile – Новая Заря,Sweet Pea Душистый горошек,7,Notes,notes
+Nouvelle Etoile – Новая Заря,Sweet Pea Душистый горошек,8,Rose,rose
+Nouvelle Etoile – Новая Заря,Sweet Pea Душистый горошек,9,Violet,violet
+Nouvelle Etoile – Новая Заря,Sweet Pea Душистый горошек,10,Musk,musk
+Nouvelle Etoile – Новая Заря,Sweet Pea Душистый горошек,11,Amber,amber
+Jardin de France,Eau perlee,0,Mandarin,mandarin
+Jardin de France,Eau perlee,1,Orange,orange
+Jardin de France,Eau perlee,2,Petitgrain,petitgrain
+Jardin de France,Eau perlee,3,Violet,violet
+Jardin de France,Eau perlee,4,Amalfi,amalfi
+Jardin de France,Eau perlee,5,Lemon,lemon
+Jardin de France,Eau perlee,6,Jasmine,jasmine
+Jardin de France,Eau perlee,7,Woodsy,woodsy
+Jardin de France,Eau perlee,8,Notes,notes
+Jardin de France,Eau perlee,9,African,african
+Jardin de France,Eau perlee,10,Orange,orange
+Jardin de France,Eau perlee,11,flower,flower
+Jardin de France,Eau perlee,12,Caramel,caramel
+Jardin de France,Eau perlee,13,Musk,musk
+Jardin de France,Eau perlee,14,Patchouli,patchouli
+Jardin de France,Eau nacree,0,Water,water
+Jardin de France,Eau nacree,1,Notes,notes
+Jardin de France,Eau nacree,2,Galbanum,galbanum
+Jardin de France,Eau nacree,3,Lily,lily
+Jardin de France,Eau nacree,4,Jasmine,jasmine
+Jardin de France,Eau nacree,5,Tuberose,tuberose
+Jardin de France,Eau nacree,6,Rose,rose
+Jardin de France,Eau nacree,7,Cyclamen,cyclamen
+Jardin de France,Eau nacree,8,Pepper,pepper
+Jardin de France,Eau nacree,9,Virginia,virginia
+Jardin de France,Eau nacree,10,Cedar,cedar
+Jardin de France,Eau nacree,11,Vanilla,vanilla
+Mury Paris,Heliotrope,1,Heliotrope,heliotrope
+Chanel,Chanel No 5 Parfum,0,Aldehydes,aldehydes
+Chanel,Chanel No 5 Parfum,1,Ylang,ylang
+Chanel,Chanel No 5 Parfum,2,Ylang,ylang
+Chanel,Chanel No 5 Parfum,3,Neroli,neroli
+Chanel,Chanel No 5 Parfum,4,Bergamot,bergamot
+Chanel,Chanel No 5 Parfum,5,Lemon,lemon
+Chanel,Chanel No 5 Parfum,6,iris,iris
+Chanel,Chanel No 5 Parfum,7,Jasmine,jasmine
+Chanel,Chanel No 5 Parfum,8,Rose,rose
+Chanel,Chanel No 5 Parfum,9,Orris,orris
+Chanel,Chanel No 5 Parfum,10,Root,root
+Chanel,Chanel No 5 Parfum,11,Lily,lily
+Chanel,Chanel No 5 Parfum,12,of,of
+Chanel,Chanel No 5 Parfum,13,the,the
+Chanel,Chanel No 5 Parfum,14,Valley,valley
+Chanel,Chanel No 5 Parfum,15,Civet,civet
+Chanel,Chanel No 5 Parfum,16,Amber,amber
+Chanel,Chanel No 5 Parfum,17,Sandalwood,sandalwood
+Chanel,Chanel No 5 Parfum,18,Musk,musk
+Chanel,Chanel No 5 Parfum,19,Moss,moss
+Chanel,Chanel No 5 Parfum,20,Vetiver,vetiver
+Chanel,Chanel No 5 Parfum,21,Vanilla,vanilla
+Chanel,Chanel No 5 Parfum,22,Patchouli,patchouli
+Chanel,Chanel No 5 Eau de Toilette,0,Aldehydes,aldehydes
+Chanel,Chanel No 5 Eau de Toilette,1,Ylang,ylang
+Chanel,Chanel No 5 Eau de Toilette,2,Ylang,ylang
+Chanel,Chanel No 5 Eau de Toilette,3,Neroli,neroli
+Chanel,Chanel No 5 Eau de Toilette,4,Amalfi,amalfi
+Chanel,Chanel No 5 Eau de Toilette,5,Lemon,lemon
+Chanel,Chanel No 5 Eau de Toilette,6,Bergamot,bergamot
+Chanel,Chanel No 5 Eau de Toilette,7,iris,iris
+Chanel,Chanel No 5 Eau de Toilette,8,Jasmine,jasmine
+Chanel,Chanel No 5 Eau de Toilette,9,Rose,rose
+Chanel,Chanel No 5 Eau de Toilette,10,Orris,orris
+Chanel,Chanel No 5 Eau de Toilette,11,Root,root
+Chanel,Chanel No 5 Eau de Toilette,12,Lily,lily
+Chanel,Chanel No 5 Eau de Toilette,13,of,of
+Chanel,Chanel No 5 Eau de Toilette,14,the,the
+Chanel,Chanel No 5 Eau de Toilette,15,Valley,valley
+Chanel,Chanel No 5 Eau de Toilette,16,Civetta,civetta
+Chanel,Chanel No 5 Eau de Toilette,17,Sandalwood,sandalwood
+Chanel,Chanel No 5 Eau de Toilette,18,Musk,musk
+Chanel,Chanel No 5 Eau de Toilette,19,oak,oak
+Chanel,Chanel No 5 Eau de Toilette,20,moss,moss
+Chanel,Chanel No 5 Eau de Toilette,21,Vetiver,vetiver
+Chanel,Chanel No 5 Eau de Toilette,22,Amber,amber
+Chanel,Chanel No 5 Eau de Toilette,23,Vanille,vanille
+Chanel,Chanel No 5 Eau de Toilette,24,Patchouli,patchouli
+Molinard,Habanita,0,Raspberry,raspberry
+Molinard,Habanita,1,Peach,peach
+Molinard,Habanita,2,Orange,orange
+Molinard,Habanita,3,Blossom,blossom
+Molinard,Habanita,4,Bergamot,bergamot
+Molinard,Habanita,5,Heliotrope,heliotrope
+Molinard,Habanita,6,Orris,orris
+Molinard,Habanita,7,Root,root
+Molinard,Habanita,8,Ylang,ylang
+Molinard,Habanita,9,Ylang,ylang
+Molinard,Habanita,10,Rose,rose
+Molinard,Habanita,11,Lilac,lilac
+Molinard,Habanita,12,Jasmine,jasmine
+Molinard,Habanita,13,Leather,leather
+Molinard,Habanita,14,Benzoin,benzoin
+Molinard,Habanita,15,Vanilla,vanilla
+Molinard,Habanita,16,Amber,amber
+Molinard,Habanita,17,Oakmoss,oakmoss
+Molinard,Habanita,18,Musk,musk
+Molinard,Habanita,19,Cedar,cedar
+Coty,Emeraude,0,Bergamot,bergamot
+Coty,Emeraude,1,Lemon,lemon
+Coty,Emeraude,2,Orange,orange
+Coty,Emeraude,3,Brazilian,brazilian
+Coty,Emeraude,4,Rosewood,rosewood
+Coty,Emeraude,5,Ylang,ylang
+Coty,Emeraude,6,Ylang,ylang
+Coty,Emeraude,7,Jasmine,jasmine
+Coty,Emeraude,8,Rose,rose
+Coty,Emeraude,9,Opoponax,opoponax
+Coty,Emeraude,10,Benzoin,benzoin
+Coty,Emeraude,11,Vanilla,vanilla
+Coty,Emeraude,12,Amber,amber
+Coty,Emeraude,13,Sandalwood,sandalwood
+Coty,Emeraude,14,Patchouli,patchouli
+Myrurgia,Maja,0,Geranium,geranium
+Myrurgia,Maja,1,Citruses,citruses
+Myrurgia,Maja,2,Tobacco,tobacco
+Myrurgia,Maja,3,Orange,orange
+Myrurgia,Maja,4,Blossom,blossom
+Myrurgia,Maja,5,Carnation,carnation
+Myrurgia,Maja,6,Cloves,cloves
+Myrurgia,Maja,7,Nutmeg,nutmeg
+Myrurgia,Maja,8,Rose,rose
+Myrurgia,Maja,9,Lavender,lavender
+Myrurgia,Maja,10,Leather,leather
+Myrurgia,Maja,11,Jasmine,jasmine
+Myrurgia,Maja,12,Patchouli,patchouli
+Myrurgia,Maja,13,Cypress,cypress
+Myrurgia,Maja,14,Tonka,tonka
+Myrurgia,Maja,15,Bean,bean
+Myrurgia,Maja,16,Amber,amber
+Myrurgia,Maja,17,Benzoin,benzoin
+Myrurgia,Maja,18,Oakmoss,oakmoss
+Chanel,Chanel No 5 Eau de Cologne,0,Aldehydes,aldehydes
+Chanel,Chanel No 5 Eau de Cologne,1,Ylang,ylang
+Chanel,Chanel No 5 Eau de Cologne,2,Ylang,ylang
+Chanel,Chanel No 5 Eau de Cologne,3,African,african
+Chanel,Chanel No 5 Eau de Cologne,4,Orange,orange
+Chanel,Chanel No 5 Eau de Cologne,5,flower,flower
+Chanel,Chanel No 5 Eau de Cologne,6,Bergamot,bergamot
+Chanel,Chanel No 5 Eau de Cologne,7,Amalfi,amalfi
+Chanel,Chanel No 5 Eau de Cologne,8,Lemon,lemon
+Chanel,Chanel No 5 Eau de Cologne,9,iris,iris
+Chanel,Chanel No 5 Eau de Cologne,10,Jasmine,jasmine
+Chanel,Chanel No 5 Eau de Cologne,11,Rose,rose
+Chanel,Chanel No 5 Eau de Cologne,12,Orris,orris
+Chanel,Chanel No 5 Eau de Cologne,13,Root,root
+Chanel,Chanel No 5 Eau de Cologne,14,Lily,lily
+Chanel,Chanel No 5 Eau de Cologne,15,of,of
+Chanel,Chanel No 5 Eau de Cologne,16,the,the
+Chanel,Chanel No 5 Eau de Cologne,17,Valley,valley
+Chanel,Chanel No 5 Eau de Cologne,18,Civetta,civetta
+Chanel,Chanel No 5 Eau de Cologne,19,Musk,musk
+Chanel,Chanel No 5 Eau de Cologne,20,Amber,amber
+Chanel,Chanel No 5 Eau de Cologne,21,Vetiver,vetiver
+Chanel,Chanel No 5 Eau de Cologne,22,Sandalwood,sandalwood
+Chanel,Chanel No 5 Eau de Cologne,23,oak,oak
+Chanel,Chanel No 5 Eau de Cologne,24,moss,moss
+Chanel,Chanel No 5 Eau de Cologne,25,Patchouli,patchouli
+Chanel,Chanel No 5 Eau de Cologne,26,Vanille,vanille
+Chanel,Chanel N°5 (Vintage),0,Aldehydes,aldehydes
+Chanel,Chanel N°5 (Vintage),1,Ylang,ylang
+Chanel,Chanel N°5 (Vintage),2,Ylang,ylang
+Chanel,Chanel N°5 (Vintage),3,Neroli,neroli
+Chanel,Chanel N°5 (Vintage),4,Lemon,lemon
+Chanel,Chanel N°5 (Vintage),5,Bergamot,bergamot
+Chanel,Chanel N°5 (Vintage),6,Rose,rose
+Chanel,Chanel N°5 (Vintage),7,iris,iris
+Chanel,Chanel N°5 (Vintage),8,Jasmine,jasmine
+Chanel,Chanel N°5 (Vintage),9,Orris,orris
+Chanel,Chanel N°5 (Vintage),10,Root,root
+Chanel,Chanel N°5 (Vintage),11,Lily,lily
+Chanel,Chanel N°5 (Vintage),12,of,of
+Chanel,Chanel N°5 (Vintage),13,the,the
+Chanel,Chanel N°5 (Vintage),14,Valley,valley
+Chanel,Chanel N°5 (Vintage),15,Civet,civet
+Chanel,Chanel N°5 (Vintage),16,Sandalwood,sandalwood
+Chanel,Chanel N°5 (Vintage),17,Amber,amber
+Chanel,Chanel N°5 (Vintage),18,Musk,musk
+Chanel,Chanel N°5 (Vintage),19,Vanilla,vanilla
+Chanel,Chanel N°5 (Vintage),20,Oakmoss,oakmoss
+Chanel,Chanel N°5 (Vintage),21,Patchouli,patchouli
+Chanel,Chanel N°5 (Vintage),22,Vetiver,vetiver
+Tosca,Tosca,0,Aldehydes,aldehydes
+Tosca,Tosca,1,Bergamot,bergamot
+Tosca,Tosca,2,Orange,orange
+Tosca,Tosca,3,Neroli,neroli
+Tosca,Tosca,4,Amalfi,amalfi
+Tosca,Tosca,5,Lemon,lemon
+Tosca,Tosca,6,Ylang,ylang
+Tosca,Tosca,7,Ylang,ylang
+Tosca,Tosca,8,Narcissus,narcissus
+Tosca,Tosca,9,Jasmine,jasmine
+Tosca,Tosca,10,Rose,rose
+Tosca,Tosca,11,Lily,lily
+Tosca,Tosca,12,of,of
+Tosca,Tosca,13,the,the
+Tosca,Tosca,14,Valley,valley
+Tosca,Tosca,15,French,french
+Tosca,Tosca,16,labdanum,labdanum
+Tosca,Tosca,17,Amber,amber
+Tosca,Tosca,18,Vanilla,vanilla
+Tosca,Tosca,19,Patchouli,patchouli
+Coty,Emeraude Parfum,0,Orange,orange
+Coty,Emeraude Parfum,1,Bergamot,bergamot
+Coty,Emeraude Parfum,2,Lemon,lemon
+Coty,Emeraude Parfum,3,Jasmine,jasmine
+Coty,Emeraude Parfum,4,Ylang,ylang
+Coty,Emeraude Parfum,5,Ylang,ylang
+Coty,Emeraude Parfum,6,Brazilian,brazilian
+Coty,Emeraude Parfum,7,Rosewood,rosewood
+Coty,Emeraude Parfum,8,Rose,rose
+Coty,Emeraude Parfum,9,Opoponax,opoponax
+Coty,Emeraude Parfum,10,Benzoin,benzoin
+Coty,Emeraude Parfum,11,Amber,amber
+Coty,Emeraude Parfum,12,Sandalwood,sandalwood
+Coty,Emeraude Parfum,13,Patchouli,patchouli
+Coty,Emeraude Parfum,14,Vanilla,vanilla
+Guerlain,Guerlinade,0,Lilac,lilac
+Guerlain,Guerlinade,1,Bergamot,bergamot
+Guerlain,Guerlinade,2,Lime,lime
+Guerlain,Guerlinade,3,Linden,linden
+Guerlain,Guerlinade,4,Blossom,blossom
+Guerlain,Guerlinade,5,Orris,orris
+Guerlain,Guerlinade,6,Jasmine,jasmine
+Guerlain,Guerlinade,7,Rose,rose
+Guerlain,Guerlinade,8,Tonka,tonka
+Guerlain,Guerlinade,9,Bean,bean
+Guerlain,Guerlinade,10,Vanilla,vanilla
+Chanel,Chanel N°22,0,Aldehydes,aldehydes
+Chanel,Chanel N°22,1,Neroli,neroli
+Chanel,Chanel N°22,2,Lily,lily
+Chanel,Chanel N°22,3,Tuberose,tuberose
+Chanel,Chanel N°22,4,Lily,lily
+Chanel,Chanel N°22,5,of,of
+Chanel,Chanel N°22,6,the,the
+Chanel,Chanel N°22,7,Valley,valley
+Chanel,Chanel N°22,8,Orange,orange
+Chanel,Chanel N°22,9,Blossom,blossom
+Chanel,Chanel N°22,10,Ylang,ylang
+Chanel,Chanel N°22,11,Ylang,ylang
+Chanel,Chanel N°22,12,Jasmine,jasmine
+Chanel,Chanel N°22,13,White,white
+Chanel,Chanel N°22,14,Rose,rose
+Chanel,Chanel N°22,15,Nutmeg,nutmeg
+Chanel,Chanel N°22,16,iris,iris
+Chanel,Chanel N°22,17,Vanilla,vanilla
+Chanel,Chanel N°22,18,Vetiver,vetiver
+Chanel,Les Exclusifs de Chanel No 22,0,Aldehydes,aldehydes
+Chanel,Les Exclusifs de Chanel No 22,1,Neroli,neroli
+Chanel,Les Exclusifs de Chanel No 22,2,Lily,lily
+Chanel,Les Exclusifs de Chanel No 22,3,of,of
+Chanel,Les Exclusifs de Chanel No 22,4,the,the
+Chanel,Les Exclusifs de Chanel No 22,5,Valley,valley
+Chanel,Les Exclusifs de Chanel No 22,6,Ylang,ylang
+Chanel,Les Exclusifs de Chanel No 22,7,Ylang,ylang
+Chanel,Les Exclusifs de Chanel No 22,8,Jasmine,jasmine
+Chanel,Les Exclusifs de Chanel No 22,9,Rose,rose
+Chanel,Les Exclusifs de Chanel No 22,10,Tuberose,tuberose
+Chanel,Les Exclusifs de Chanel No 22,11,Vanille,vanille
+Chanel,Les Exclusifs de Chanel No 22,12,vetyver,vetyver
+Caron,Nuit de Noel,0,Ylang,ylang
+Caron,Nuit de Noel,1,Ylang,ylang
+Caron,Nuit de Noel,2,tincture,tincture
+Caron,Nuit de Noel,3,of,of
+Caron,Nuit de Noel,4,rose,rose
+Caron,Nuit de Noel,5,Jasmine,jasmine
+Caron,Nuit de Noel,6,oak,oak
+Caron,Nuit de Noel,7,moss,moss
+Caron,Nuit de Noel,8,Sandalwood,sandalwood
+Caron,Nuit de Noel,9,Amber,amber
+Caron,Nuit de Noel,10,Musk,musk
+Caron,Nuit de Noel Extrait de Parfum,0,Ylang,ylang
+Caron,Nuit de Noel Extrait de Parfum,1,Ylang,ylang
+Caron,Nuit de Noel Extrait de Parfum,2,Rose,rose
+Caron,Nuit de Noel Extrait de Parfum,3,Jasmine,jasmine
+Caron,Nuit de Noel Extrait de Parfum,4,Oakmoss,oakmoss
+Caron,Nuit de Noel Extrait de Parfum,5,Sandalwood,sandalwood
+Caron,Nuit de Noel Extrait de Parfum,6,Amber,amber
+Caron,Nuit de Noel Extrait de Parfum,7,Musk,musk
+Guerlain,Bouquet de Faunes,0,Suede,suede
+Guerlain,Bouquet de Faunes,1,Jasmine,jasmine
+Guerlain,Bouquet de Faunes,2,Neroli,neroli
+Guerlain,Bouquet de Faunes,3,Amber,amber
+Guerlain,Bouquet de Faunes,4,Carnation,carnation
+Guerlain,Bouquet de Faunes,5,Jasmine,jasmine
+Guerlain,Bouquet de Faunes,6,iris,iris
+Guerlain,Bouquet de Faunes,7,Marjoram,marjoram
+Guerlain,Bouquet de Faunes,8,Rose,rose
+Guerlain,Bouquet de Faunes,9,Ylang,ylang
+Guerlain,Bouquet de Faunes,10,Ylang,ylang
+Guerlain,Bouquet de Faunes,11,Lavender,lavender
+Guerlain,Bouquet de Faunes,12,Violet,violet
+Guerlain,Bouquet de Faunes,13,Geranium,geranium
+Guerlain,Bouquet de Faunes,14,Neroli,neroli
+Guerlain,Bouquet de Faunes,15,Brazilian,brazilian
+Guerlain,Bouquet de Faunes,16,Rosewood,rosewood
+Guerlain,Bouquet de Faunes,17,Civetta,civetta
+Guerlain,Bouquet de Faunes,18,Castoreum,castoreum
+Guerlain,Bouquet de Faunes,19,Leather,leather
+Guerlain,Bouquet de Faunes,20,Musk,musk
+Guerlain,Bouquet de Faunes,21,Amber,amber
+Guerlain,Bouquet de Faunes,22,Tobacco,tobacco
+Guerlain,Bouquet de Faunes,23,Vetiver,vetiver
+Guerlain,Bouquet de Faunes,24,Tonka,tonka
+Guerlain,Bouquet de Faunes,25,Bean,bean
+Guerlain,Bouquet de Faunes,26,Patchouli,patchouli
+Guerlain,Bouquet de Faunes,27,Costus,costus
+Guerlain,Bouquet de Faunes,28,Vanilla,vanilla
+Guerlain,Candide Effluve,1,Ylang,ylang
+Guerlain,Candide Effluve,2,Ylang,ylang
+Guerlain,Candide Effluve,3,Jasmine,jasmine
+Guerlain,Candide Effluve,4,Benzoin,benzoin
+Guerlain,Candide Effluve,5,Heliotrope,heliotrope
+Guerlain,Candide Effluve,6,Vanille,vanille
+Guerlain,Candide Effluve,7,Orris,orris
+Guerlain,Candide Effluve,8,Root,root
+Guerlain,Candide Effluve,9,Lilac,lilac
+Guerlain,Candide Effluve,10,Angelica,angelica
+Guerlain,Candide Effluve,11,Tonka,tonka
+Guerlain,Candide Effluve,12,Bean,bean
+Guerlain,Candide Effluve,13,Amalfi,amalfi
+Guerlain,Candide Effluve,14,Lemon,lemon
+Guerlain,Candide Effluve,15,Amber,amber
+Guerlain,Candide Effluve,16,Vetiver,vetiver
+Guerlain,Candide Effluve,17,Bergamot,bergamot
+Guerlain,Candide Effluve,18,Patchouli,patchouli
+Myrurgia,L'Orgie (Orgia),0,Aldehydes,aldehydes
+Myrurgia,L'Orgie (Orgia),1,Citruses,citruses
+Myrurgia,L'Orgie (Orgia),2,Floral,floral
+Myrurgia,L'Orgie (Orgia),3,Notes,notes
+Myrurgia,L'Orgie (Orgia),4,Lily,lily
+Myrurgia,L'Orgie (Orgia),5,of,of
+Myrurgia,L'Orgie (Orgia),6,the,the
+Myrurgia,L'Orgie (Orgia),7,Valley,valley
+Myrurgia,L'Orgie (Orgia),8,Rose,rose
+Myrurgia,L'Orgie (Orgia),9,Musk,musk
+Myrurgia,L'Orgie (Orgia),10,Oakmoss,oakmoss
+Myrurgia,L'Orgie (Orgia),11,Tonka,tonka
+Myrurgia,L'Orgie (Orgia),12,Bean,bean
+Myrurgia,L'Orgie (Orgia),13,Woody,woody
+Myrurgia,L'Orgie (Orgia),14,Notes,notes
+Myrurgia,L'Orgie (Orgia),15,Vanilla,vanilla
+Krigler,Sparkling Diamond 22,1,Champagne,champagne
+Krigler,Sparkling Diamond 22,2,Big,big
+Krigler,Sparkling Diamond 22,3,Strawberry,strawberry
+Krigler,Sparkling Diamond 22,4,Coconut,coconut
+Krigler,Sparkling Diamond 22,5,Musk,musk
+Weil,Padisha,0,Neroli,neroli
+Weil,Padisha,1,Bergamot,bergamot
+Weil,Padisha,2,Spicy,spicy
+Weil,Padisha,3,Notes,notes
+Weil,Padisha,4,Lavender,lavender
+Weil,Padisha,5,Carnation,carnation
+Weil,Padisha,6,Orange,orange
+Weil,Padisha,7,Blossom,blossom
+Weil,Padisha,8,Patchouli,patchouli
+Weil,Padisha,9,Amber,amber
+Weil,Padisha,10,Vanilla,vanilla
+Weil,Padisha,11,Sandalwood,sandalwood
+Paglieri,Felce Azzurra,1,Musk,musk
+Caron,Narcisse Blanc,0,Orange,orange
+Caron,Narcisse Blanc,1,Blossom,blossom
+Caron,Narcisse Blanc,2,Neroli,neroli
+Caron,Narcisse Blanc,3,Orange,orange
+Caron,Narcisse Blanc,4,Petitgrain,petitgrain
+Caron,Narcisse Blanc,5,Jasmine,jasmine
+Caron,Narcisse Blanc,6,tincture,tincture
+Caron,Narcisse Blanc,7,of,of
+Caron,Narcisse Blanc,8,rose,rose
+Caron,Narcisse Blanc,9,Lime,lime
+Caron,Narcisse Blanc,10,iris,iris
+Caron,Narcisse Blanc,11,Musk,musk
+Caron,Narcisse Blanc,12,Sandalwood,sandalwood
+Caron,Narcisse Blanc,13,vetyver,vetyver
+Caron,Narcisse Blanc,14,Amber,amber
+Caron,Narcisse Blanc Parfum,0,Neroli,neroli
+Caron,Narcisse Blanc Parfum,1,Orange,orange
+Caron,Narcisse Blanc Parfum,2,Blossom,blossom
+Caron,Narcisse Blanc Parfum,3,Orange,orange
+Caron,Narcisse Blanc Parfum,4,Petitgrain,petitgrain
+Caron,Narcisse Blanc Parfum,5,Jasmine,jasmine
+Caron,Narcisse Blanc Parfum,6,Rose,rose
+Caron,Narcisse Blanc Parfum,7,Lime,lime
+Caron,Narcisse Blanc Parfum,8,iris,iris
+Caron,Narcisse Blanc Parfum,9,Musk,musk
+Caron,Narcisse Blanc Parfum,10,Amber,amber
+Caron,Narcisse Blanc Parfum,11,Sandalwood,sandalwood
+Coty,Paris,1,Lilac,lilac
+Coty,Paris,2,Heliotrope,heliotrope
+Coty,Paris,3,Civet,civet
+Coty,Paris,4,Aldehydes,aldehydes
+Coty,Paris,5,Hyacinth,hyacinth
+Coty,Paris,6,Musk,musk
+Coty,Paris,7,Ylang,ylang
+Coty,Paris,8,Ylang,ylang
+Coty,Paris,9,Bulgarian,bulgarian
+Coty,Paris,10,Rose,rose
+Coty,Paris,11,Carnation,carnation
+Coty,Paris,12,Vanilla,vanilla
+Roger & Gallet,Le Jade,1,Lime,lime
+Roger & Gallet,Le Jade,2,Bergamot,bergamot
+Roger & Gallet,Le Jade,3,Ambergris,ambergris
+Roger & Gallet,Le Jade,4,Civet,civet
+Roger & Gallet,Le Jade,5,Sandalwood,sandalwood
+Roger & Gallet,Le Jade,6,Vetiver,vetiver
+Roger & Gallet,Le Jade,7,Tonka,tonka
+Roger & Gallet,Le Jade,8,Bean,bean
+Roger & Gallet,Le Jade,9,Musk,musk
+Roger & Gallet,Le Jade,10,Patchouli,patchouli
+Roger & Gallet,Le Jade,11,Vanilla,vanilla
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,0,Clary,clary
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,1,Sage,sage
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,2,Orange,orange
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,3,Blossom,blossom
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,4,Bergamot,bergamot
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,5,Lemon,lemon
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,6,Mandarin,mandarin
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,7,Orange,orange
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,8,iris,iris
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,9,Ylang,ylang
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,10,Ylang,ylang
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,11,Vetiver,vetiver
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,12,Carnation,carnation
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,13,Jasmine,jasmine
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,14,Rose,rose
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,15,Cedar,cedar
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,16,Leather,leather
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,17,Birch,birch
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,18,Tobacco,tobacco
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,19,Musk,musk
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,20,Amber,amber
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,21,Heliotrope,heliotrope
+Chanel,Les Exclusifs de Chanel Cuir de Russie 1924,22,Vanilla,vanilla
+Lanvin,Jeanne Lanvin My Sin,0,Aldehydes,aldehydes
+Lanvin,Jeanne Lanvin My Sin,1,Neroli,neroli
+Lanvin,Jeanne Lanvin My Sin,2,Clary,clary
+Lanvin,Jeanne Lanvin My Sin,3,Sage,sage
+Lanvin,Jeanne Lanvin My Sin,4,Bergamot,bergamot
+Lanvin,Jeanne Lanvin My Sin,5,Amalfi,amalfi
+Lanvin,Jeanne Lanvin My Sin,6,Lemon,lemon
+Lanvin,Jeanne Lanvin My Sin,7,Jasmine,jasmine
+Lanvin,Jeanne Lanvin My Sin,8,Orris,orris
+Lanvin,Jeanne Lanvin My Sin,9,Root,root
+Lanvin,Jeanne Lanvin My Sin,10,Narcissus,narcissus
+Lanvin,Jeanne Lanvin My Sin,11,Ylang,ylang
+Lanvin,Jeanne Lanvin My Sin,12,Ylang,ylang
+Lanvin,Jeanne Lanvin My Sin,13,Rose,rose
+Lanvin,Jeanne Lanvin My Sin,14,Clove,clove
+Lanvin,Jeanne Lanvin My Sin,15,Lilac,lilac
+Lanvin,Jeanne Lanvin My Sin,16,Lily,lily
+Lanvin,Jeanne Lanvin My Sin,17,of,of
+Lanvin,Jeanne Lanvin My Sin,18,the,the
+Lanvin,Jeanne Lanvin My Sin,19,Valley,valley
+Lanvin,Jeanne Lanvin My Sin,20,Civetta,civetta
+Lanvin,Jeanne Lanvin My Sin,21,Musk,musk
+Lanvin,Jeanne Lanvin My Sin,22,Styrax,styrax
+Lanvin,Jeanne Lanvin My Sin,23,Woodsy,woodsy
+Lanvin,Jeanne Lanvin My Sin,24,Notes,notes
+Lanvin,Jeanne Lanvin My Sin,25,Tolu,tolu
+Lanvin,Jeanne Lanvin My Sin,26,Balsam,balsam
+Lanvin,Jeanne Lanvin My Sin,27,vetyver,vetyver
+Lanvin,Jeanne Lanvin My Sin,28,Vanille,vanille
+Worth,Dans la Nuit,0,Aldehydes,aldehydes
+Worth,Dans la Nuit,1,Violet,violet
+Worth,Dans la Nuit,2,Green,green
+Worth,Dans la Nuit,3,Notes,notes
+Worth,Dans la Nuit,4,Bergamot,bergamot
+Worth,Dans la Nuit,5,Lemon,lemon
+Worth,Dans la Nuit,6,Carnation,carnation
+Worth,Dans la Nuit,7,Rose,rose
+Worth,Dans la Nuit,8,Orris,orris
+Worth,Dans la Nuit,9,Root,root
+Worth,Dans la Nuit,10,Ylang,ylang
+Worth,Dans la Nuit,11,Ylang,ylang
+Worth,Dans la Nuit,12,Jasmine,jasmine
+Worth,Dans la Nuit,13,Lily,lily
+Worth,Dans la Nuit,14,of,of
+Worth,Dans la Nuit,15,the,the
+Worth,Dans la Nuit,16,Valley,valley
+Worth,Dans la Nuit,17,Cinnamon,cinnamon
+Worth,Dans la Nuit,18,Sandalwood,sandalwood
+Worth,Dans la Nuit,19,Civet,civet
+Worth,Dans la Nuit,20,Amber,amber
+Worth,Dans la Nuit,21,Musk,musk
+Worth,Dans la Nuit,22,Tonka,tonka
+Worth,Dans la Nuit,23,Bean,bean
+Worth,Dans la Nuit,24,Vanilla,vanilla
+Worth,Dans la Nuit,25,Vetiver,vetiver
+Caron,Acaciosa,0,Jasmine,jasmine
+Caron,Acaciosa,1,Orange,orange
+Caron,Acaciosa,2,Blossom,blossom
+Caron,Acaciosa,3,Ylang,ylang
+Caron,Acaciosa,4,Ylang,ylang
+Caron,Acaciosa,5,Rose,rose
+Caron,Acaciosa,6,Lily,lily
+Caron,Acaciosa,7,of,of
+Caron,Acaciosa,8,the,the
+Caron,Acaciosa,9,Valley,valley
+Caron,Acaciosa,10,Jasmine,jasmine
+Caron,Acaciosa,11,Orange,orange
+Caron,Acaciosa,12,Blossom,blossom
+Caron,Acaciosa,13,Sandalwood,sandalwood
+Caron,Acaciosa,14,Pineapple,pineapple
+Caron,Acaciosa,15,Amber,amber
+Caron,Acaciosa,16,Vanilla,vanilla
+Caron,Acaciosa,17,Musk,musk
+Caron,Acaciosa Parfum,0,Jasmine,jasmine
+Caron,Acaciosa Parfum,1,Rose,rose
+Caron,Acaciosa Parfum,2,Orange,orange
+Caron,Acaciosa Parfum,3,Blossom,blossom
+Caron,Acaciosa Parfum,4,Ylang,ylang
+Caron,Acaciosa Parfum,5,Ylang,ylang
+Caron,Acaciosa Parfum,6,Lily,lily
+Caron,Acaciosa Parfum,7,of,of
+Caron,Acaciosa Parfum,8,the,the
+Caron,Acaciosa Parfum,9,Valley,valley
+Caron,Acaciosa Parfum,10,Jasmine,jasmine
+Caron,Acaciosa Parfum,11,Pineapple,pineapple
+Caron,Acaciosa Parfum,12,Sandalwood,sandalwood
+Caron,Acaciosa Parfum,13,Amber,amber
+Caron,Acaciosa Parfum,14,Musk,musk
+Caron,Acaciosa Parfum,15,Vanilla,vanilla
+Isabey,Isabey Gardenia,1,Gardenia,gardenia
+Narciso Rodriguez,Narciso Rodriguez For Her,0,African,african
+Narciso Rodriguez,Narciso Rodriguez For Her,1,Orange,orange
+Narciso Rodriguez,Narciso Rodriguez For Her,2,flower,flower
+Narciso Rodriguez,Narciso Rodriguez For Her,3,Osmanthus,osmanthus
+Narciso Rodriguez,Narciso Rodriguez For Her,4,Bergamot,bergamot
+Narciso Rodriguez,Narciso Rodriguez For Her,5,Musk,musk
+Narciso Rodriguez,Narciso Rodriguez For Her,6,Amber,amber
+Narciso Rodriguez,Narciso Rodriguez For Her,7,Vetiver,vetiver
+Narciso Rodriguez,Narciso Rodriguez For Her,8,Vanille,vanille
+Narciso Rodriguez,Narciso Rodriguez For Her,9,Patchouli,patchouli
+Cacharel,Amor Amor,0,Black,black
+Cacharel,Amor Amor,1,Currant,currant
+Cacharel,Amor Amor,2,Orange,orange
+Cacharel,Amor Amor,3,Mandarin,mandarin
+Cacharel,Amor Amor,4,Orange,orange
+Cacharel,Amor Amor,5,Grapefruit,grapefruit
+Cacharel,Amor Amor,6,Cassia,cassia
+Cacharel,Amor Amor,7,Bergamot,bergamot
+Cacharel,Amor Amor,8,Rose,rose
+Cacharel,Amor Amor,9,Apricot,apricot
+Cacharel,Amor Amor,10,Jasmine,jasmine
+Cacharel,Amor Amor,11,Lily,lily
+Cacharel,Amor Amor,12,Lily,lily
+Cacharel,Amor Amor,13,of,of
+Cacharel,Amor Amor,14,the,the
+Cacharel,Amor Amor,15,Valley,valley
+Cacharel,Amor Amor,16,Vanilla,vanilla
+Cacharel,Amor Amor,17,Tonka,tonka
+Cacharel,Amor Amor,18,Bean,bean
+Cacharel,Amor Amor,19,Musk,musk
+Cacharel,Amor Amor,20,Amber,amber
+Cacharel,Amor Amor,21,Virginia,virginia
+Cacharel,Amor Amor,22,Cedar,cedar
+Chanel,Chance Eau de Toilette,0,Patchouli,patchouli
+Chanel,Chance Eau de Toilette,1,Pink,pink
+Chanel,Chance Eau de Toilette,2,Pepper,pepper
+Chanel,Chance Eau de Toilette,3,Pineapple,pineapple
+Chanel,Chance Eau de Toilette,4,Hiacynth,hiacynth
+Chanel,Chance Eau de Toilette,5,iris,iris
+Chanel,Chance Eau de Toilette,6,Lemon,lemon
+Chanel,Chance Eau de Toilette,7,Jasmine,jasmine
+Chanel,Chance Eau de Toilette,8,Rose,rose
+Chanel,Chance Eau de Toilette,9,Patchouli,patchouli
+Chanel,Chance Eau de Toilette,10,Musk,musk
+Chanel,Chance Eau de Toilette,11,Vetiver,vetiver
+Chanel,Chance Eau de Toilette,12,Vanilla,vanilla
+Lacoste Fragrances,Lacoste Pour Femme,0,Pepper,pepper
+Lacoste Fragrances,Lacoste Pour Femme,1,Freesia,freesia
+Lacoste Fragrances,Lacoste Pour Femme,2,Apple,apple
+Lacoste Fragrances,Lacoste Pour Femme,3,Heliotrope,heliotrope
+Lacoste Fragrances,Lacoste Pour Femme,4,Violet,violet
+Lacoste Fragrances,Lacoste Pour Femme,5,Jasmine,jasmine
+Lacoste Fragrances,Lacoste Pour Femme,6,Hibiscus,hibiscus
+Lacoste Fragrances,Lacoste Pour Femme,7,Rose,rose
+Lacoste Fragrances,Lacoste Pour Femme,8,Suede,suede
+Lacoste Fragrances,Lacoste Pour Femme,9,Sandalwood,sandalwood
+Lacoste Fragrances,Lacoste Pour Femme,10,Incense,incense
+Lacoste Fragrances,Lacoste Pour Femme,11,Cedar,cedar
+Lacoste Fragrances,Lacoste Pour Femme,12,Labdanum,labdanum
+Versace,Crystal Noir,0,Pepper,pepper
+Versace,Crystal Noir,1,Ginger,ginger
+Versace,Crystal Noir,2,Cardamom,cardamom
+Versace,Crystal Noir,3,Coconut,coconut
+Versace,Crystal Noir,4,Gardenia,gardenia
+Versace,Crystal Noir,5,Orange,orange
+Versace,Crystal Noir,6,Blossom,blossom
+Versace,Crystal Noir,7,Peony,peony
+Versace,Crystal Noir,8,Sandalwood,sandalwood
+Versace,Crystal Noir,9,Musk,musk
+Versace,Crystal Noir,10,Amber,amber
+Christian Dior,Pure Poison,0,Jasmine,jasmine
+Christian Dior,Pure Poison,1,Orange,orange
+Christian Dior,Pure Poison,2,Bergamot,bergamot
+Christian Dior,Pure Poison,3,Sicilian,sicilian
+Christian Dior,Pure Poison,4,Mandarin,mandarin
+Christian Dior,Pure Poison,5,Gardenia,gardenia
+Christian Dior,Pure Poison,6,Orange,orange
+Christian Dior,Pure Poison,7,Blossom,blossom
+Christian Dior,Pure Poison,8,Sandalwood,sandalwood
+Christian Dior,Pure Poison,9,White,white
+Christian Dior,Pure Poison,10,Amber,amber
+Christian Dior,Pure Poison,11,Cedar,cedar
+Christian Dior,Pure Poison,12,White,white
+Christian Dior,Pure Poison,13,Musk,musk
+Aquolina,Pink Sugar,0,Raspberry,raspberry
+Aquolina,Pink Sugar,1,Orange,orange
+Aquolina,Pink Sugar,2,Bergamot,bergamot
+Aquolina,Pink Sugar,3,Fig,fig
+Aquolina,Pink Sugar,4,Leaf,leaf
+Aquolina,Pink Sugar,5,Cotton,cotton
+Aquolina,Pink Sugar,6,Candy,candy
+Aquolina,Pink Sugar,7,Licorice,licorice
+Aquolina,Pink Sugar,8,Red,red
+Aquolina,Pink Sugar,9,Berries,berries
+Aquolina,Pink Sugar,10,Strawberry,strawberry
+Aquolina,Pink Sugar,11,Lily,lily
+Aquolina,Pink Sugar,12,of,of
+Aquolina,Pink Sugar,13,the,the
+Aquolina,Pink Sugar,14,Valley,valley
+Aquolina,Pink Sugar,15,Caramel,caramel
+Aquolina,Pink Sugar,16,Vanilla,vanilla
+Aquolina,Pink Sugar,17,Musk,musk
+Aquolina,Pink Sugar,18,Tonka,tonka
+Aquolina,Pink Sugar,19,Bean,bean
+Aquolina,Pink Sugar,20,Sandalwood,sandalwood
+Donna Karan,DKNY Be Delicious,0,Cucumber,cucumber
+Donna Karan,DKNY Be Delicious,1,Grapefruit,grapefruit
+Donna Karan,DKNY Be Delicious,2,Magnolia,magnolia
+Donna Karan,DKNY Be Delicious,3,Green,green
+Donna Karan,DKNY Be Delicious,4,Apple,apple
+Donna Karan,DKNY Be Delicious,5,Lily,lily
+Donna Karan,DKNY Be Delicious,6,of,of
+Donna Karan,DKNY Be Delicious,7,the,the
+Donna Karan,DKNY Be Delicious,8,Valley,valley
+Donna Karan,DKNY Be Delicious,9,Tuberose,tuberose
+Donna Karan,DKNY Be Delicious,10,Violet,violet
+Donna Karan,DKNY Be Delicious,11,Rose,rose
+Donna Karan,DKNY Be Delicious,12,Woodsy,woodsy
+Donna Karan,DKNY Be Delicious,13,Notes,notes
+Donna Karan,DKNY Be Delicious,14,Sandalwood,sandalwood
+Donna Karan,DKNY Be Delicious,15,Amber,amber
+Moschino,Cheap & Chic I Love Love,0,Grapefruit,grapefruit
+Moschino,Cheap & Chic I Love Love,1,Orange,orange
+Moschino,Cheap & Chic I Love Love,2,Lemon,lemon
+Moschino,Cheap & Chic I Love Love,3,Red,red
+Moschino,Cheap & Chic I Love Love,4,Currant,currant
+Moschino,Cheap & Chic I Love Love,5,Sugar,sugar
+Moschino,Cheap & Chic I Love Love,6,Cane,cane
+Moschino,Cheap & Chic I Love Love,7,Bulrush,bulrush
+Moschino,Cheap & Chic I Love Love,8,Lily,lily
+Moschino,Cheap & Chic I Love Love,9,of,of
+Moschino,Cheap & Chic I Love Love,10,the,the
+Moschino,Cheap & Chic I Love Love,11,Valley,valley
+Moschino,Cheap & Chic I Love Love,12,Tea,tea
+Moschino,Cheap & Chic I Love Love,13,Rose,rose
+Moschino,Cheap & Chic I Love Love,14,Cinnamon,cinnamon
+Moschino,Cheap & Chic I Love Love,15,Musk,musk
+Moschino,Cheap & Chic I Love Love,16,Cedar,cedar
+Moschino,Cheap & Chic I Love Love,17,Woody,woody
+Moschino,Cheap & Chic I Love Love,18,Notes,notes
+Yves Saint Laurent,Cinéma,0,Almond,almond
+Yves Saint Laurent,Cinéma,1,Blossom,blossom
+Yves Saint Laurent,Cinéma,2,Clementine,clementine
+Yves Saint Laurent,Cinéma,3,Cyclamen,cyclamen
+Yves Saint Laurent,Cinéma,4,Jasmine,jasmine
+Yves Saint Laurent,Cinéma,5,Peony,peony
+Yves Saint Laurent,Cinéma,6,Amaryllis,amaryllis
+Yves Saint Laurent,Cinéma,7,Vanilla,vanilla
+Yves Saint Laurent,Cinéma,8,Amber,amber
+Yves Saint Laurent,Cinéma,9,Benzoin,benzoin
+Yves Saint Laurent,Cinéma,10,White,white
+Yves Saint Laurent,Cinéma,11,Musk,musk
+Hermès,Eau des Merveilles,0,Orange,orange
+Hermès,Eau des Merveilles,1,Elemi,elemi
+Hermès,Eau des Merveilles,2,resin,resin
+Hermès,Eau des Merveilles,3,Lemon,lemon
+Hermès,Eau des Merveilles,4,Amber,amber
+Hermès,Eau des Merveilles,5,Pepper,pepper
+Hermès,Eau des Merveilles,6,Pink,pink
+Hermès,Eau des Merveilles,7,Pepper,pepper
+Hermès,Eau des Merveilles,8,Violet,violet
+Hermès,Eau des Merveilles,9,Fir,fir
+Hermès,Eau des Merveilles,10,Cedar,cedar
+Hermès,Eau des Merveilles,11,Madagascar,madagascar
+Hermès,Eau des Merveilles,12,Vetiver,vetiver
+Hermès,Eau des Merveilles,13,Oakmoss,oakmoss
+Carolina Herrera,212 Sexy,0,Pink,pink
+Carolina Herrera,212 Sexy,1,Pepper,pepper
+Carolina Herrera,212 Sexy,2,Mandarin,mandarin
+Carolina Herrera,212 Sexy,3,Orange,orange
+Carolina Herrera,212 Sexy,4,Bergamot,bergamot
+Carolina Herrera,212 Sexy,5,Cotton,cotton
+Carolina Herrera,212 Sexy,6,Candy,candy
+Carolina Herrera,212 Sexy,7,Gardenia,gardenia
+Carolina Herrera,212 Sexy,8,Flowers,flowers
+Carolina Herrera,212 Sexy,9,Pelargonium,pelargonium
+Carolina Herrera,212 Sexy,10,Rose,rose
+Carolina Herrera,212 Sexy,11,Vanilla,vanilla
+Carolina Herrera,212 Sexy,12,Musk,musk
+Carolina Herrera,212 Sexy,13,Sandalwood,sandalwood
+Carolina Herrera,212 Sexy,14,Caramel,caramel
+Carolina Herrera,212 Sexy,15,Patchouli,patchouli
+Carolina Herrera,212 Sexy,16,Violet,violet
+Avon,Today,0,Freesia,freesia
+Avon,Today,1,Cactus,cactus
+Avon,Today,2,Stephanotis,stephanotis
+Avon,Today,3,Tuberose,tuberose
+Avon,Today,4,Orange,orange
+Avon,Today,5,Blossom,blossom
+Avon,Today,6,Hibiscus,hibiscus
+Avon,Today,7,Strelitzia,strelitzia
+Avon,Today,8,Buddleia,buddleia
+Avon,Today,9,Musk,musk
+Avon,Today,10,Water,water
+Avon,Today,11,Notes,notes
+Avon,Today,12,Woody,woody
+Avon,Today,13,Notes,notes
+Avon,Today,14,Cedar,cedar
+Avon,Today,15,Rose,rose
+Gucci,Gucci Eau de Parfum II,0,Black,black
+Gucci,Gucci Eau de Parfum II,1,Currant,currant
+Gucci,Gucci Eau de Parfum II,2,Red,red
+Gucci,Gucci Eau de Parfum II,3,Berries,berries
+Gucci,Gucci Eau de Parfum II,4,Cassia,cassia
+Gucci,Gucci Eau de Parfum II,5,Bitter,bitter
+Gucci,Gucci Eau de Parfum II,6,Orange,orange
+Gucci,Gucci Eau de Parfum II,7,Mandarin,mandarin
+Gucci,Gucci Eau de Parfum II,8,Orange,orange
+Gucci,Gucci Eau de Parfum II,9,Blackberry,blackberry
+Gucci,Gucci Eau de Parfum II,10,Peony,peony
+Gucci,Gucci Eau de Parfum II,11,Violet,violet
+Gucci,Gucci Eau de Parfum II,12,Freesia,freesia
+Gucci,Gucci Eau de Parfum II,13,Jasmine,jasmine
+Gucci,Gucci Eau de Parfum II,14,Lily,lily
+Gucci,Gucci Eau de Parfum II,15,of,of
+Gucci,Gucci Eau de Parfum II,16,the,the
+Gucci,Gucci Eau de Parfum II,17,Valley,valley
+Gucci,Gucci Eau de Parfum II,18,Cedar,cedar
+Gucci,Gucci Eau de Parfum II,19,Musk,musk
+Gucci,Gucci Eau de Parfum II,20,Heliotrope,heliotrope
+Britney Spears,Curious,0,Magnolia,magnolia
+Britney Spears,Curious,1,Pear,pear
+Britney Spears,Curious,2,Lotus,lotus
+Britney Spears,Curious,3,Jasmine,jasmine
+Britney Spears,Curious,4,Tuberose,tuberose
+Britney Spears,Curious,5,Cyclamen,cyclamen
+Britney Spears,Curious,6,Musk,musk
+Britney Spears,Curious,7,Vanilla,vanilla
+Britney Spears,Curious,8,White,white
+Britney Spears,Curious,9,Woods,woods
+Britney Spears,Curious,10,Sandalwood,sandalwood
+Prada,Prada (Amber),0,Tarragon,tarragon
+Prada,Prada (Amber),1,Bergamot,bergamot
+Prada,Prada (Amber),2,Green,green
+Prada,Prada (Amber),3,Notes,notes
+Prada,Prada (Amber),4,Fruity,fruity
+Prada,Prada (Amber),5,Notes,notes
+Prada,Prada (Amber),6,Honey,honey
+Prada,Prada (Amber),7,Carnation,carnation
+Prada,Prada (Amber),8,Ylang,ylang
+Prada,Prada (Amber),9,Ylang,ylang
+Prada,Prada (Amber),10,Jasmine,jasmine
+Prada,Prada (Amber),11,Rose,rose
+Prada,Prada (Amber),12,Patchouli,patchouli
+Prada,Prada (Amber),13,Amber,amber
+Prada,Prada (Amber),14,Benzoin,benzoin
+Prada,Prada (Amber),15,Sandalwood,sandalwood
+Prada,Prada (Amber),16,Vanilla,vanilla
+Prada,Prada (Amber),17,Oakmoss,oakmoss
+Prada,Prada (Amber),18,Musk,musk
+Gucci,Envy Me,0,Peony,peony
+Gucci,Envy Me,1,Pink,pink
+Gucci,Envy Me,2,Pepper,pepper
+Gucci,Envy Me,3,Pineapple,pineapple
+Gucci,Envy Me,4,Jasmine,jasmine
+Gucci,Envy Me,5,Mango,mango
+Gucci,Envy Me,6,Peach,peach
+Gucci,Envy Me,7,Cassia,cassia
+Gucci,Envy Me,8,Peony,peony
+Gucci,Envy Me,9,Litchi,litchi
+Gucci,Envy Me,10,Rose,rose
+Gucci,Envy Me,11,Pomegranate,pomegranate
+Gucci,Envy Me,12,Musk,musk
+Gucci,Envy Me,13,White,white
+Gucci,Envy Me,14,Tea,tea
+Gucci,Envy Me,15,Jasmine,jasmine
+Gucci,Envy Me,16,Musk,musk
+Gucci,Envy Me,17,Tobacco,tobacco
+Gucci,Envy Me,18,Teak,teak
+Gucci,Envy Me,19,Wood,wood
+Gucci,Envy Me,20,Sandalwood,sandalwood
+Gucci,Envy Me,21,Tonka,tonka
+Gucci,Envy Me,22,Bean,bean
+Giorgio Armani,Armani Mania,0,Pink,pink
+Giorgio Armani,Armani Mania,1,Pepper,pepper
+Giorgio Armani,Armani Mania,2,Bay,bay
+Giorgio Armani,Armani Mania,3,Leaf,leaf
+Giorgio Armani,Armani Mania,4,Orange,orange
+Giorgio Armani,Armani Mania,5,Green,green
+Giorgio Armani,Armani Mania,6,Mandarin,mandarin
+Giorgio Armani,Armani Mania,7,Black,black
+Giorgio Armani,Armani Mania,8,Currant,currant
+Giorgio Armani,Armani Mania,9,Magnolia,magnolia
+Giorgio Armani,Armani Mania,10,Peony,peony
+Giorgio Armani,Armani Mania,11,iris,iris
+Giorgio Armani,Armani Mania,12,Lily,lily
+Giorgio Armani,Armani Mania,13,of,of
+Giorgio Armani,Armani Mania,14,the,the
+Giorgio Armani,Armani Mania,15,Valley,valley
+Giorgio Armani,Armani Mania,16,Vanilla,vanilla
+Giorgio Armani,Armani Mania,17,White,white
+Giorgio Armani,Armani Mania,18,Sandalwood,sandalwood
+Giorgio Armani,Armani Mania,19,Amber,amber
+Giorgio Armani,Armani Mania,20,Musk,musk
+Giorgio Armani,Armani Mania,21,Virginia,virginia
+Giorgio Armani,Armani Mania,22,Cedar,cedar
+Disney,Coco Teenage Girl,0,Raspberry,raspberry
+Disney,Coco Teenage Girl,1,Bitter,bitter
+Disney,Coco Teenage Girl,2,Orange,orange
+Disney,Coco Teenage Girl,3,Neroli,neroli
+Disney,Coco Teenage Girl,4,Jasmine,jasmine
+Disney,Coco Teenage Girl,5,Orange,orange
+Disney,Coco Teenage Girl,6,Blossom,blossom
+Disney,Coco Teenage Girl,7,Honey,honey
+Disney,Coco Teenage Girl,8,Patchouli,patchouli
+Kim Kardashian,Kim Kardashian,0,Honeysuckle,honeysuckle
+Kim Kardashian,Kim Kardashian,1,African,african
+Kim Kardashian,Kim Kardashian,2,Orange,orange
+Kim Kardashian,Kim Kardashian,3,flower,flower
+Kim Kardashian,Kim Kardashian,4,Mandarin,mandarin
+Kim Kardashian,Kim Kardashian,5,Orange,orange
+Kim Kardashian,Kim Kardashian,6,Gardenia,gardenia
+Kim Kardashian,Kim Kardashian,7,Tuberose,tuberose
+Kim Kardashian,Kim Kardashian,8,Jasmine,jasmine
+Kim Kardashian,Kim Kardashian,9,Spices,spices
+Kim Kardashian,Kim Kardashian,10,Tonka,tonka
+Kim Kardashian,Kim Kardashian,11,Bean,bean
+Kim Kardashian,Kim Kardashian,12,Musk,musk
+Kim Kardashian,Kim Kardashian,13,Sandalwood,sandalwood
+Kim Kardashian,Kim Kardashian,14,Orchid,orchid
+Kim Kardashian,Kim Kardashian,15,Woodsy,woodsy
+Kim Kardashian,Kim Kardashian,16,Notes,notes
+Britney Spears,Fantasy Intense,0,Kiwi,kiwi
+Britney Spears,Fantasy Intense,1,Litchi,litchi
+Britney Spears,Fantasy Intense,2,Pear,pear
+Britney Spears,Fantasy Intense,3,White,white
+Britney Spears,Fantasy Intense,4,Chocolate,chocolate
+Britney Spears,Fantasy Intense,5,Cupcake,cupcake
+Britney Spears,Fantasy Intense,6,Jasmine,jasmine
+Britney Spears,Fantasy Intense,7,Orchid,orchid
+Britney Spears,Fantasy Intense,8,Patchouli,patchouli
+Britney Spears,Fantasy Intense,9,Musk,musk
+Britney Spears,Fantasy Intense,10,Orris,orris
+Britney Spears,Fantasy Intense,11,Woodsy,woodsy
+Britney Spears,Fantasy Intense,12,Notes,notes
+Il Profvmo,Cortigiana,0,Cherry,cherry
+Il Profvmo,Cortigiana,1,Wildflowers,wildflowers
+Il Profvmo,Cortigiana,2,Vanilla,vanilla
+Il Profvmo,Cortigiana,3,Almond,almond
+Il Profvmo,Cortigiana,4,Herbal,herbal
+Il Profvmo,Cortigiana,5,Notes,notes
+Il Profvmo,Cortigiana,6,iris,iris
+Antonio Banderas,Blue Seduction,0,Melon,melon
+Antonio Banderas,Blue Seduction,1,Bergamot,bergamot
+Antonio Banderas,Blue Seduction,2,Pear,pear
+Antonio Banderas,Blue Seduction,3,Violet,violet
+Antonio Banderas,Blue Seduction,4,Leaf,leaf
+Antonio Banderas,Blue Seduction,5,Peony,peony
+Antonio Banderas,Blue Seduction,6,Jasmine,jasmine
+Antonio Banderas,Blue Seduction,7,Lily,lily
+Antonio Banderas,Blue Seduction,8,of,of
+Antonio Banderas,Blue Seduction,9,the,the
+Antonio Banderas,Blue Seduction,10,Valley,valley
+Antonio Banderas,Blue Seduction,11,Gardenia,gardenia
+Antonio Banderas,Blue Seduction,12,Bulgarian,bulgarian
+Antonio Banderas,Blue Seduction,13,Rose,rose
+Antonio Banderas,Blue Seduction,14,Raspberry,raspberry
+Antonio Banderas,Blue Seduction,15,Patchouli,patchouli
+Antonio Banderas,Blue Seduction,16,Musk,musk
+Antonio Banderas,Blue Seduction,17,Benzoin,benzoin
+Chloé,Love,0,Pink,pink
+Chloé,Love,1,Pepper,pepper
+Chloé,Love,2,African,african
+Chloé,Love,3,Orange,orange
+Chloé,Love,4,flower,flower
+Chloé,Love,5,iris,iris
+Chloé,Love,6,Lilac,lilac
+Chloé,Love,7,Hyacinth,hyacinth
+Chloé,Love,8,Heliotrope,heliotrope
+Chloé,Love,9,Wisteria,wisteria
+Chloé,Love,10,Powdery,powdery
+Chloé,Love,11,Notes,notes
+Chloé,Love,12,Rice,rice
+Chloé,Love,13,Musk,musk
+Mugler,Alien,0,Jasmine,jasmine
+Mugler,Alien,1,Woodsy,woodsy
+Mugler,Alien,2,Notes,notes
+Mugler,Alien,3,Amber,amber
+Viktor&Rolf,Flowerbomb,0,Tea,tea
+Viktor&Rolf,Flowerbomb,1,Bergamot,bergamot
+Viktor&Rolf,Flowerbomb,2,Osmanthus,osmanthus
+Viktor&Rolf,Flowerbomb,3,Orchid,orchid
+Viktor&Rolf,Flowerbomb,4,Jasmine,jasmine
+Viktor&Rolf,Flowerbomb,5,Rose,rose
+Viktor&Rolf,Flowerbomb,6,Freesia,freesia
+Viktor&Rolf,Flowerbomb,7,African,african
+Viktor&Rolf,Flowerbomb,8,Orange,orange
+Viktor&Rolf,Flowerbomb,9,flower,flower
+Viktor&Rolf,Flowerbomb,10,Patchouli,patchouli
+Viktor&Rolf,Flowerbomb,11,Musk,musk
+Calvin Klein,Euphoria,0,Pomegranate,pomegranate
+Calvin Klein,Euphoria,1,Raspberry,raspberry
+Calvin Klein,Euphoria,2,Passionfruit,passionfruit
+Calvin Klein,Euphoria,3,Persimmon,persimmon
+Calvin Klein,Euphoria,4,Peach,peach
+Calvin Klein,Euphoria,5,Green,green
+Calvin Klein,Euphoria,6,Notes,notes
+Calvin Klein,Euphoria,7,Orchid,orchid
+Calvin Klein,Euphoria,8,Lotus,lotus
+Calvin Klein,Euphoria,9,Champaca,champaca
+Calvin Klein,Euphoria,10,Mahogany,mahogany
+Calvin Klein,Euphoria,11,Amber,amber
+Calvin Klein,Euphoria,12,Musk,musk
+Calvin Klein,Euphoria,13,Violet,violet
+Calvin Klein,Euphoria,14,Patchouli,patchouli
+Calvin Klein,Euphoria,15,Vanilla,vanilla
+Lancome,Hypnôse,0,Passion,passion
+Lancome,Hypnôse,1,Flower,flower
+Lancome,Hypnôse,2,Jasmine,jasmine
+Lancome,Hypnôse,3,Gardenia,gardenia
+Lancome,Hypnôse,4,Vanille,vanille
+Lancome,Hypnôse,5,Vetiver,vetiver
+Lalique,Lalique Le Parfum,0,West,west
+Lalique,Lalique Le Parfum,1,Indian,indian
+Lalique,Lalique Le Parfum,2,Bay,bay
+Lalique,Lalique Le Parfum,3,Pink,pink
+Lalique,Lalique Le Parfum,4,Pepper,pepper
+Lalique,Lalique Le Parfum,5,Bergamot,bergamot
+Lalique,Lalique Le Parfum,6,Heliotrope,heliotrope
+Lalique,Lalique Le Parfum,7,Almond,almond
+Lalique,Lalique Le Parfum,8,Jasmine,jasmine
+Lalique,Lalique Le Parfum,9,Vanilla,vanilla
+Lalique,Lalique Le Parfum,10,Tonka,tonka
+Lalique,Lalique Le Parfum,11,Bean,bean
+Lalique,Lalique Le Parfum,12,Sandalwood,sandalwood
+Lalique,Lalique Le Parfum,13,Patchouli,patchouli
+Bvlgari,Omnia Crystalline,0,Bamboo,bamboo
+Bvlgari,Omnia Crystalline,1,Pear,pear
+Bvlgari,Omnia Crystalline,2,Lotus,lotus
+Bvlgari,Omnia Crystalline,3,Tea,tea
+Bvlgari,Omnia Crystalline,4,Cassia,cassia
+Bvlgari,Omnia Crystalline,5,Musk,musk
+Bvlgari,Omnia Crystalline,6,Guaiac,guaiac
+Bvlgari,Omnia Crystalline,7,Wood,wood
+Bvlgari,Omnia Crystalline,8,Oakmoss,oakmoss
+Sarah Jessica Parker,Lovely,0,Lavender,lavender
+Sarah Jessica Parker,Lovely,1,Martini,martini
+Sarah Jessica Parker,Lovely,2,Bergamot,bergamot
+Sarah Jessica Parker,Lovely,3,Mandarin,mandarin
+Sarah Jessica Parker,Lovely,4,Orange,orange
+Sarah Jessica Parker,Lovely,5,Palisander,palisander
+Sarah Jessica Parker,Lovely,6,Rosewood,rosewood
+Sarah Jessica Parker,Lovely,7,Patchouli,patchouli
+Sarah Jessica Parker,Lovely,8,Orchid,orchid
+Sarah Jessica Parker,Lovely,9,Narcissus,narcissus
+Sarah Jessica Parker,Lovely,10,Musk,musk
+Sarah Jessica Parker,Lovely,11,Woodsy,woodsy
+Sarah Jessica Parker,Lovely,12,Notes,notes
+Sarah Jessica Parker,Lovely,13,Cedar,cedar
+Sarah Jessica Parker,Lovely,14,White,white
+Sarah Jessica Parker,Lovely,15,Amber,amber
+Chanel,Chance Eau de Parfum,0,Pink,pink
+Chanel,Chance Eau de Parfum,1,Pepper,pepper
+Chanel,Chance Eau de Parfum,2,Jasmine,jasmine
+Chanel,Chance Eau de Parfum,3,iris,iris
+Chanel,Chance Eau de Parfum,4,Patchouli,patchouli
+Chanel,Chance Eau de Parfum,5,Musk,musk
+Chanel,Chance Eau de Parfum,6,Vanilla,vanilla
+Chloé,Chloe Eau de Parfum,0,Peony,peony
+Chloé,Chloe Eau de Parfum,1,Litchi,litchi
+Chloé,Chloe Eau de Parfum,2,Freesia,freesia
+Chloé,Chloe Eau de Parfum,3,Rose,rose
+Chloé,Chloe Eau de Parfum,4,Lily,lily
+Chloé,Chloe Eau de Parfum,5,of,of
+Chloé,Chloe Eau de Parfum,6,the,the
+Chloé,Chloe Eau de Parfum,7,Valley,valley
+Chloé,Chloe Eau de Parfum,8,Magnolia,magnolia
+Chloé,Chloe Eau de Parfum,9,Virginia,virginia
+Chloé,Chloe Eau de Parfum,10,Cedar,cedar
+Chloé,Chloe Eau de Parfum,11,Amber,amber
+Juicy Couture,Viva la Juicy,0,Mandarin,mandarin
+Juicy Couture,Viva la Juicy,1,Orange,orange
+Juicy Couture,Viva la Juicy,2,Wild,wild
+Juicy Couture,Viva la Juicy,3,berries,berries
+Juicy Couture,Viva la Juicy,4,Honeysuckle,honeysuckle
+Juicy Couture,Viva la Juicy,5,Gardenia,gardenia
+Juicy Couture,Viva la Juicy,6,Jasmine,jasmine
+Juicy Couture,Viva la Juicy,7,Caramel,caramel
+Juicy Couture,Viva la Juicy,8,Vanilla,vanilla
+Juicy Couture,Viva la Juicy,9,Praline,praline
+Juicy Couture,Viva la Juicy,10,Amber,amber
+Juicy Couture,Viva la Juicy,11,Sandalwood,sandalwood
+Jessica Simpson,Fancy,0,Pear,pear
+Jessica Simpson,Fancy,1,Apricot,apricot
+Jessica Simpson,Fancy,2,Red,red
+Jessica Simpson,Fancy,3,Berries,berries
+Jessica Simpson,Fancy,4,Caramel,caramel
+Jessica Simpson,Fancy,5,Almond,almond
+Jessica Simpson,Fancy,6,Gardenia,gardenia
+Jessica Simpson,Fancy,7,Jasmine,jasmine
+Jessica Simpson,Fancy,8,Vanilla,vanilla
+Jessica Simpson,Fancy,9,Amber,amber
+Jessica Simpson,Fancy,10,Sandalwood,sandalwood
+Bvlgari,Jasmin Noir,0,Gardenia,gardenia
+Bvlgari,Jasmin Noir,1,Green,green
+Bvlgari,Jasmin Noir,2,Notes,notes
+Bvlgari,Jasmin Noir,3,Jasmine,jasmine
+Bvlgari,Jasmin Noir,4,Sambac,sambac
+Bvlgari,Jasmin Noir,5,Almond,almond
+Bvlgari,Jasmin Noir,6,Licorice,licorice
+Bvlgari,Jasmin Noir,7,Tonka,tonka
+Bvlgari,Jasmin Noir,8,Bean,bean
+Bvlgari,Jasmin Noir,9,Precious,precious
+Bvlgari,Jasmin Noir,10,Woods,woods
+Bvlgari,Jasmin Noir,11,Amber,amber
+Bvlgari,Jasmin Noir,12,Musk,musk
+Bvlgari,Jasmin Noir,13,Patchouli,patchouli
+Tom Ford,White Patchouli,0,White,white
+Tom Ford,White Patchouli,1,Flowers,flowers
+Tom Ford,White Patchouli,2,Coriander,coriander
+Tom Ford,White Patchouli,3,Peony,peony
+Tom Ford,White Patchouli,4,Bergamot,bergamot
+Tom Ford,White Patchouli,5,Ambrette,ambrette
+Tom Ford,White Patchouli,6,Musk,musk
+Tom Ford,White Patchouli,7,Mallow,mallow
+Tom Ford,White Patchouli,8,Rose,rose
+Tom Ford,White Patchouli,9,Jasmine,jasmine
+Tom Ford,White Patchouli,10,Patchouli,patchouli
+Tom Ford,White Patchouli,11,Incense,incense
+Tom Ford,White Patchouli,12,Woody,woody
+Tom Ford,White Patchouli,13,Notes,notes
+Amouage,Amouage Lyric Woman,0,Cardamom,cardamom
+Amouage,Amouage Lyric Woman,1,Cinnamon,cinnamon
+Amouage,Amouage Lyric Woman,2,Ginger,ginger
+Amouage,Amouage Lyric Woman,3,Bergamot,bergamot
+Amouage,Amouage Lyric Woman,4,Rose,rose
+Amouage,Amouage Lyric Woman,5,Geranium,geranium
+Amouage,Amouage Lyric Woman,6,Ylang,ylang
+Amouage,Amouage Lyric Woman,7,Ylang,ylang
+Amouage,Amouage Lyric Woman,8,Angelica,angelica
+Amouage,Amouage Lyric Woman,9,Orris,orris
+Amouage,Amouage Lyric Woman,10,Root,root
+Amouage,Amouage Lyric Woman,11,Jasmine,jasmine
+Amouage,Amouage Lyric Woman,12,Incense,incense
+Amouage,Amouage Lyric Woman,13,Sandalwood,sandalwood
+Amouage,Amouage Lyric Woman,14,Musk,musk
+Amouage,Amouage Lyric Woman,15,Woodsy,woodsy
+Amouage,Amouage Lyric Woman,16,Notes,notes
+Amouage,Amouage Lyric Woman,17,Tonka,tonka
+Amouage,Amouage Lyric Woman,18,Bean,bean
+Amouage,Amouage Lyric Woman,19,Patchouli,patchouli
+Amouage,Amouage Lyric Woman,20,Oakmoss,oakmoss
+Amouage,Amouage Lyric Woman,21,Vanilla,vanilla
+Amouage,Amouage Lyric Woman,22,Vetiver,vetiver
+Guerlain,Elixir Charnel Gourmand Coquin,1,Dark,dark
+Guerlain,Elixir Charnel Gourmand Coquin,2,Chocolate,chocolate
+Guerlain,Elixir Charnel Gourmand Coquin,3,Cacao,cacao
+Guerlain,Elixir Charnel Gourmand Coquin,4,Rum,rum
+Guerlain,Elixir Charnel Gourmand Coquin,5,Vanilla,vanilla
+Guerlain,Elixir Charnel Gourmand Coquin,6,Spices,spices
+Guerlain,Elixir Charnel Gourmand Coquin,7,Rose,rose
+Guerlain,Elixir Charnel Gourmand Coquin,8,Pepper,pepper
+Estée Lauder,Sensuous,0,Lily,lily
+Estée Lauder,Sensuous,1,Jasmine,jasmine
+Estée Lauder,Sensuous,2,Magnolia,magnolia
+Estée Lauder,Sensuous,3,Woodsy,woodsy
+Estée Lauder,Sensuous,4,Notes,notes
+Estée Lauder,Sensuous,5,Amber,amber
+Estée Lauder,Sensuous,6,Ylang,ylang
+Estée Lauder,Sensuous,7,Ylang,ylang
+Estée Lauder,Sensuous,8,Sandalwood,sandalwood
+Estée Lauder,Sensuous,9,white,white
+Estée Lauder,Sensuous,10,honey,honey
+Estée Lauder,Sensuous,11,Pepper,pepper
+Estée Lauder,Sensuous,12,Mandarin,mandarin
+Estée Lauder,Sensuous,13,Orange,orange
+Juliette Has A Gun,Citizen Queen,0,Leather,leather
+Juliette Has A Gun,Citizen Queen,1,Aldehydes,aldehydes
+Juliette Has A Gun,Citizen Queen,2,Bergamot,bergamot
+Juliette Has A Gun,Citizen Queen,3,iris,iris
+Juliette Has A Gun,Citizen Queen,4,Rose,rose
+Juliette Has A Gun,Citizen Queen,5,Immortelle,immortelle
+Juliette Has A Gun,Citizen Queen,6,Tuberose,tuberose
+Juliette Has A Gun,Citizen Queen,7,Orange,orange
+Juliette Has A Gun,Citizen Queen,8,Blossom,blossom
+Juliette Has A Gun,Citizen Queen,9,Powdery,powdery
+Juliette Has A Gun,Citizen Queen,10,Notes,notes
+Juliette Has A Gun,Citizen Queen,11,Musk,musk
+Juliette Has A Gun,Citizen Queen,12,Labdanum,labdanum
+Juliette Has A Gun,Citizen Queen,13,French,french
+Juliette Has A Gun,Citizen Queen,14,labdanum,labdanum
+Juliette Has A Gun,Citizen Queen,15,resins,resins
+Juliette Has A Gun,Citizen Queen,16,Vanilla,vanilla
+Juliette Has A Gun,Citizen Queen,17,Ambroxan,ambroxan
+Burberry,The Beat,0,Pink,pink
+Burberry,The Beat,1,Pepper,pepper
+Burberry,The Beat,2,Mandarin,mandarin
+Burberry,The Beat,3,Orange,orange
+Burberry,The Beat,4,Cardamom,cardamom
+Burberry,The Beat,5,Bergamot,bergamot
+Burberry,The Beat,6,Tea,tea
+Burberry,The Beat,7,iris,iris
+Burberry,The Beat,8,Bellflower,bellflower
+Burberry,The Beat,9,White,white
+Burberry,The Beat,10,Musk,musk
+Burberry,The Beat,11,Vetiver,vetiver
+Burberry,The Beat,12,Cedar,cedar
+Jo Malone London,Dark Amber & Ginger Lily,0,Ginger,ginger
+Jo Malone London,Dark Amber & Ginger Lily,1,Black,black
+Jo Malone London,Dark Amber & Ginger Lily,2,Cardamom,cardamom
+Jo Malone London,Dark Amber & Ginger Lily,3,Pink,pink
+Jo Malone London,Dark Amber & Ginger Lily,4,Pepper,pepper
+Jo Malone London,Dark Amber & Ginger Lily,5,Water,water
+Jo Malone London,Dark Amber & Ginger Lily,6,Lily,lily
+Jo Malone London,Dark Amber & Ginger Lily,7,Orchid,orchid
+Jo Malone London,Dark Amber & Ginger Lily,8,Jasmine,jasmine
+Jo Malone London,Dark Amber & Ginger Lily,9,Rose,rose
+Jo Malone London,Dark Amber & Ginger Lily,10,Sandalwood,sandalwood
+Jo Malone London,Dark Amber & Ginger Lily,11,Black,black
+Jo Malone London,Dark Amber & Ginger Lily,12,Amber,amber
+Jo Malone London,Dark Amber & Ginger Lily,13,Kyara,kyara
+Jo Malone London,Dark Amber & Ginger Lily,14,Incense,incense
+Jo Malone London,Dark Amber & Ginger Lily,15,olibanum,olibanum
+Jo Malone London,Dark Amber & Ginger Lily,16,Patchouli,patchouli
+Jo Malone London,Dark Amber & Ginger Lily,17,Leather,leather
+John Galliano,John Galliano,0,Aldehydes,aldehydes
+John Galliano,John Galliano,1,Angelica,angelica
+John Galliano,John Galliano,2,Bergamot,bergamot
+John Galliano,John Galliano,3,Violet,violet
+John Galliano,John Galliano,4,iris,iris
+John Galliano,John Galliano,5,Rose,rose
+John Galliano,John Galliano,6,Lavender,lavender
+John Galliano,John Galliano,7,Peony,peony
+John Galliano,John Galliano,8,Incense,incense
+John Galliano,John Galliano,9,Amber,amber
+John Galliano,John Galliano,10,Patchouli,patchouli
+John Galliano,John Galliano,11,Musk,musk
+John Galliano,John Galliano,12,Virginia,virginia
+John Galliano,John Galliano,13,Cedar,cedar
+Cuba Paris,Cuba Jungle Tiger,0,Magnolia,magnolia
+Cuba Paris,Cuba Jungle Tiger,1,iris,iris
+Cuba Paris,Cuba Jungle Tiger,2,Green,green
+Cuba Paris,Cuba Jungle Tiger,3,Mandarin,mandarin
+Cuba Paris,Cuba Jungle Tiger,4,Violet,violet
+Cuba Paris,Cuba Jungle Tiger,5,Hyacinth,hyacinth
+Cuba Paris,Cuba Jungle Tiger,6,Cashmere,cashmere
+Cuba Paris,Cuba Jungle Tiger,7,Wood,wood
+Cuba Paris,Cuba Jungle Tiger,8,Vetiver,vetiver
+Narciso Rodriguez,Musc Noir For Her,0,Plum,plum
+Narciso Rodriguez,Musc Noir For Her,1,Musk,musk
+Narciso Rodriguez,Musc Noir For Her,2,Heliotrope,heliotrope
+Narciso Rodriguez,Musc Noir For Her,3,Suede,suede
+Salvador Dali,Laguna,0,Pineapple,pineapple
+Salvador Dali,Laguna,1,Moroccan,moroccan
+Salvador Dali,Laguna,2,Lemon,lemon
+Salvador Dali,Laguna,3,Grapefruit,grapefruit
+Salvador Dali,Laguna,4,Peach,peach
+Salvador Dali,Laguna,5,Galbanum,galbanum
+Salvador Dali,Laguna,6,Leaf,leaf
+Salvador Dali,Laguna,7,Plum,plum
+Salvador Dali,Laguna,8,Mandarin,mandarin
+Salvador Dali,Laguna,9,Orange,orange
+Salvador Dali,Laguna,10,Raspberry,raspberry
+Salvador Dali,Laguna,11,Italian,italian
+Salvador Dali,Laguna,12,Iris,iris
+Salvador Dali,Laguna,13,Brazilian,brazilian
+Salvador Dali,Laguna,14,Rosewood,rosewood
+Salvador Dali,Laguna,15,Jasmine,jasmine
+Salvador Dali,Laguna,16,Lily,lily
+Salvador Dali,Laguna,17,of,of
+Salvador Dali,Laguna,18,the,the
+Salvador Dali,Laguna,19,Valley,valley
+Salvador Dali,Laguna,20,Egyptian,egyptian
+Salvador Dali,Laguna,21,Rose,rose
+Salvador Dali,Laguna,22,Coconut,coconut
+Salvador Dali,Laguna,23,Vanilla,vanilla
+Salvador Dali,Laguna,24,Madagascar,madagascar
+Salvador Dali,Laguna,25,Sandalwood,sandalwood
+Salvador Dali,Laguna,26,Tonka,tonka
+Salvador Dali,Laguna,27,Bean,bean
+Salvador Dali,Laguna,28,Patchouli,patchouli
+Salvador Dali,Laguna,29,Musk,musk
+Salvador Dali,Laguna,30,Amber,amber
+Salvador Dali,Laguna,31,Cedar,cedar
+Tom Ford,White Suede,0,Thyme,thyme
+Tom Ford,White Suede,1,Tea,tea
+Tom Ford,White Suede,2,Lily,lily
+Tom Ford,White Suede,3,of,of
+Tom Ford,White Suede,4,the,the
+Tom Ford,White Suede,5,Valley,valley
+Tom Ford,White Suede,6,Saffron,saffron
+Tom Ford,White Suede,7,Rose,rose
+Tom Ford,White Suede,8,Suede,suede
+Tom Ford,White Suede,9,Musk,musk
+Tom Ford,White Suede,10,Sandalwood,sandalwood
+Tom Ford,White Suede,11,Amber,amber
+Tom Ford,White Suede,12,Olibanum,olibanum
+Estée Lauder,White Linen,0,Aldehydes,aldehydes
+Estée Lauder,White Linen,1,Lemon,lemon
+Estée Lauder,White Linen,2,Peach,peach
+Estée Lauder,White Linen,3,Hyacinth,hyacinth
+Estée Lauder,White Linen,4,Carnation,carnation
+Estée Lauder,White Linen,5,Lily,lily
+Estée Lauder,White Linen,6,of,of
+Estée Lauder,White Linen,7,the,the
+Estée Lauder,White Linen,8,Valley,valley
+Estée Lauder,White Linen,9,Rose,rose
+Estée Lauder,White Linen,10,Lilac,lilac
+Estée Lauder,White Linen,11,Jasmine,jasmine
+Estée Lauder,White Linen,12,iris,iris
+Estée Lauder,White Linen,13,Orris,orris
+Estée Lauder,White Linen,14,Violet,violet
+Estée Lauder,White Linen,15,Ylang,ylang
+Estée Lauder,White Linen,16,Ylang,ylang
+Estée Lauder,White Linen,17,Orchid,orchid
+Estée Lauder,White Linen,18,Oakmoss,oakmoss
+Estée Lauder,White Linen,19,Vetiver,vetiver
+Estée Lauder,White Linen,20,Cedar,cedar
+Estée Lauder,White Linen,21,Sandalwood,sandalwood
+Estée Lauder,White Linen,22,Benzoin,benzoin
+Estée Lauder,White Linen,23,Honey,honey
+Estée Lauder,White Linen,24,Amber,amber
+Estée Lauder,White Linen,25,Tonka,tonka
+Estée Lauder,White Linen,26,Bean,bean
+Victoria's Secret,Bare Vanilla,1,Vanilla,vanilla
+Victoria's Secret,Bare Vanilla,2,Cashmeran,cashmeran
+Dolce&Gabbana,D&G Anthology L'Imperatrice 3,0,Kiwi,kiwi
+Dolce&Gabbana,D&G Anthology L'Imperatrice 3,1,Rhuburb,rhuburb
+Dolce&Gabbana,D&G Anthology L'Imperatrice 3,2,Pink,pink
+Dolce&Gabbana,D&G Anthology L'Imperatrice 3,3,Pepper,pepper
+Dolce&Gabbana,D&G Anthology L'Imperatrice 3,4,Watermelon,watermelon
+Dolce&Gabbana,D&G Anthology L'Imperatrice 3,5,Cyclamen,cyclamen
+Dolce&Gabbana,D&G Anthology L'Imperatrice 3,6,Jasmine,jasmine
+Dolce&Gabbana,D&G Anthology L'Imperatrice 3,7,Lemon,lemon
+Dolce&Gabbana,D&G Anthology L'Imperatrice 3,8,Tree,tree
+Dolce&Gabbana,D&G Anthology L'Imperatrice 3,9,Musk,musk
+Dolce&Gabbana,D&G Anthology L'Imperatrice 3,10,Sandalwood,sandalwood
+Versace,Versense,0,Bergamot,bergamot
+Versace,Versense,1,Citruses,citruses
+Versace,Versense,2,Green,green
+Versace,Versense,3,Mandarin,mandarin
+Versace,Versense,4,Fig,fig
+Versace,Versense,5,Pear,pear
+Versace,Versense,6,Cardamom,cardamom
+Versace,Versense,7,Lily,lily
+Versace,Versense,8,Jasmine,jasmine
+Versace,Versense,9,Narcissus,narcissus
+Versace,Versense,10,Virginia,virginia
+Versace,Versense,11,Cedar,cedar
+Versace,Versense,12,Olive,olive
+Versace,Versense,13,Tree,tree
+Versace,Versense,14,Musk,musk
+Versace,Versense,15,Sandalwood,sandalwood
+Van Cleef & Arpels,Collection Extraordinaire Orchidee Vanille,1,Vanilla,vanilla
+Van Cleef & Arpels,Collection Extraordinaire Orchidee Vanille,2,Dark,dark
+Van Cleef & Arpels,Collection Extraordinaire Orchidee Vanille,3,Chocolate,chocolate
+Van Cleef & Arpels,Collection Extraordinaire Orchidee Vanille,4,Vanilla,vanilla
+Van Cleef & Arpels,Collection Extraordinaire Orchidee Vanille,5,orchid,orchid
+Van Cleef & Arpels,Collection Extraordinaire Orchidee Vanille,6,Tonka,tonka
+Van Cleef & Arpels,Collection Extraordinaire Orchidee Vanille,7,Bean,bean
+Van Cleef & Arpels,Collection Extraordinaire Orchidee Vanille,8,Bitter,bitter
+Van Cleef & Arpels,Collection Extraordinaire Orchidee Vanille,9,Almond,almond
+Van Cleef & Arpels,Collection Extraordinaire Orchidee Vanille,10,Mandarin,mandarin
+Van Cleef & Arpels,Collection Extraordinaire Orchidee Vanille,11,Orange,orange
+Van Cleef & Arpels,Collection Extraordinaire Orchidee Vanille,12,Violet,violet
+Van Cleef & Arpels,Collection Extraordinaire Orchidee Vanille,13,White,white
+Van Cleef & Arpels,Collection Extraordinaire Orchidee Vanille,14,Musk,musk
+Van Cleef & Arpels,Collection Extraordinaire Orchidee Vanille,15,Litchi,litchi
+Van Cleef & Arpels,Collection Extraordinaire Orchidee Vanille,16,Cedar,cedar
+Van Cleef & Arpels,Collection Extraordinaire Orchidee Vanille,17,Bulgarian,bulgarian
+Van Cleef & Arpels,Collection Extraordinaire Orchidee Vanille,18,Rose,rose
+Yves Saint Laurent,Opium Eau de Parfum 2009,0,Mandarin,mandarin
+Yves Saint Laurent,Opium Eau de Parfum 2009,1,Orange,orange
+Yves Saint Laurent,Opium Eau de Parfum 2009,2,Bergamot,bergamot
+Yves Saint Laurent,Opium Eau de Parfum 2009,3,Lily,lily
+Yves Saint Laurent,Opium Eau de Parfum 2009,4,of,of
+Yves Saint Laurent,Opium Eau de Parfum 2009,5,the,the
+Yves Saint Laurent,Opium Eau de Parfum 2009,6,Valley,valley
+Yves Saint Laurent,Opium Eau de Parfum 2009,7,Myrhh,myrhh
+Yves Saint Laurent,Opium Eau de Parfum 2009,8,Jasmine,jasmine
+Yves Saint Laurent,Opium Eau de Parfum 2009,9,Opoponax,opoponax
+Yves Saint Laurent,Opium Eau de Parfum 2009,10,Amber,amber
+Yves Saint Laurent,Opium Eau de Parfum 2009,11,Patchouli,patchouli
+Yves Saint Laurent,Opium Eau de Parfum 2009,12,Vanille,vanille
+Montale,Roses Musk,1,Rose,rose
+Montale,Roses Musk,2,Musk,musk
+Montale,Roses Musk,3,Jasmine,jasmine
+Byredo,Blanche,0,Aldehydes,aldehydes
+Byredo,Blanche,1,Rose,rose
+Byredo,Blanche,2,Pink,pink
+Byredo,Blanche,3,Pepper,pepper
+Byredo,Blanche,4,Peony,peony
+Byredo,Blanche,5,Violet,violet
+Byredo,Blanche,6,African,african
+Byredo,Blanche,7,Orange,orange
+Byredo,Blanche,8,flower,flower
+Byredo,Blanche,9,Musk,musk
+Byredo,Blanche,10,Woodsy,woodsy
+Byredo,Blanche,11,Notes,notes
+Byredo,Blanche,12,Sandalwood,sandalwood
+Chanel,Chance Eau Tendre,0,Quince,quince
+Chanel,Chance Eau Tendre,1,Grapefruit,grapefruit
+Chanel,Chance Eau Tendre,2,Hyacinth,hyacinth
+Chanel,Chance Eau Tendre,3,Jasmine,jasmine
+Chanel,Chance Eau Tendre,4,Musk,musk
+Chanel,Chance Eau Tendre,5,iris,iris
+Chanel,Chance Eau Tendre,6,Virginia,virginia
+Chanel,Chance Eau Tendre,7,Cedar,cedar
+Chanel,Chance Eau Tendre,8,Amber,amber
+Frederic Malle,Portrait of a Lady,0,Rose,rose
+Frederic Malle,Portrait of a Lady,1,Clove,clove
+Frederic Malle,Portrait of a Lady,2,Raspberry,raspberry
+Frederic Malle,Portrait of a Lady,3,Black,black
+Frederic Malle,Portrait of a Lady,4,Currant,currant
+Frederic Malle,Portrait of a Lady,5,Cinnamon,cinnamon
+Frederic Malle,Portrait of a Lady,6,Patchouli,patchouli
+Frederic Malle,Portrait of a Lady,7,Incense,incense
+Frederic Malle,Portrait of a Lady,8,Sandalwood,sandalwood
+Frederic Malle,Portrait of a Lady,9,Musk,musk
+Frederic Malle,Portrait of a Lady,10,Benzoin,benzoin
+Frederic Malle,Portrait of a Lady,11,Amber,amber
+Giorgio Armani,Acqua di Gioia,0,Amalfi,amalfi
+Giorgio Armani,Acqua di Gioia,1,Lemon,lemon
+Giorgio Armani,Acqua di Gioia,2,Mint,mint
+Giorgio Armani,Acqua di Gioia,3,Jasmine,jasmine
+Giorgio Armani,Acqua di Gioia,4,Peony,peony
+Giorgio Armani,Acqua di Gioia,5,Pink,pink
+Giorgio Armani,Acqua di Gioia,6,Pepper,pepper
+Giorgio Armani,Acqua di Gioia,7,Virginia,virginia
+Giorgio Armani,Acqua di Gioia,8,Cedar,cedar
+Giorgio Armani,Acqua di Gioia,9,French,french
+Giorgio Armani,Acqua di Gioia,10,labdanum,labdanum
+Giorgio Armani,Acqua di Gioia,11,Brown,brown
+Giorgio Armani,Acqua di Gioia,12,sugar,sugar
+Gucci,Gucci Guilty,0,Pink,pink
+Gucci,Gucci Guilty,1,Pepper,pepper
+Gucci,Gucci Guilty,2,Mandarin,mandarin
+Gucci,Gucci Guilty,3,Orange,orange
+Gucci,Gucci Guilty,4,Bergamot,bergamot
+Gucci,Gucci Guilty,5,Lilac,lilac
+Gucci,Gucci Guilty,6,Peach,peach
+Gucci,Gucci Guilty,7,Geranium,geranium
+Gucci,Gucci Guilty,8,Jasmine,jasmine
+Gucci,Gucci Guilty,9,Black,black
+Gucci,Gucci Guilty,10,Currant,currant
+Gucci,Gucci Guilty,11,Patchouli,patchouli
+Gucci,Gucci Guilty,12,Amber,amber
+Gucci,Gucci Guilty,13,White,white
+Gucci,Gucci Guilty,14,Musk,musk
+Gucci,Gucci Guilty,15,Vanilla,vanilla
+Paco Rabanne,Lady Million,0,Raspberry,raspberry
+Paco Rabanne,Lady Million,1,Neroli,neroli
+Paco Rabanne,Lady Million,2,Amalfi,amalfi
+Paco Rabanne,Lady Million,3,Lemon,lemon
+Paco Rabanne,Lady Million,4,Jasmine,jasmine
+Paco Rabanne,Lady Million,5,African,african
+Paco Rabanne,Lady Million,6,Orange,orange
+Paco Rabanne,Lady Million,7,flower,flower
+Paco Rabanne,Lady Million,8,Gardenia,gardenia
+Paco Rabanne,Lady Million,9,white,white
+Paco Rabanne,Lady Million,10,honey,honey
+Paco Rabanne,Lady Million,11,Patchouli,patchouli
+Paco Rabanne,Lady Million,12,Amber,amber
+Juliette Has A Gun,Not A Perfume,1,Ambroxan,ambroxan
+Juliette Has A Gun,Not A Perfume,2,Cetalox,cetalox
+Mugler,Womanity,1,Fig,fig
+Mugler,Womanity,2,Caviar,caviar
+Mugler,Womanity,3,Fig,fig
+Mugler,Womanity,4,Tree,tree
+Mugler,Womanity,5,Fig,fig
+Mugler,Womanity,6,Leaf,leaf
+Rihanna,Reb'l Fleur,0,Peach,peach
+Rihanna,Reb'l Fleur,1,Plum,plum
+Rihanna,Reb'l Fleur,2,Red,red
+Rihanna,Reb'l Fleur,3,Berries,berries
+Rihanna,Reb'l Fleur,4,Coconut,coconut
+Rihanna,Reb'l Fleur,5,Tuberose,tuberose
+Rihanna,Reb'l Fleur,6,Hibiscus,hibiscus
+Rihanna,Reb'l Fleur,7,Violet,violet
+Rihanna,Reb'l Fleur,8,Vanille,vanille
+Rihanna,Reb'l Fleur,9,Patchouli,patchouli
+Rihanna,Reb'l Fleur,10,Musk,musk
+Rihanna,Reb'l Fleur,11,Amber,amber
+Jo Malone London,English Pear & Freesia,0,Pear,pear
+Jo Malone London,English Pear & Freesia,1,Melon,melon
+Jo Malone London,English Pear & Freesia,2,Freesia,freesia
+Jo Malone London,English Pear & Freesia,3,Rose,rose
+Jo Malone London,English Pear & Freesia,4,Musk,musk
+Jo Malone London,English Pear & Freesia,5,Patchouli,patchouli
+Jo Malone London,English Pear & Freesia,6,Rhuburb,rhuburb
+Jo Malone London,English Pear & Freesia,7,Amber,amber
+Amouage,Memoir Woman,0,Wormwood,wormwood
+Amouage,Memoir Woman,1,Cardamom,cardamom
+Amouage,Memoir Woman,2,Pink,pink
+Amouage,Memoir Woman,3,Pepper,pepper
+Amouage,Memoir Woman,4,Mandarin,mandarin
+Amouage,Memoir Woman,5,Orange,orange
+Amouage,Memoir Woman,6,Incense,incense
+Amouage,Memoir Woman,7,Clove,clove
+Amouage,Memoir Woman,8,Woodsy,woodsy
+Amouage,Memoir Woman,9,Notes,notes
+Amouage,Memoir Woman,10,White,white
+Amouage,Memoir Woman,11,Flowers,flowers
+Amouage,Memoir Woman,12,Rose,rose
+Amouage,Memoir Woman,13,Pepper,pepper
+Amouage,Memoir Woman,14,Jasmine,jasmine
+Amouage,Memoir Woman,15,Leather,leather
+Amouage,Memoir Woman,16,French,french
+Amouage,Memoir Woman,17,labdanum,labdanum
+Amouage,Memoir Woman,18,Castoreum,castoreum
+Amouage,Memoir Woman,19,Styrax,styrax
+Amouage,Memoir Woman,20,oak,oak
+Amouage,Memoir Woman,21,moss,moss
+Amouage,Memoir Woman,22,Musk,musk
+Byredo,La Tulipe,0,Freesia,freesia
+Byredo,La Tulipe,1,Cyclamen,cyclamen
+Byredo,La Tulipe,2,Rhuburb,rhuburb
+Byredo,La Tulipe,3,pink,pink
+Byredo,La Tulipe,4,tulip,tulip
+Byredo,La Tulipe,5,Green,green
+Byredo,La Tulipe,6,Notes,notes
+Byredo,La Tulipe,7,vetyver,vetyver
+Byredo,La Tulipe,8,Woodsy,woodsy
+Byredo,La Tulipe,9,Notes,notes
+Victoria's Secret,Bombshell,0,Passionfruit,passionfruit
+Victoria's Secret,Bombshell,1,Grapefruit,grapefruit
+Victoria's Secret,Bombshell,2,Pineapple,pineapple
+Victoria's Secret,Bombshell,3,Tangerine,tangerine
+Victoria's Secret,Bombshell,4,Big,big
+Victoria's Secret,Bombshell,5,Strawberry,strawberry
+Victoria's Secret,Bombshell,6,Peony,peony
+Victoria's Secret,Bombshell,7,Vanilla,vanilla
+Victoria's Secret,Bombshell,8,orchid,orchid
+Victoria's Secret,Bombshell,9,Red,red
+Victoria's Secret,Bombshell,10,Berries,berries
+Victoria's Secret,Bombshell,11,Jasmine,jasmine
+Victoria's Secret,Bombshell,12,Lily,lily
+Victoria's Secret,Bombshell,13,of,of
+Victoria's Secret,Bombshell,14,the,the
+Victoria's Secret,Bombshell,15,Valley,valley
+Victoria's Secret,Bombshell,16,Musk,musk
+Victoria's Secret,Bombshell,17,Woody,woody
+Victoria's Secret,Bombshell,18,Notes,notes
+Victoria's Secret,Bombshell,19,Oakmoss,oakmoss
+Xerjoff,Bouquet Ideale,0,Cinnamon,cinnamon
+Xerjoff,Bouquet Ideale,1,Nutmeg,nutmeg
+Xerjoff,Bouquet Ideale,2,Guaiac,guaiac
+Xerjoff,Bouquet Ideale,3,Wood,wood
+Xerjoff,Bouquet Ideale,4,Sandalwood,sandalwood
+Xerjoff,Bouquet Ideale,5,Virginia,virginia
+Xerjoff,Bouquet Ideale,6,Cedar,cedar
+Xerjoff,Bouquet Ideale,7,Papyrus,papyrus
+Xerjoff,Bouquet Ideale,8,Vanille,vanille
+Xerjoff,Bouquet Ideale,9,Coumarin,coumarin
+Xerjoff,Bouquet Ideale,10,Tobacco,tobacco
+Xerjoff,Bouquet Ideale,11,blossom,blossom
+Xerjoff,Bouquet Ideale,12,French,french
+Xerjoff,Bouquet Ideale,13,labdanum,labdanum
+Xerjoff,Bouquet Ideale,14,Musk,musk
+Lancome,Tresor In Love,0,Nectarine,nectarine
+Lancome,Tresor In Love,1,Pear,pear
+Lancome,Tresor In Love,2,Pink,pink
+Lancome,Tresor In Love,3,Pepper,pepper
+Lancome,Tresor In Love,4,Bergamot,bergamot
+Lancome,Tresor In Love,5,Taif,taif
+Lancome,Tresor In Love,6,Rose,rose
+Lancome,Tresor In Love,7,Peach,peach
+Lancome,Tresor In Love,8,Violet,violet
+Lancome,Tresor In Love,9,Jasmine,jasmine
+Lancome,Tresor In Love,10,Musk,musk
+Lancome,Tresor In Love,11,Virginia,virginia
+Lancome,Tresor In Love,12,Cedar,cedar
+Carolina Herrera,212 VIP,0,Rum,rum
+Carolina Herrera,212 VIP,1,Passionfruit,passionfruit
+Carolina Herrera,212 VIP,2,Gardenia,gardenia
+Carolina Herrera,212 VIP,3,Musk,musk
+Carolina Herrera,212 VIP,4,Vanille,vanille
+Carolina Herrera,212 VIP,5,Tonka,tonka
+Carolina Herrera,212 VIP,6,Bean,bean
+Etat Libre d'Orange,Tilda Swinton Like This,1,Immortelle,immortelle
+Etat Libre d'Orange,Tilda Swinton Like This,2,Pumpkin,pumpkin
+Etat Libre d'Orange,Tilda Swinton Like This,3,Ginger,ginger
+Etat Libre d'Orange,Tilda Swinton Like This,4,Tangerine,tangerine
+Etat Libre d'Orange,Tilda Swinton Like This,5,Heliotrope,heliotrope
+Etat Libre d'Orange,Tilda Swinton Like This,6,Musk,musk
+Etat Libre d'Orange,Tilda Swinton Like This,7,vetyver,vetyver
+Etat Libre d'Orange,Tilda Swinton Like This,8,Neroli,neroli
+Etat Libre d'Orange,Tilda Swinton Like This,9,Rose,rose
+Gucci,Flora by Gucci Eau de Parfum,0,Peony,peony
+Gucci,Flora by Gucci Eau de Parfum,1,Citruses,citruses
+Gucci,Flora by Gucci Eau de Parfum,2,Mandarin,mandarin
+Gucci,Flora by Gucci Eau de Parfum,3,Orange,orange
+Gucci,Flora by Gucci Eau de Parfum,4,Osmanthus,osmanthus
+Gucci,Flora by Gucci Eau de Parfum,5,Rose,rose
+Gucci,Flora by Gucci Eau de Parfum,6,Sandalwood,sandalwood
+Gucci,Flora by Gucci Eau de Parfum,7,Pink,pink
+Gucci,Flora by Gucci Eau de Parfum,8,Pepper,pepper
+Gucci,Flora by Gucci Eau de Parfum,9,Patchouli,patchouli
+Prada,Prada Candy,0,Caramel,caramel
+Prada,Prada Candy,1,Musk,musk
+Prada,Prada Candy,2,Powdery,powdery
+Prada,Prada Candy,3,Notes,notes
+Prada,Prada Candy,4,Benzoin,benzoin
+Prada,Prada Candy,5,Vanilla,vanilla
+Elie Saab,Le Parfum,0,African,african
+Elie Saab,Le Parfum,1,Orange,orange
+Elie Saab,Le Parfum,2,flower,flower
+Elie Saab,Le Parfum,3,Jasmine,jasmine
+Elie Saab,Le Parfum,4,white,white
+Elie Saab,Le Parfum,5,honey,honey
+Elie Saab,Le Parfum,6,Patchouli,patchouli
+Elie Saab,Le Parfum,7,Rose,rose
+Elie Saab,Le Parfum,8,Virginia,virginia
+Elie Saab,Le Parfum,9,Cedar,cedar
+Jimmy Choo,Jimmy Choo,0,Pear,pear
+Jimmy Choo,Jimmy Choo,1,Mandarin,mandarin
+Jimmy Choo,Jimmy Choo,2,Orange,orange
+Jimmy Choo,Jimmy Choo,3,Green,green
+Jimmy Choo,Jimmy Choo,4,Notes,notes
+Jimmy Choo,Jimmy Choo,5,Orchid,orchid
+Jimmy Choo,Jimmy Choo,6,Toffee,toffee
+Jimmy Choo,Jimmy Choo,7,Patchouli,patchouli
+Lancome,Tresor Midnight Rose,0,Raspberry,raspberry
+Lancome,Tresor Midnight Rose,1,Rose,rose
+Lancome,Tresor Midnight Rose,2,Cassis,cassis
+Lancome,Tresor Midnight Rose,3,Pink,pink
+Lancome,Tresor Midnight Rose,4,Pepper,pepper
+Lancome,Tresor Midnight Rose,5,Peony,peony
+Lancome,Tresor Midnight Rose,6,Jasmine,jasmine
+Lancome,Tresor Midnight Rose,7,Vanille,vanille
+Lancome,Tresor Midnight Rose,8,Musk,musk
+Lancome,Tresor Midnight Rose,9,Virginia,virginia
+Lancome,Tresor Midnight Rose,10,Cedar,cedar
+Bottega Veneta,Bottega Veneta,0,Pink,pink
+Bottega Veneta,Bottega Veneta,1,Pepper,pepper
+Bottega Veneta,Bottega Veneta,2,Bergamot,bergamot
+Bottega Veneta,Bottega Veneta,3,Jasmine,jasmine
+Bottega Veneta,Bottega Veneta,4,Leather,leather
+Bottega Veneta,Bottega Veneta,5,oak,oak
+Bottega Veneta,Bottega Veneta,6,moss,moss
+Bottega Veneta,Bottega Veneta,7,Patchouli,patchouli
+Xerjoff,Lira,0,Blood,blood
+Xerjoff,Lira,1,Orange,orange
+Xerjoff,Lira,2,Bergamot,bergamot
+Xerjoff,Lira,3,Lavender,lavender
+Xerjoff,Lira,4,Cinnamon,cinnamon
+Xerjoff,Lira,5,Licorice,licorice
+Xerjoff,Lira,6,Jasmine,jasmine
+Xerjoff,Lira,7,Caramel,caramel
+Xerjoff,Lira,8,Vanille,vanille
+Xerjoff,Lira,9,Musk,musk
+Mancera,Roses Vanille,0,Lemon,lemon
+Mancera,Roses Vanille,1,Water,water
+Mancera,Roses Vanille,2,Notes,notes
+Mancera,Roses Vanille,3,Rose,rose
+Mancera,Roses Vanille,4,Sugar,sugar
+Mancera,Roses Vanille,5,Vanilla,vanilla
+Mancera,Roses Vanille,6,Sugar,sugar
+Mancera,Roses Vanille,7,White,white
+Mancera,Roses Vanille,8,Musk,musk
+Mancera,Roses Vanille,9,Cedar,cedar
+Burberry,Body,0,Peach,peach
+Burberry,Body,1,Wormwood,wormwood
+Burberry,Body,2,Freesia,freesia
+Burberry,Body,3,Rose,rose
+Burberry,Body,4,Sandalwood,sandalwood
+Burberry,Body,5,iris,iris
+Burberry,Body,6,Musk,musk
+Burberry,Body,7,Cashmere,cashmere
+Burberry,Body,8,Wood,wood
+Burberry,Body,9,Vanille,vanille
+Burberry,Body,10,Amber,amber
+Chanel,Chanel No 19 Poudre,0,Galbanum,galbanum
+Chanel,Chanel No 19 Poudre,1,Neroli,neroli
+Chanel,Chanel No 19 Poudre,2,Mandarin,mandarin
+Chanel,Chanel No 19 Poudre,3,Orange,orange
+Chanel,Chanel No 19 Poudre,4,iris,iris
+Chanel,Chanel No 19 Poudre,5,Jasmine,jasmine
+Chanel,Chanel No 19 Poudre,6,Vetiver,vetiver
+Chanel,Chanel No 19 Poudre,7,Musk,musk
+Chanel,Chanel No 19 Poudre,8,Tonka,tonka
+Chanel,Chanel No 19 Poudre,9,Bean,bean
+Amouage,Honour Woman,0,Rhuburb,rhuburb
+Amouage,Honour Woman,1,Pepper,pepper
+Amouage,Honour Woman,2,Coriander,coriander
+Amouage,Honour Woman,3,Gardenia,gardenia
+Amouage,Honour Woman,4,Tuberose,tuberose
+Amouage,Honour Woman,5,Jasmine,jasmine
+Amouage,Honour Woman,6,Lily,lily
+Amouage,Honour Woman,7,of,of
+Amouage,Honour Woman,8,the,the
+Amouage,Honour Woman,9,Valley,valley
+Amouage,Honour Woman,10,Carnation,carnation
+Amouage,Honour Woman,11,Amber,amber
+Amouage,Honour Woman,12,Incense,incense
+Amouage,Honour Woman,13,Opoponax,opoponax
+Amouage,Honour Woman,14,Vetiver,vetiver
+Amouage,Honour Woman,15,Leather,leather
+Guerlain,Shalimar Parfum Initial,0,Bergamot,bergamot
+Guerlain,Shalimar Parfum Initial,1,Orange,orange
+Guerlain,Shalimar Parfum Initial,2,Green,green
+Guerlain,Shalimar Parfum Initial,3,Notes,notes
+Guerlain,Shalimar Parfum Initial,4,iris,iris
+Guerlain,Shalimar Parfum Initial,5,Patchouli,patchouli
+Guerlain,Shalimar Parfum Initial,6,Vetiver,vetiver
+Guerlain,Shalimar Parfum Initial,7,Rose,rose
+Guerlain,Shalimar Parfum Initial,8,Jasmine,jasmine
+Guerlain,Shalimar Parfum Initial,9,Vanille,vanille
+Guerlain,Shalimar Parfum Initial,10,Caramel,caramel
+Guerlain,Shalimar Parfum Initial,11,Tonka,tonka
+Guerlain,Shalimar Parfum Initial,12,Bean,bean
+Guerlain,Shalimar Parfum Initial,13,Musk,musk
+Trussardi,Trussardi Donna (2011),0,Fruity,fruity
+Trussardi,Trussardi Donna (2011),1,Notes,notes
+Trussardi,Trussardi Donna (2011),2,Yuzu,yuzu
+Trussardi,Trussardi Donna (2011),3,Amalfi,amalfi
+Trussardi,Trussardi Donna (2011),4,Lemon,lemon
+Trussardi,Trussardi Donna (2011),5,Jasmine,jasmine
+Trussardi,Trussardi Donna (2011),6,African,african
+Trussardi,Trussardi Donna (2011),7,Orange,orange
+Trussardi,Trussardi Donna (2011),8,flower,flower
+Trussardi,Trussardi Donna (2011),9,Lotus,lotus
+Trussardi,Trussardi Donna (2011),10,Vanille,vanille
+Trussardi,Trussardi Donna (2011),11,Sandalwood,sandalwood
+Trussardi,Trussardi Donna (2011),12,Patchouli,patchouli
+Trussardi,Trussardi Donna (2011),13,Virginia,virginia
+Trussardi,Trussardi Donna (2011),14,Cedar,cedar
+Tom Ford,Jasmin Rouge,0,Cinnamon,cinnamon
+Tom Ford,Jasmin Rouge,1,Ginger,ginger
+Tom Ford,Jasmin Rouge,2,Bergamot,bergamot
+Tom Ford,Jasmin Rouge,3,Cardamom,cardamom
+Tom Ford,Jasmin Rouge,4,Pepper,pepper
+Tom Ford,Jasmin Rouge,5,Mandarin,mandarin
+Tom Ford,Jasmin Rouge,6,Orange,orange
+Tom Ford,Jasmin Rouge,7,Jasmine,jasmine
+Tom Ford,Jasmin Rouge,8,Ylang,ylang
+Tom Ford,Jasmin Rouge,9,Ylang,ylang
+Tom Ford,Jasmin Rouge,10,Neroli,neroli
+Tom Ford,Jasmin Rouge,11,Broom,broom
+Tom Ford,Jasmin Rouge,12,Clary,clary
+Tom Ford,Jasmin Rouge,13,Sage,sage
+Tom Ford,Jasmin Rouge,14,Amber,amber
+Tom Ford,Jasmin Rouge,15,Woodsy,woodsy
+Tom Ford,Jasmin Rouge,16,Notes,notes
+Tom Ford,Jasmin Rouge,17,Vanille,vanille
+Tom Ford,Jasmin Rouge,18,Leather,leather
+Tom Ford,Jasmin Rouge,19,French,french
+Tom Ford,Jasmin Rouge,20,labdanum,labdanum
+Cartier,Baiser Vole,0,Lily,lily
+Cartier,Baiser Vole,1,Citruses,citruses
+Cartier,Baiser Vole,2,Lily,lily
+Cartier,Baiser Vole,3,Green,green
+Cartier,Baiser Vole,4,Lily,lily
+Cartier,Baiser Vole,5,Green,green
+Cartier,Baiser Vole,6,Notes,notes
+Marc Jacobs,Daisy Eau So Fresh,0,Green,green
+Marc Jacobs,Daisy Eau So Fresh,1,Notes,notes
+Marc Jacobs,Daisy Eau So Fresh,2,Raspberry,raspberry
+Marc Jacobs,Daisy Eau So Fresh,3,Pear,pear
+Marc Jacobs,Daisy Eau So Fresh,4,Grapefruit,grapefruit
+Marc Jacobs,Daisy Eau So Fresh,5,Violet,violet
+Marc Jacobs,Daisy Eau So Fresh,6,Litchi,litchi
+Marc Jacobs,Daisy Eau So Fresh,7,Apple,apple
+Marc Jacobs,Daisy Eau So Fresh,8,Blossom,blossom
+Marc Jacobs,Daisy Eau So Fresh,9,Rose,rose
+Marc Jacobs,Daisy Eau So Fresh,10,Jasmine,jasmine
+Marc Jacobs,Daisy Eau So Fresh,11,Musk,musk
+Marc Jacobs,Daisy Eau So Fresh,12,Plum,plum
+Marc Jacobs,Daisy Eau So Fresh,13,Virginia,virginia
+Marc Jacobs,Daisy Eau So Fresh,14,Cedar,cedar
+Jo Malone London,Wild Bluebell,0,Bellflower,bellflower
+Jo Malone London,Wild Bluebell,1,Clove,clove
+Jo Malone London,Wild Bluebell,2,Lily,lily
+Jo Malone London,Wild Bluebell,3,of,of
+Jo Malone London,Wild Bluebell,4,the,the
+Jo Malone London,Wild Bluebell,5,Valley,valley
+Jo Malone London,Wild Bluebell,6,Rose,rose
+Jo Malone London,Wild Bluebell,7,Hip,hip
+Jo Malone London,Wild Bluebell,8,Jasmine,jasmine
+Jo Malone London,Wild Bluebell,9,Musk,musk
+Jo Malone London,Wild Bluebell,10,Amber,amber
+Annick Goutal,Vanille Exquise,1,Vanilla,vanilla
+Annick Goutal,Vanille Exquise,2,Almond,almond
+Annick Goutal,Vanille Exquise,3,Guaiac,guaiac
+Annick Goutal,Vanille Exquise,4,Wood,wood
+Annick Goutal,Vanille Exquise,5,Sandalwood,sandalwood
+Annick Goutal,Vanille Exquise,6,Angelica,angelica
+Annick Goutal,Vanille Exquise,7,Musk,musk
+Christian Dior,Rouge Trafalgar,0,Raspberry,raspberry
+Christian Dior,Rouge Trafalgar,1,Cherry,cherry
+Christian Dior,Rouge Trafalgar,2,Strawberry,strawberry
+Christian Dior,Rouge Trafalgar,3,Mandarin,mandarin
+Christian Dior,Rouge Trafalgar,4,Orange,orange
+Christian Dior,Rouge Trafalgar,5,Black,black
+Christian Dior,Rouge Trafalgar,6,Currant,currant
+Christian Dior,Rouge Trafalgar,7,Grapefruit,grapefruit
+Christian Dior,Rouge Trafalgar,8,Musk,musk
+Christian Dior,Rouge Trafalgar,9,Patchouli,patchouli
+Bath and Body Works,Chocolate Covered Cherry,1,Cherry,cherry
+Bath and Body Works,Chocolate Covered Cherry,2,Chocolate,chocolate
+Bath and Body Works,Chocolate Covered Cherry,3,Liquor,liquor
+Donna Karan,DKNY Women,0,Tomato,tomato
+Donna Karan,DKNY Women,1,Leaf,leaf
+Donna Karan,DKNY Women,2,Orange,orange
+Donna Karan,DKNY Women,3,Mandarin,mandarin
+Donna Karan,DKNY Women,4,Orange,orange
+Donna Karan,DKNY Women,5,Apricot,apricot
+Donna Karan,DKNY Women,6,Cassia,cassia
+Donna Karan,DKNY Women,7,Water,water
+Donna Karan,DKNY Women,8,Lily,lily
+Donna Karan,DKNY Women,9,Yellow,yellow
+Donna Karan,DKNY Women,10,Water,water
+Donna Karan,DKNY Women,11,Lily,lily
+Donna Karan,DKNY Women,12,Yellow,yellow
+Donna Karan,DKNY Women,13,Narcissus,narcissus
+Donna Karan,DKNY Women,14,Jasmine,jasmine
+Donna Karan,DKNY Women,15,Heliotrope,heliotrope
+Donna Karan,DKNY Women,16,Ylang,ylang
+Donna Karan,DKNY Women,17,Ylang,ylang
+Donna Karan,DKNY Women,18,Rose,rose
+Donna Karan,DKNY Women,19,Orchid,orchid
+Donna Karan,DKNY Women,20,Birch,birch
+Donna Karan,DKNY Women,21,Suede,suede
+Donna Karan,DKNY Women,22,Sandalwood,sandalwood
+Donna Karan,DKNY Women,23,Patchouli,patchouli
+Donna Karan,DKNY Women,24,Amber,amber
+Moschino,Toy 2,0,Apple,apple
+Moschino,Toy 2,1,Mandarin,mandarin
+Moschino,Toy 2,2,Orange,orange
+Moschino,Toy 2,3,Magnolia,magnolia
+Moschino,Toy 2,4,White,white
+Moschino,Toy 2,5,Currant,currant
+Moschino,Toy 2,6,Peony,peony
+Moschino,Toy 2,7,Jasmine,jasmine
+Moschino,Toy 2,8,Musk,musk
+Moschino,Toy 2,9,Sandalwood,sandalwood
+Moschino,Toy 2,10,Amberwood,amberwood
+Pascal Morabito,Aimer,0,Raspberry,raspberry
+Pascal Morabito,Aimer,1,Tangerine,tangerine
+Pascal Morabito,Aimer,2,Ginger,ginger
+Pascal Morabito,Aimer,3,flower,flower
+Pascal Morabito,Aimer,4,Rose,rose
+Pascal Morabito,Aimer,5,Neroli,neroli
+Pascal Morabito,Aimer,6,Gardenia,gardenia
+Pascal Morabito,Aimer,7,Dulce,dulce
+Pascal Morabito,Aimer,8,de,de
+Pascal Morabito,Aimer,9,leche,leche
+Pascal Morabito,Aimer,10,Benzoin,benzoin
+Pascal Morabito,Aimer,11,Sandalwood,sandalwood

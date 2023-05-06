@@ -1,0 +1,1561 @@
+company,name,token_num,token_str,term_str
+Christian Dior,Dior Homme 2020,0,Bergamot,bergamot
+Christian Dior,Dior Homme 2020,1,Pink,pink
+Christian Dior,Dior Homme 2020,2,Pepper,pepper
+Christian Dior,Dior Homme 2020,3,elemi,elemi
+Christian Dior,Dior Homme 2020,4,Cashmere,cashmere
+Christian Dior,Dior Homme 2020,5,Wood,wood
+Christian Dior,Dior Homme 2020,6,Atlas,atlas
+Christian Dior,Dior Homme 2020,7,Cedar,cedar
+Christian Dior,Dior Homme 2020,8,Patchouli,patchouli
+Christian Dior,Dior Homme 2020,9,Iso,iso
+Christian Dior,Dior Homme 2020,10,E,e
+Christian Dior,Dior Homme 2020,11,Super,super
+Christian Dior,Dior Homme 2020,12,Haitian,haitian
+Christian Dior,Dior Homme 2020,13,Vetiver,vetiver
+Christian Dior,Dior Homme 2020,14,White,white
+Christian Dior,Dior Homme 2020,15,Musk,musk
+Giorgio Armani,Acqua di Giò Profondo,0,Sea,sea
+Giorgio Armani,Acqua di Giò Profondo,1,Notes,notes
+Giorgio Armani,Acqua di Giò Profondo,2,Aquozone,aquozone
+Giorgio Armani,Acqua di Giò Profondo,3,Bergamot,bergamot
+Giorgio Armani,Acqua di Giò Profondo,4,Green,green
+Giorgio Armani,Acqua di Giò Profondo,5,Mandarin,mandarin
+Giorgio Armani,Acqua di Giò Profondo,6,Rosemary,rosemary
+Giorgio Armani,Acqua di Giò Profondo,7,Cypress,cypress
+Giorgio Armani,Acqua di Giò Profondo,8,Lavender,lavender
+Giorgio Armani,Acqua di Giò Profondo,9,Mastic,mastic
+Giorgio Armani,Acqua di Giò Profondo,10,or,or
+Giorgio Armani,Acqua di Giò Profondo,11,Lentisque,lentisque
+Giorgio Armani,Acqua di Giò Profondo,12,Mineral,mineral
+Giorgio Armani,Acqua di Giò Profondo,13,notes,notes
+Giorgio Armani,Acqua di Giò Profondo,14,Musk,musk
+Giorgio Armani,Acqua di Giò Profondo,15,Patchouli,patchouli
+Giorgio Armani,Acqua di Giò Profondo,16,Amber,amber
+Jean Paul Gaultier,Le Male Le Parfum,0,Cardamom,cardamom
+Jean Paul Gaultier,Le Male Le Parfum,1,Lavender,lavender
+Jean Paul Gaultier,Le Male Le Parfum,2,iris,iris
+Jean Paul Gaultier,Le Male Le Parfum,3,Vanilla,vanilla
+Jean Paul Gaultier,Le Male Le Parfum,4,Oriental,oriental
+Jean Paul Gaultier,Le Male Le Parfum,5,notes,notes
+Jean Paul Gaultier,Le Male Le Parfum,6,Woodsy,woodsy
+Jean Paul Gaultier,Le Male Le Parfum,7,Notes,notes
+Tom Ford,Beau De Jour Eau de Parfum,0,Lavender,lavender
+Tom Ford,Beau De Jour Eau de Parfum,1,Extract,extract
+Tom Ford,Beau De Jour Eau de Parfum,2,Lavender,lavender
+Tom Ford,Beau De Jour Eau de Parfum,3,Rosemary,rosemary
+Tom Ford,Beau De Jour Eau de Parfum,4,Oakmoss,oakmoss
+Tom Ford,Beau De Jour Eau de Parfum,5,Mint,mint
+Tom Ford,Beau De Jour Eau de Parfum,6,Basil,basil
+Tom Ford,Beau De Jour Eau de Parfum,7,Geranium,geranium
+Tom Ford,Beau De Jour Eau de Parfum,8,Patchouli,patchouli
+Tom Ford,Beau De Jour Eau de Parfum,9,Amber,amber
+Guerlain,L'Homme Idéal Extrême,0,Almond,almond
+Guerlain,L'Homme Idéal Extrême,1,Pink,pink
+Guerlain,L'Homme Idéal Extrême,2,Pepper,pepper
+Guerlain,L'Homme Idéal Extrême,3,Bergamot,bergamot
+Guerlain,L'Homme Idéal Extrême,4,Plum,plum
+Guerlain,L'Homme Idéal Extrême,5,Cinnamon,cinnamon
+Guerlain,L'Homme Idéal Extrême,6,Heliotrope,heliotrope
+Guerlain,L'Homme Idéal Extrême,7,Tobacco,tobacco
+Guerlain,L'Homme Idéal Extrême,8,Leather,leather
+Guerlain,L'Homme Idéal Extrême,9,Patchouli,patchouli
+Guerlain,L'Homme Idéal Extrême,10,Cedar,cedar
+Paco Rabanne,1 Million Parfum,1,Tuberose,tuberose
+Paco Rabanne,1 Million Parfum,2,Monoi,monoi
+Paco Rabanne,1 Million Parfum,3,Oil,oil
+Paco Rabanne,1 Million Parfum,4,Salt,salt
+Paco Rabanne,1 Million Parfum,5,Ambergris,ambergris
+Paco Rabanne,1 Million Parfum,6,Solar,solar
+Paco Rabanne,1 Million Parfum,7,notes,notes
+Paco Rabanne,1 Million Parfum,8,Leather,leather
+Paco Rabanne,1 Million Parfum,9,Cashmeran,cashmeran
+Paco Rabanne,1 Million Parfum,10,Pine,pine
+Paco Rabanne,1 Million Parfum,11,Labdanum,labdanum
+Cartier,Pasha de Cartier Parfum,1,Sandalwood,sandalwood
+Cartier,Pasha de Cartier Parfum,2,Liquor,liquor
+Cartier,Pasha de Cartier Parfum,3,Balsam,balsam
+Cartier,Pasha de Cartier Parfum,4,Fir,fir
+Cartier,Pasha de Cartier Parfum,5,Tonka,tonka
+Cartier,Pasha de Cartier Parfum,6,Bean,bean
+Cartier,Pasha de Cartier Parfum,7,Benzoin,benzoin
+Cartier,Pasha de Cartier Parfum,8,Ambrocenide,ambrocenide
+Cartier,Pasha de Cartier Parfum,9,Indonesian,indonesian
+Cartier,Pasha de Cartier Parfum,10,Patchouli,patchouli
+Cartier,Pasha de Cartier Parfum,11,Leaf,leaf
+Cartier,Pasha de Cartier Parfum,12,Labdanum,labdanum
+Versace,Eros Eau De Parfum,0,Mint,mint
+Versace,Eros Eau De Parfum,1,Candy,candy
+Versace,Eros Eau De Parfum,2,Apple,apple
+Versace,Eros Eau De Parfum,3,Lemon,lemon
+Versace,Eros Eau De Parfum,4,Mandarin,mandarin
+Versace,Eros Eau De Parfum,5,Orange,orange
+Versace,Eros Eau De Parfum,6,Ambroxan,ambroxan
+Versace,Eros Eau De Parfum,7,Geranium,geranium
+Versace,Eros Eau De Parfum,8,Clary,clary
+Versace,Eros Eau De Parfum,9,Sage,sage
+Versace,Eros Eau De Parfum,10,Vanilla,vanilla
+Versace,Eros Eau De Parfum,11,Leather,leather
+Versace,Eros Eau De Parfum,12,Sandalwood,sandalwood
+Versace,Eros Eau De Parfum,13,Cedar,cedar
+Versace,Eros Eau De Parfum,14,Bitter,bitter
+Versace,Eros Eau De Parfum,15,Orange,orange
+Versace,Eros Eau De Parfum,16,Patchouli,patchouli
+Amouage,Interlude Black Iris Man,0,Violet,violet
+Amouage,Interlude Black Iris Man,1,Leaf,leaf
+Amouage,Interlude Black Iris Man,2,Rosemary,rosemary
+Amouage,Interlude Black Iris Man,3,Bergamot,bergamot
+Amouage,Interlude Black Iris Man,4,Orris,orris
+Amouage,Interlude Black Iris Man,5,Olibanum,olibanum
+Amouage,Interlude Black Iris Man,6,Myrhh,myrhh
+Amouage,Interlude Black Iris Man,7,Vanilla,vanilla
+Amouage,Interlude Black Iris Man,8,Labdanum,labdanum
+Amouage,Interlude Black Iris Man,9,Amber,amber
+Amouage,Interlude Black Iris Man,10,Leather,leather
+Amouage,Interlude Black Iris Man,11,Agarwood,agarwood
+Amouage,Interlude Black Iris Man,12,Oud,oud
+Amouage,Interlude Black Iris Man,13,Sandalwood,sandalwood
+Amouage,Interlude Black Iris Man,14,Patchouli,patchouli
+Amouage,Interlude Black Iris Man,15,Cedar,cedar
+Guerlain,L’Homme Ideal Eau de Parfum,0,Almond,almond
+Guerlain,L’Homme Ideal Eau de Parfum,1,Spices,spices
+Guerlain,L’Homme Ideal Eau de Parfum,2,Lavender,lavender
+Guerlain,L’Homme Ideal Eau de Parfum,3,Bergamot,bergamot
+Guerlain,L’Homme Ideal Eau de Parfum,4,Rosemary,rosemary
+Guerlain,L’Homme Ideal Eau de Parfum,5,Thyme,thyme
+Guerlain,L’Homme Ideal Eau de Parfum,6,Cherry,cherry
+Guerlain,L’Homme Ideal Eau de Parfum,7,Vanilla,vanilla
+Guerlain,L’Homme Ideal Eau de Parfum,8,Incense,incense
+Guerlain,L’Homme Ideal Eau de Parfum,9,Bulgarian,bulgarian
+Guerlain,L’Homme Ideal Eau de Parfum,10,Rose,rose
+Guerlain,L’Homme Ideal Eau de Parfum,11,Tonka,tonka
+Guerlain,L’Homme Ideal Eau de Parfum,12,Bean,bean
+Guerlain,L’Homme Ideal Eau de Parfum,13,Leather,leather
+Guerlain,L’Homme Ideal Eau de Parfum,14,Sandalwood,sandalwood
+Paco Rabanne,1 Million Lucky,0,Plum,plum
+Paco Rabanne,1 Million Lucky,1,Ozonic,ozonic
+Paco Rabanne,1 Million Lucky,2,notes,notes
+Paco Rabanne,1 Million Lucky,3,Grapefruit,grapefruit
+Paco Rabanne,1 Million Lucky,4,Bergamot,bergamot
+Paco Rabanne,1 Million Lucky,5,Hazelnut,hazelnut
+Paco Rabanne,1 Million Lucky,6,Honey,honey
+Paco Rabanne,1 Million Lucky,7,Cedar,cedar
+Paco Rabanne,1 Million Lucky,8,Cashmere,cashmere
+Paco Rabanne,1 Million Lucky,9,Wood,wood
+Paco Rabanne,1 Million Lucky,10,Jasmine,jasmine
+Paco Rabanne,1 Million Lucky,11,Orange,orange
+Paco Rabanne,1 Million Lucky,12,Blossom,blossom
+Paco Rabanne,1 Million Lucky,13,Amberwood,amberwood
+Paco Rabanne,1 Million Lucky,14,Patchouli,patchouli
+Paco Rabanne,1 Million Lucky,15,Oakmoss,oakmoss
+Paco Rabanne,1 Million Lucky,16,Vetiver,vetiver
+Yves Saint Laurent,Y Eau de Parfum,0,Apple,apple
+Yves Saint Laurent,Y Eau de Parfum,1,Ginger,ginger
+Yves Saint Laurent,Y Eau de Parfum,2,Bergamot,bergamot
+Yves Saint Laurent,Y Eau de Parfum,3,Sage,sage
+Yves Saint Laurent,Y Eau de Parfum,4,Juniper,juniper
+Yves Saint Laurent,Y Eau de Parfum,5,Berries,berries
+Yves Saint Laurent,Y Eau de Parfum,6,Geranium,geranium
+Yves Saint Laurent,Y Eau de Parfum,7,Amberwood,amberwood
+Yves Saint Laurent,Y Eau de Parfum,8,Tonka,tonka
+Yves Saint Laurent,Y Eau de Parfum,9,Bean,bean
+Yves Saint Laurent,Y Eau de Parfum,10,Cedar,cedar
+Yves Saint Laurent,Y Eau de Parfum,11,Vetiver,vetiver
+Yves Saint Laurent,Y Eau de Parfum,12,Olibanum,olibanum
+Christian Dior,Sauvage Eau de Parfum,0,Bergamot,bergamot
+Christian Dior,Sauvage Eau de Parfum,1,Sichuan,sichuan
+Christian Dior,Sauvage Eau de Parfum,2,Pepper,pepper
+Christian Dior,Sauvage Eau de Parfum,3,Lavender,lavender
+Christian Dior,Sauvage Eau de Parfum,4,Star,star
+Christian Dior,Sauvage Eau de Parfum,5,Anise,anise
+Christian Dior,Sauvage Eau de Parfum,6,Nutmeg,nutmeg
+Christian Dior,Sauvage Eau de Parfum,7,Ambroxan,ambroxan
+Christian Dior,Sauvage Eau de Parfum,8,Vanilla,vanilla
+Azzaro,Wanted by Night,0,Cinnamon,cinnamon
+Azzaro,Wanted by Night,1,Mandarin,mandarin
+Azzaro,Wanted by Night,2,Orange,orange
+Azzaro,Wanted by Night,3,Lavender,lavender
+Azzaro,Wanted by Night,4,Lemon,lemon
+Azzaro,Wanted by Night,5,Fruity,fruity
+Azzaro,Wanted by Night,6,Notes,notes
+Azzaro,Wanted by Night,7,Incense,incense
+Azzaro,Wanted by Night,8,Red,red
+Azzaro,Wanted by Night,9,Cedar,cedar
+Azzaro,Wanted by Night,10,Cumin,cumin
+Azzaro,Wanted by Night,11,Tobacco,tobacco
+Azzaro,Wanted by Night,12,Vanilla,vanilla
+Azzaro,Wanted by Night,13,Cedar,cedar
+Azzaro,Wanted by Night,14,Leather,leather
+Azzaro,Wanted by Night,15,Benzoin,benzoin
+Azzaro,Wanted by Night,16,Cypress,cypress
+Azzaro,Wanted by Night,17,Iso,iso
+Azzaro,Wanted by Night,18,E,e
+Azzaro,Wanted by Night,19,Super,super
+Azzaro,Wanted by Night,20,Patchouli,patchouli
+Chanel,Bleu de Chanel Parfum,0,Lemon,lemon
+Chanel,Bleu de Chanel Parfum,1,Zest,zest
+Chanel,Bleu de Chanel Parfum,2,Bergamot,bergamot
+Chanel,Bleu de Chanel Parfum,3,Mint,mint
+Chanel,Bleu de Chanel Parfum,4,Artemisia,artemisia
+Chanel,Bleu de Chanel Parfum,5,Lavender,lavender
+Chanel,Bleu de Chanel Parfum,6,Geranium,geranium
+Chanel,Bleu de Chanel Parfum,7,Pineapple,pineapple
+Chanel,Bleu de Chanel Parfum,8,Green,green
+Chanel,Bleu de Chanel Parfum,9,Notes,notes
+Chanel,Bleu de Chanel Parfum,10,Sandalwood,sandalwood
+Chanel,Bleu de Chanel Parfum,11,Cedar,cedar
+Chanel,Bleu de Chanel Parfum,12,Amberwood,amberwood
+Chanel,Bleu de Chanel Parfum,13,Iso,iso
+Chanel,Bleu de Chanel Parfum,14,E,e
+Chanel,Bleu de Chanel Parfum,15,Super,super
+Chanel,Bleu de Chanel Parfum,16,Tonka,tonka
+Chanel,Bleu de Chanel Parfum,17,Bean,bean
+Givenchy,Gentleman Eau de Parfum,0,Black,black
+Givenchy,Gentleman Eau de Parfum,1,Pepper,pepper
+Givenchy,Gentleman Eau de Parfum,2,Lavender,lavender
+Givenchy,Gentleman Eau de Parfum,3,Bergamot,bergamot
+Givenchy,Gentleman Eau de Parfum,4,Orris,orris
+Givenchy,Gentleman Eau de Parfum,5,Cloves,cloves
+Givenchy,Gentleman Eau de Parfum,6,Cinnamon,cinnamon
+Givenchy,Gentleman Eau de Parfum,7,Black,black
+Givenchy,Gentleman Eau de Parfum,8,Vanilla,vanilla
+Givenchy,Gentleman Eau de Parfum,9,Husk,husk
+Givenchy,Gentleman Eau de Parfum,10,Tolu,tolu
+Givenchy,Gentleman Eau de Parfum,11,Balsam,balsam
+Givenchy,Gentleman Eau de Parfum,12,Patchouli,patchouli
+Givenchy,Gentleman Eau de Parfum,13,Tonka,tonka
+Givenchy,Gentleman Eau de Parfum,14,Bean,bean
+Givenchy,Gentleman Eau de Parfum,15,Benzoin,benzoin
+Versace,Eros Flame,0,Mandarin,mandarin
+Versace,Eros Flame,1,Orange,orange
+Versace,Eros Flame,2,Black,black
+Versace,Eros Flame,3,Pepper,pepper
+Versace,Eros Flame,4,Chinotto,chinotto
+Versace,Eros Flame,5,Lemon,lemon
+Versace,Eros Flame,6,Rosemary,rosemary
+Versace,Eros Flame,7,Pepper,pepper
+Versace,Eros Flame,8,Geranium,geranium
+Versace,Eros Flame,9,Rose,rose
+Versace,Eros Flame,10,Vanilla,vanilla
+Versace,Eros Flame,11,Tonka,tonka
+Versace,Eros Flame,12,Bean,bean
+Versace,Eros Flame,13,Texas,texas
+Versace,Eros Flame,14,Cedar,cedar
+Versace,Eros Flame,15,Sandalwood,sandalwood
+Versace,Eros Flame,16,Patchouli,patchouli
+Versace,Eros Flame,17,Oakmoss,oakmoss
+Rochas,Moustache Eau de Parfum,0,Pink,pink
+Rochas,Moustache Eau de Parfum,1,Pepper,pepper
+Rochas,Moustache Eau de Parfum,2,Mandarin,mandarin
+Rochas,Moustache Eau de Parfum,3,Orange,orange
+Rochas,Moustache Eau de Parfum,4,Atlas,atlas
+Rochas,Moustache Eau de Parfum,5,Cedar,cedar
+Rochas,Moustache Eau de Parfum,6,Bulgarian,bulgarian
+Rochas,Moustache Eau de Parfum,7,Rose,rose
+Rochas,Moustache Eau de Parfum,8,Benzoin,benzoin
+Rochas,Moustache Eau de Parfum,9,Vanilla,vanilla
+Rochas,Moustache Eau de Parfum,10,Patchouli,patchouli
+Prada,Luna Rossa Black,0,Bergamot,bergamot
+Prada,Luna Rossa Black,1,Angelica,angelica
+Prada,Luna Rossa Black,2,Patchouli,patchouli
+Prada,Luna Rossa Black,3,Coumarin,coumarin
+Prada,Luna Rossa Black,4,Amber,amber
+Prada,Luna Rossa Black,5,Musk,musk
+Zara,Vibrant Leather Eau de Parfum,0,Bergamot,bergamot
+Zara,Vibrant Leather Eau de Parfum,1,Bamboo,bamboo
+Zara,Vibrant Leather Eau de Parfum,2,Leather,leather
+Salvatore Ferragamo,Uomo Salvatore Ferragamo Signature ,0,Italian,italian
+Salvatore Ferragamo,Uomo Salvatore Ferragamo Signature ,1,Mandarin,mandarin
+Salvatore Ferragamo,Uomo Salvatore Ferragamo Signature ,2,Pink,pink
+Salvatore Ferragamo,Uomo Salvatore Ferragamo Signature ,3,Pepper,pepper
+Salvatore Ferragamo,Uomo Salvatore Ferragamo Signature ,4,Grapefruit,grapefruit
+Salvatore Ferragamo,Uomo Salvatore Ferragamo Signature ,5,Cinnamon,cinnamon
+Salvatore Ferragamo,Uomo Salvatore Ferragamo Signature ,6,Cardamom,cardamom
+Salvatore Ferragamo,Uomo Salvatore Ferragamo Signature ,7,Cypress,cypress
+Salvatore Ferragamo,Uomo Salvatore Ferragamo Signature ,8,Tonka,tonka
+Salvatore Ferragamo,Uomo Salvatore Ferragamo Signature ,9,Bean,bean
+Salvatore Ferragamo,Uomo Salvatore Ferragamo Signature ,10,Leather,leather
+Salvatore Ferragamo,Uomo Salvatore Ferragamo Signature ,11,Roasted,roasted
+Salvatore Ferragamo,Uomo Salvatore Ferragamo Signature ,12,Coffee,coffee
+Salvatore Ferragamo,Uomo Salvatore Ferragamo Signature ,13,Beans,beans
+Salvatore Ferragamo,Uomo Salvatore Ferragamo Signature ,14,Patchouli,patchouli
+Rihanna,Rogue Man,0,Black,black
+Rihanna,Rogue Man,1,Pepper,pepper
+Rihanna,Rogue Man,2,Rosemary,rosemary
+Rihanna,Rogue Man,3,Bergamot,bergamot
+Rihanna,Rogue Man,4,Clementine,clementine
+Rihanna,Rogue Man,5,Vanilla,vanilla
+Rihanna,Rogue Man,6,orchid,orchid
+Rihanna,Rogue Man,7,Labdanum,labdanum
+Rihanna,Rogue Man,8,Jasmine,jasmine
+Rihanna,Rogue Man,9,Cedar,cedar
+Rihanna,Rogue Man,10,Tonka,tonka
+Rihanna,Rogue Man,11,Bean,bean
+Rihanna,Rogue Man,12,Amber,amber
+Rihanna,Rogue Man,13,Sandalwood,sandalwood
+Rihanna,Rogue Man,14,Musk,musk
+Rihanna,Rogue Man,15,Patchouli,patchouli
+Amouage,Beach Hut Man,0,Mint,mint
+Amouage,Beach Hut Man,1,Galbanum,galbanum
+Amouage,Beach Hut Man,2,Orange,orange
+Amouage,Beach Hut Man,3,Blossom,blossom
+Amouage,Beach Hut Man,4,Ivy,ivy
+Amouage,Beach Hut Man,5,Vetiver,vetiver
+Amouage,Beach Hut Man,6,Moss,moss
+Amouage,Beach Hut Man,7,Myrrh,myrrh
+Amouage,Beach Hut Man,8,Woody,woody
+Amouage,Beach Hut Man,9,Notes,notes
+Amouage,Beach Hut Man,10,Patchouli,patchouli
+Franck Olivier,Oud Touch,0,Caramel,caramel
+Franck Olivier,Oud Touch,1,Raspberry,raspberry
+Franck Olivier,Oud Touch,2,Orange,orange
+Franck Olivier,Oud Touch,3,Rose,rose
+Franck Olivier,Oud Touch,4,Olibanum,olibanum
+Franck Olivier,Oud Touch,5,Patchouli,patchouli
+Franck Olivier,Oud Touch,6,Violet,violet
+Franck Olivier,Oud Touch,7,Jasmine,jasmine
+Franck Olivier,Oud Touch,8,Amber,amber
+Franck Olivier,Oud Touch,9,Vanilla,vanilla
+Franck Olivier,Oud Touch,10,Musk,musk
+Carolina Herrera,Bad Boy Le Parfum,0,Grapefruit,grapefruit
+Carolina Herrera,Bad Boy Le Parfum,1,cannabis,cannabis
+Carolina Herrera,Bad Boy Le Parfum,2,Geranium,geranium
+Carolina Herrera,Bad Boy Le Parfum,3,Black,black
+Carolina Herrera,Bad Boy Le Parfum,4,Pepper,pepper
+Carolina Herrera,Bad Boy Le Parfum,5,Leather,leather
+Carolina Herrera,Bad Boy Le Parfum,6,Vetiver,vetiver
+Parfums de Marly,Herod,0,Cinnamon,cinnamon
+Parfums de Marly,Herod,1,Pepper,pepper
+Parfums de Marly,Herod,2,Tobacco,tobacco
+Parfums de Marly,Herod,3,Leaf,leaf
+Parfums de Marly,Herod,4,Incense,incense
+Parfums de Marly,Herod,5,Osmanthus,osmanthus
+Parfums de Marly,Herod,6,Labdanum,labdanum
+Parfums de Marly,Herod,7,Vanilla,vanilla
+Parfums de Marly,Herod,8,Iso,iso
+Parfums de Marly,Herod,9,E,e
+Parfums de Marly,Herod,10,Super,super
+Parfums de Marly,Herod,11,Musk,musk
+Parfums de Marly,Herod,12,Cedar,cedar
+Parfums de Marly,Herod,13,Cypriol,cypriol
+Parfums de Marly,Herod,14,Oil,oil
+Parfums de Marly,Herod,15,or,or
+Parfums de Marly,Herod,16,Nagarmotha,nagarmotha
+Parfums de Marly,Herod,17,Vetiver,vetiver
+Dolce&Gabbana,Light Blue Eau Intense Pour Homme,0,Grapefruit,grapefruit
+Dolce&Gabbana,Light Blue Eau Intense Pour Homme,1,Mandarin,mandarin
+Dolce&Gabbana,Light Blue Eau Intense Pour Homme,2,Orange,orange
+Dolce&Gabbana,Light Blue Eau Intense Pour Homme,3,Sea,sea
+Dolce&Gabbana,Light Blue Eau Intense Pour Homme,4,water,water
+Dolce&Gabbana,Light Blue Eau Intense Pour Homme,5,Juniper,juniper
+Dolce&Gabbana,Light Blue Eau Intense Pour Homme,6,Amberwood,amberwood
+Dolce&Gabbana,Light Blue Eau Intense Pour Homme,7,Musk,musk
+Gucci,Gucci Guilty Absolute,0,Leather,leather
+Gucci,Gucci Guilty Absolute,1,Cypress,cypress
+Gucci,Gucci Guilty Absolute,2,Patchouli,patchouli
+Gucci,Gucci Guilty Absolute,3,Woody,woody
+Gucci,Gucci Guilty Absolute,4,Notes,notes
+Gucci,Gucci Guilty Absolute,5,Vetiver,vetiver
+Prada,Luna Rossa Carbon,0,Bergamot,bergamot
+Prada,Luna Rossa Carbon,1,Pepper,pepper
+Prada,Luna Rossa Carbon,2,Lavender,lavender
+Prada,Luna Rossa Carbon,3,Metallic,metallic
+Prada,Luna Rossa Carbon,4,notes,notes
+Prada,Luna Rossa Carbon,5,Coal,coal
+Prada,Luna Rossa Carbon,6,Watery,watery
+Prada,Luna Rossa Carbon,7,Notes,notes
+Prada,Luna Rossa Carbon,8,Soil,soil
+Prada,Luna Rossa Carbon,9,tincture,tincture
+Prada,Luna Rossa Carbon,10,Ambroxan,ambroxan
+Prada,Luna Rossa Carbon,11,Patchouli,patchouli
+Giorgio Armani,Emporio Armani Stronger With You,0,Cardamom,cardamom
+Giorgio Armani,Emporio Armani Stronger With You,1,Pink,pink
+Giorgio Armani,Emporio Armani Stronger With You,2,Pepper,pepper
+Giorgio Armani,Emporio Armani Stronger With You,3,Mint,mint
+Giorgio Armani,Emporio Armani Stronger With You,4,Violet,violet
+Giorgio Armani,Emporio Armani Stronger With You,5,Leaf,leaf
+Giorgio Armani,Emporio Armani Stronger With You,6,Pineapple,pineapple
+Giorgio Armani,Emporio Armani Stronger With You,7,Sage,sage
+Giorgio Armani,Emporio Armani Stronger With You,8,Melon,melon
+Giorgio Armani,Emporio Armani Stronger With You,9,Cinnamon,cinnamon
+Giorgio Armani,Emporio Armani Stronger With You,10,Lavender,lavender
+Giorgio Armani,Emporio Armani Stronger With You,11,Vanilla,vanilla
+Giorgio Armani,Emporio Armani Stronger With You,12,Chestnut,chestnut
+Giorgio Armani,Emporio Armani Stronger With You,13,Cedar,cedar
+Giorgio Armani,Emporio Armani Stronger With You,14,Amberwood,amberwood
+Giorgio Armani,Emporio Armani Stronger With You,15,Guaiac,guaiac
+Giorgio Armani,Emporio Armani Stronger With You,16,Wood,wood
+John Varvatos,Artisan Pure,0,Clementine,clementine
+John Varvatos,Artisan Pure,1,Mandarin,mandarin
+John Varvatos,Artisan Pure,2,Orange,orange
+John Varvatos,Artisan Pure,3,Lemon,lemon
+John Varvatos,Artisan Pure,4,Bergamot,bergamot
+John Varvatos,Artisan Pure,5,Thyme,thyme
+John Varvatos,Artisan Pure,6,Marjoram,marjoram
+John Varvatos,Artisan Pure,7,Petitgrain,petitgrain
+John Varvatos,Artisan Pure,8,Ginger,ginger
+John Varvatos,Artisan Pure,9,Woody,woody
+John Varvatos,Artisan Pure,10,Notes,notes
+John Varvatos,Artisan Pure,11,Musk,musk
+John Varvatos,Artisan Pure,12,Orris,orris
+John Varvatos,Artisan Pure,13,Root,root
+John Varvatos,Artisan Pure,14,Amber,amber
+Prada,Prada L'Homme Intense,0,iris,iris
+Prada,Prada L'Homme Intense,1,Amber,amber
+Prada,Prada L'Homme Intense,2,Patchouli,patchouli
+Prada,Prada L'Homme Intense,3,Tonka,tonka
+Prada,Prada L'Homme Intense,4,Bean,bean
+Prada,Prada L'Homme Intense,5,Leather,leather
+Prada,Prada L'Homme Intense,6,Sandalwood,sandalwood
+Roja Dove,Elysium Pour Homme Parfum Cologne,0,Grapefruit,grapefruit
+Roja Dove,Elysium Pour Homme Parfum Cologne,1,Lemon,lemon
+Roja Dove,Elysium Pour Homme Parfum Cologne,2,Bergamot,bergamot
+Roja Dove,Elysium Pour Homme Parfum Cologne,3,Lime,lime
+Roja Dove,Elysium Pour Homme Parfum Cologne,4,Thyme,thyme
+Roja Dove,Elysium Pour Homme Parfum Cologne,5,Artemisia,artemisia
+Roja Dove,Elysium Pour Homme Parfum Cologne,6,Galbanum,galbanum
+Roja Dove,Elysium Pour Homme Parfum Cologne,7,Vetiver,vetiver
+Roja Dove,Elysium Pour Homme Parfum Cologne,8,Juniper,juniper
+Roja Dove,Elysium Pour Homme Parfum Cologne,9,Berries,berries
+Roja Dove,Elysium Pour Homme Parfum Cologne,10,Black,black
+Roja Dove,Elysium Pour Homme Parfum Cologne,11,Currant,currant
+Roja Dove,Elysium Pour Homme Parfum Cologne,12,Apple,apple
+Roja Dove,Elysium Pour Homme Parfum Cologne,13,Cedar,cedar
+Roja Dove,Elysium Pour Homme Parfum Cologne,14,Pink,pink
+Roja Dove,Elysium Pour Homme Parfum Cologne,15,Pepper,pepper
+Roja Dove,Elysium Pour Homme Parfum Cologne,16,Rose,rose
+Roja Dove,Elysium Pour Homme Parfum Cologne,17,Jasmine,jasmine
+Roja Dove,Elysium Pour Homme Parfum Cologne,18,Cypriol,cypriol
+Roja Dove,Elysium Pour Homme Parfum Cologne,19,Oil,oil
+Roja Dove,Elysium Pour Homme Parfum Cologne,20,or,or
+Roja Dove,Elysium Pour Homme Parfum Cologne,21,Nagarmotha,nagarmotha
+Roja Dove,Elysium Pour Homme Parfum Cologne,22,Lily,lily
+Roja Dove,Elysium Pour Homme Parfum Cologne,23,of,of
+Roja Dove,Elysium Pour Homme Parfum Cologne,24,the,the
+Roja Dove,Elysium Pour Homme Parfum Cologne,25,Valley,valley
+Roja Dove,Elysium Pour Homme Parfum Cologne,26,Ambergris,ambergris
+Roja Dove,Elysium Pour Homme Parfum Cologne,27,Vanilla,vanilla
+Roja Dove,Elysium Pour Homme Parfum Cologne,28,Benzoin,benzoin
+Roja Dove,Elysium Pour Homme Parfum Cologne,29,Leather,leather
+Roja Dove,Elysium Pour Homme Parfum Cologne,30,Labdanum,labdanum
+Carolina Herrera,Bad Boy,0,White,white
+Carolina Herrera,Bad Boy,1,Pepper,pepper
+Carolina Herrera,Bad Boy,2,Black,black
+Carolina Herrera,Bad Boy,3,Pepper,pepper
+Carolina Herrera,Bad Boy,4,Bergamot,bergamot
+Carolina Herrera,Bad Boy,5,Sage,sage
+Carolina Herrera,Bad Boy,6,Cedar,cedar
+Carolina Herrera,Bad Boy,7,Tonka,tonka
+Carolina Herrera,Bad Boy,8,Bean,bean
+Carolina Herrera,Bad Boy,9,Cacao,cacao
+Carolina Herrera,Bad Boy,10,Amberwood,amberwood
+Hugo Boss,Boss Soul,0,Cardamom,cardamom
+Hugo Boss,Boss Soul,1,Pepper,pepper
+Hugo Boss,Boss Soul,2,Anise,anise
+Hugo Boss,Boss Soul,3,Mandarin,mandarin
+Hugo Boss,Boss Soul,4,Orange,orange
+Hugo Boss,Boss Soul,5,Bergamot,bergamot
+Hugo Boss,Boss Soul,6,Cinnamon,cinnamon
+Hugo Boss,Boss Soul,7,Nutmeg,nutmeg
+Hugo Boss,Boss Soul,8,Lavender,lavender
+Hugo Boss,Boss Soul,9,Coriander,coriander
+Hugo Boss,Boss Soul,10,Vanilla,vanilla
+Hugo Boss,Boss Soul,11,Tonka,tonka
+Hugo Boss,Boss Soul,12,Bean,bean
+Hugo Boss,Boss Soul,13,Amber,amber
+Hugo Boss,Boss Soul,14,Vetiver,vetiver
+Hugo Boss,Boss Soul,15,Musk,musk
+Dolce&Gabbana,Light Blue pour Homme,0,Grapefruit,grapefruit
+Dolce&Gabbana,Light Blue pour Homme,1,Bergamot,bergamot
+Dolce&Gabbana,Light Blue pour Homme,2,Sicilian,sicilian
+Dolce&Gabbana,Light Blue pour Homme,3,Mandarin,mandarin
+Dolce&Gabbana,Light Blue pour Homme,4,Juniper,juniper
+Dolce&Gabbana,Light Blue pour Homme,5,Pepper,pepper
+Dolce&Gabbana,Light Blue pour Homme,6,Rosemary,rosemary
+Dolce&Gabbana,Light Blue pour Homme,7,Brazilian,brazilian
+Dolce&Gabbana,Light Blue pour Homme,8,Rosewood,rosewood
+Dolce&Gabbana,Light Blue pour Homme,9,Incense,incense
+Dolce&Gabbana,Light Blue pour Homme,10,Musk,musk
+Dolce&Gabbana,Light Blue pour Homme,11,Oakmoss,oakmoss
+Armaf,Club de Nuit Intense Man,0,Lemon,lemon
+Armaf,Club de Nuit Intense Man,1,Pineapple,pineapple
+Armaf,Club de Nuit Intense Man,2,Black,black
+Armaf,Club de Nuit Intense Man,3,Currant,currant
+Armaf,Club de Nuit Intense Man,4,Bergamot,bergamot
+Armaf,Club de Nuit Intense Man,5,Apple,apple
+Armaf,Club de Nuit Intense Man,6,Birch,birch
+Armaf,Club de Nuit Intense Man,7,Jasmine,jasmine
+Armaf,Club de Nuit Intense Man,8,Rose,rose
+Armaf,Club de Nuit Intense Man,9,Musk,musk
+Armaf,Club de Nuit Intense Man,10,Ambergris,ambergris
+Armaf,Club de Nuit Intense Man,11,Patchouli,patchouli
+Armaf,Club de Nuit Intense Man,12,Vanilla,vanilla
+Montblanc,Explorer,0,Bergamot,bergamot
+Montblanc,Explorer,1,Pink,pink
+Montblanc,Explorer,2,Pepper,pepper
+Montblanc,Explorer,3,Clary,clary
+Montblanc,Explorer,4,Sage,sage
+Montblanc,Explorer,5,Haitian,haitian
+Montblanc,Explorer,6,Vetiver,vetiver
+Montblanc,Explorer,7,Leather,leather
+Montblanc,Explorer,8,Ambroxan,ambroxan
+Montblanc,Explorer,9,Akigalawood,akigalawood
+Montblanc,Explorer,10,Indonesian,indonesian
+Montblanc,Explorer,11,Patchouli,patchouli
+Montblanc,Explorer,12,Leaf,leaf
+Montblanc,Explorer,13,Cacao,cacao
+Montblanc,Explorer,14,Pod,pod
+Moschino,Toy Boy,0,Pink,pink
+Moschino,Toy Boy,1,Pepper,pepper
+Moschino,Toy Boy,2,Pear,pear
+Moschino,Toy Boy,3,Indonesian,indonesian
+Moschino,Toy Boy,4,Nutmeg,nutmeg
+Moschino,Toy Boy,5,elemi,elemi
+Moschino,Toy Boy,6,Bergamot,bergamot
+Moschino,Toy Boy,7,Rose,rose
+Moschino,Toy Boy,8,Magnolia,magnolia
+Moschino,Toy Boy,9,Clove,clove
+Moschino,Toy Boy,10,Flax,flax
+Moschino,Toy Boy,11,Haitian,haitian
+Moschino,Toy Boy,12,Vetiver,vetiver
+Moschino,Toy Boy,13,Cashmeran,cashmeran
+Moschino,Toy Boy,14,Sylkolide,sylkolide
+Moschino,Toy Boy,15,Amber,amber
+Moschino,Toy Boy,16,Sandalwood,sandalwood
+Giorgio Armani,Armani Code Absolu,0,Green,green
+Giorgio Armani,Armani Code Absolu,1,Mandarin,mandarin
+Giorgio Armani,Armani Code Absolu,2,Apple,apple
+Giorgio Armani,Armani Code Absolu,3,Nutmeg,nutmeg
+Giorgio Armani,Armani Code Absolu,4,Orange,orange
+Giorgio Armani,Armani Code Absolu,5,Blossom,blossom
+Giorgio Armani,Armani Code Absolu,6,Carrot,carrot
+Giorgio Armani,Armani Code Absolu,7,Seeds,seeds
+Giorgio Armani,Armani Code Absolu,8,Vanilla,vanilla
+Giorgio Armani,Armani Code Absolu,9,Tonka,tonka
+Giorgio Armani,Armani Code Absolu,10,Bean,bean
+Giorgio Armani,Armani Code Absolu,11,Suede,suede
+Giorgio Armani,Armani Code Absolu,12,Woody,woody
+Giorgio Armani,Armani Code Absolu,13,Notes,notes
+Giorgio Armani,Emporio Armani Stronger With You Intensely ,0,Pink,pink
+Giorgio Armani,Emporio Armani Stronger With You Intensely ,1,Pepper,pepper
+Giorgio Armani,Emporio Armani Stronger With You Intensely ,2,Juniper,juniper
+Giorgio Armani,Emporio Armani Stronger With You Intensely ,3,Violet,violet
+Giorgio Armani,Emporio Armani Stronger With You Intensely ,4,Toffee,toffee
+Giorgio Armani,Emporio Armani Stronger With You Intensely ,5,Cinnamon,cinnamon
+Giorgio Armani,Emporio Armani Stronger With You Intensely ,6,Lavender,lavender
+Giorgio Armani,Emporio Armani Stronger With You Intensely ,7,Sage,sage
+Giorgio Armani,Emporio Armani Stronger With You Intensely ,8,Vanilla,vanilla
+Giorgio Armani,Emporio Armani Stronger With You Intensely ,9,Tonka,tonka
+Giorgio Armani,Emporio Armani Stronger With You Intensely ,10,Bean,bean
+Giorgio Armani,Emporio Armani Stronger With You Intensely ,11,Amber,amber
+Giorgio Armani,Emporio Armani Stronger With You Intensely ,12,Suede,suede
+Bentley,Bentley for Men Intense,0,Black,black
+Bentley,Bentley for Men Intense,1,Pepper,pepper
+Bentley,Bentley for Men Intense,2,Bay,bay
+Bentley,Bentley for Men Intense,3,Leaf,leaf
+Bentley,Bentley for Men Intense,4,Bergamot,bergamot
+Bentley,Bentley for Men Intense,5,Rum,rum
+Bentley,Bentley for Men Intense,6,Woody,woody
+Bentley,Bentley for Men Intense,7,Notes,notes
+Bentley,Bentley for Men Intense,8,Cinnamon,cinnamon
+Bentley,Bentley for Men Intense,9,Clary,clary
+Bentley,Bentley for Men Intense,10,Sage,sage
+Bentley,Bentley for Men Intense,11,African,african
+Bentley,Bentley for Men Intense,12,Geranium,geranium
+Bentley,Bentley for Men Intense,13,Incense,incense
+Bentley,Bentley for Men Intense,14,Leather,leather
+Bentley,Bentley for Men Intense,15,Benzoin,benzoin
+Bentley,Bentley for Men Intense,16,Patchouli,patchouli
+Bentley,Bentley for Men Intense,17,Cedar,cedar
+Maison Martin Margiela,Jazz Club,0,Pink,pink
+Maison Martin Margiela,Jazz Club,1,Pepper,pepper
+Maison Martin Margiela,Jazz Club,2,Neroli,neroli
+Maison Martin Margiela,Jazz Club,3,Lemon,lemon
+Maison Martin Margiela,Jazz Club,4,Rum,rum
+Maison Martin Margiela,Jazz Club,5,Clary,clary
+Maison Martin Margiela,Jazz Club,6,Sage,sage
+Maison Martin Margiela,Jazz Club,7,Java,java
+Maison Martin Margiela,Jazz Club,8,vetiver,vetiver
+Maison Martin Margiela,Jazz Club,9,oil,oil
+Maison Martin Margiela,Jazz Club,10,Tobacco,tobacco
+Maison Martin Margiela,Jazz Club,11,Leaf,leaf
+Maison Martin Margiela,Jazz Club,12,vanilla,vanilla
+Maison Martin Margiela,Jazz Club,13,bean,bean
+Maison Martin Margiela,Jazz Club,14,Styrax,styrax
+Paco Rabanne,Invictus,0,Sea,sea
+Paco Rabanne,Invictus,1,Notes,notes
+Paco Rabanne,Invictus,2,Grapefruit,grapefruit
+Paco Rabanne,Invictus,3,Mandarin,mandarin
+Paco Rabanne,Invictus,4,Orange,orange
+Paco Rabanne,Invictus,5,Bay,bay
+Paco Rabanne,Invictus,6,Leaf,leaf
+Paco Rabanne,Invictus,7,Jasmine,jasmine
+Paco Rabanne,Invictus,8,Ambergris,ambergris
+Paco Rabanne,Invictus,9,Guaiac,guaiac
+Paco Rabanne,Invictus,10,Wood,wood
+Paco Rabanne,Invictus,11,Oakmoss,oakmoss
+Paco Rabanne,Invictus,12,Patchouli,patchouli
+Lalique,Encre Noire Sport,0,Grapefruit,grapefruit
+Lalique,Encre Noire Sport,1,Bergamot,bergamot
+Lalique,Encre Noire Sport,2,Nutmeg,nutmeg
+Lalique,Encre Noire Sport,3,Cypress,cypress
+Lalique,Encre Noire Sport,4,Watery,watery
+Lalique,Encre Noire Sport,5,Notes,notes
+Lalique,Encre Noire Sport,6,Lavender,lavender
+Lalique,Encre Noire Sport,7,Bourbon,bourbon
+Lalique,Encre Noire Sport,8,Vetiver,vetiver
+Lalique,Encre Noire Sport,9,Haitian,haitian
+Lalique,Encre Noire Sport,10,Vetiver,vetiver
+Lalique,Encre Noire Sport,11,Cashmere,cashmere
+Lalique,Encre Noire Sport,12,Wood,wood
+Lalique,Encre Noire Sport,13,Musk,musk
+Christian Dior,Dior Homme Cologne 2013,0,Calabrian,calabrian
+Christian Dior,Dior Homme Cologne 2013,1,bergamot,bergamot
+Christian Dior,Dior Homme Cologne 2013,2,Grapefruit,grapefruit
+Christian Dior,Dior Homme Cologne 2013,3,blossom,blossom
+Christian Dior,Dior Homme Cologne 2013,4,Musk,musk
+Versace,Versace Pour Homme Oud Noir,0,Black,black
+Versace,Versace Pour Homme Oud Noir,1,Pepper,pepper
+Versace,Versace Pour Homme Oud Noir,2,Bitter,bitter
+Versace,Versace Pour Homme Oud Noir,3,Orange,orange
+Versace,Versace Pour Homme Oud Noir,4,Neroli,neroli
+Versace,Versace Pour Homme Oud Noir,5,Saffron,saffron
+Versace,Versace Pour Homme Oud Noir,6,Cardamom,cardamom
+Versace,Versace Pour Homme Oud Noir,7,Olibanum,olibanum
+Versace,Versace Pour Homme Oud Noir,8,Agarwood,agarwood
+Versace,Versace Pour Homme Oud Noir,9,Oud,oud
+Versace,Versace Pour Homme Oud Noir,10,Patchouli,patchouli
+Versace,Versace Pour Homme Oud Noir,11,Leatherwood,leatherwood
+Roja Dove,Enigma Pour Homme,0,Black,black
+Roja Dove,Enigma Pour Homme,1,Pepper,pepper
+Roja Dove,Enigma Pour Homme,2,Neroli,neroli
+Roja Dove,Enigma Pour Homme,3,Bergamot,bergamot
+Roja Dove,Enigma Pour Homme,4,Cognac,cognac
+Roja Dove,Enigma Pour Homme,5,Tobacco,tobacco
+Roja Dove,Enigma Pour Homme,6,Ginger,ginger
+Roja Dove,Enigma Pour Homme,7,Jasmine,jasmine
+Roja Dove,Enigma Pour Homme,8,Vanilla,vanilla
+Roja Dove,Enigma Pour Homme,9,Benzoin,benzoin
+Roja Dove,Enigma Pour Homme,10,Patchouli,patchouli
+Christian Dior,Sauvage ,0,Calabrian,calabrian
+Christian Dior,Sauvage ,1,bergamot,bergamot
+Christian Dior,Sauvage ,2,Pepper,pepper
+Christian Dior,Sauvage ,3,Sichuan,sichuan
+Christian Dior,Sauvage ,4,Pepper,pepper
+Christian Dior,Sauvage ,5,Lavender,lavender
+Christian Dior,Sauvage ,6,Pink,pink
+Christian Dior,Sauvage ,7,Pepper,pepper
+Christian Dior,Sauvage ,8,Vetiver,vetiver
+Christian Dior,Sauvage ,9,Patchouli,patchouli
+Christian Dior,Sauvage ,10,Geranium,geranium
+Christian Dior,Sauvage ,11,elemi,elemi
+Christian Dior,Sauvage ,12,Ambroxan,ambroxan
+Christian Dior,Sauvage ,13,Cedar,cedar
+Christian Dior,Sauvage ,14,Labdanum,labdanum
+Giorgio Armani,Acqua di Giò Profumo,0,Sea,sea
+Giorgio Armani,Acqua di Giò Profumo,1,Notes,notes
+Giorgio Armani,Acqua di Giò Profumo,2,Bergamot,bergamot
+Giorgio Armani,Acqua di Giò Profumo,3,Rosemary,rosemary
+Giorgio Armani,Acqua di Giò Profumo,4,Sage,sage
+Giorgio Armani,Acqua di Giò Profumo,5,Geranium,geranium
+Giorgio Armani,Acqua di Giò Profumo,6,Incense,incense
+Giorgio Armani,Acqua di Giò Profumo,7,Patchouli,patchouli
+Dolce&Gabbana,The One for Men Eau de Parfum,0,Grapefruit,grapefruit
+Dolce&Gabbana,The One for Men Eau de Parfum,1,Coriander,coriander
+Dolce&Gabbana,The One for Men Eau de Parfum,2,Basil,basil
+Dolce&Gabbana,The One for Men Eau de Parfum,3,Ginger,ginger
+Dolce&Gabbana,The One for Men Eau de Parfum,4,Cardamom,cardamom
+Dolce&Gabbana,The One for Men Eau de Parfum,5,Orange,orange
+Dolce&Gabbana,The One for Men Eau de Parfum,6,Blossom,blossom
+Dolce&Gabbana,The One for Men Eau de Parfum,7,Amber,amber
+Dolce&Gabbana,The One for Men Eau de Parfum,8,Tobacco,tobacco
+Dolce&Gabbana,The One for Men Eau de Parfum,9,Cedar,cedar
+Jean Paul Gaultier,Ultra Male,0,Pear,pear
+Jean Paul Gaultier,Ultra Male,1,Lavender,lavender
+Jean Paul Gaultier,Ultra Male,2,Mint,mint
+Jean Paul Gaultier,Ultra Male,3,Bergamot,bergamot
+Jean Paul Gaultier,Ultra Male,4,Lemon,lemon
+Jean Paul Gaultier,Ultra Male,5,Cinnamon,cinnamon
+Jean Paul Gaultier,Ultra Male,6,Caraway,caraway
+Jean Paul Gaultier,Ultra Male,7,Clary,clary
+Jean Paul Gaultier,Ultra Male,8,Sage,sage
+Jean Paul Gaultier,Ultra Male,9,Black,black
+Jean Paul Gaultier,Ultra Male,10,Vanilla,vanilla
+Jean Paul Gaultier,Ultra Male,11,Husk,husk
+Jean Paul Gaultier,Ultra Male,12,Amber,amber
+Jean Paul Gaultier,Ultra Male,13,Patchouli,patchouli
+Jean Paul Gaultier,Ultra Male,14,Cedar,cedar
+Viktor&Rolf,Spicebomb Extreme,1,Vanilla,vanilla
+Viktor&Rolf,Spicebomb Extreme,2,Tobacco,tobacco
+Viktor&Rolf,Spicebomb Extreme,3,Black,black
+Viktor&Rolf,Spicebomb Extreme,4,Pepper,pepper
+Viktor&Rolf,Spicebomb Extreme,5,Caraway,caraway
+Viktor&Rolf,Spicebomb Extreme,6,Lavender,lavender
+Tom Ford,Noir Extreme,0,Cardamom,cardamom
+Tom Ford,Noir Extreme,1,Nutmeg,nutmeg
+Tom Ford,Noir Extreme,2,Saffron,saffron
+Tom Ford,Noir Extreme,3,Mandarin,mandarin
+Tom Ford,Noir Extreme,4,Orange,orange
+Tom Ford,Noir Extreme,5,Neroli,neroli
+Tom Ford,Noir Extreme,6,Kulfi,kulfi
+Tom Ford,Noir Extreme,7,Rose,rose
+Tom Ford,Noir Extreme,8,Jasmine,jasmine
+Tom Ford,Noir Extreme,9,Mastic,mastic
+Tom Ford,Noir Extreme,10,or,or
+Tom Ford,Noir Extreme,11,Lentisque,lentisque
+Tom Ford,Noir Extreme,12,Orange,orange
+Tom Ford,Noir Extreme,13,Blossom,blossom
+Tom Ford,Noir Extreme,14,Vanilla,vanilla
+Tom Ford,Noir Extreme,15,Amber,amber
+Tom Ford,Noir Extreme,16,Woody,woody
+Tom Ford,Noir Extreme,17,Notes,notes
+Tom Ford,Noir Extreme,18,Sandalwood,sandalwood
+Lalique,Encre Noire A L'Extreme,0,Cypress,cypress
+Lalique,Encre Noire A L'Extreme,1,Elemi,elemi
+Lalique,Encre Noire A L'Extreme,2,resin,resin
+Lalique,Encre Noire A L'Extreme,3,Bergamot,bergamot
+Lalique,Encre Noire A L'Extreme,4,Haitian,haitian
+Lalique,Encre Noire A L'Extreme,5,Vetiver,vetiver
+Lalique,Encre Noire A L'Extreme,6,Vetiver,vetiver
+Lalique,Encre Noire A L'Extreme,7,Incense,incense
+Lalique,Encre Noire A L'Extreme,8,Orris,orris
+Lalique,Encre Noire A L'Extreme,9,Benzoin,benzoin
+Lalique,Encre Noire A L'Extreme,10,Sandalwood,sandalwood
+Lalique,Encre Noire A L'Extreme,11,Patchouli,patchouli
+Carolina Herrera,CH Men Prive,0,Whiskey,whiskey
+Carolina Herrera,CH Men Prive,1,Grapefruit,grapefruit
+Carolina Herrera,CH Men Prive,2,Pomelo,pomelo
+Carolina Herrera,CH Men Prive,3,Cardamom,cardamom
+Carolina Herrera,CH Men Prive,4,Lavender,lavender
+Carolina Herrera,CH Men Prive,5,Sage,sage
+Carolina Herrera,CH Men Prive,6,Red,red
+Carolina Herrera,CH Men Prive,7,Thyme,thyme
+Carolina Herrera,CH Men Prive,8,Leather,leather
+Carolina Herrera,CH Men Prive,9,Tonka,tonka
+Carolina Herrera,CH Men Prive,10,Bean,bean
+Carolina Herrera,CH Men Prive,11,Woody,woody
+Carolina Herrera,CH Men Prive,12,Notes,notes
+Carolina Herrera,CH Men Prive,13,Benzoin,benzoin
+Guerlain,L’Homme Ideal Cologne,0,Grapefruit,grapefruit
+Guerlain,L’Homme Ideal Cologne,1,Orange,orange
+Guerlain,L’Homme Ideal Cologne,2,Bergamot,bergamot
+Guerlain,L’Homme Ideal Cologne,3,Pink,pink
+Guerlain,L’Homme Ideal Cologne,4,Pepper,pepper
+Guerlain,L’Homme Ideal Cologne,5,Almond,almond
+Guerlain,L’Homme Ideal Cologne,6,Neroli,neroli
+Guerlain,L’Homme Ideal Cologne,7,Vetiver,vetiver
+Guerlain,L’Homme Ideal Cologne,8,White,white
+Guerlain,L’Homme Ideal Cologne,9,Musk,musk
+Alfred Dunhill,Icon,0,Neroli,neroli
+Alfred Dunhill,Icon,1,Bergamot,bergamot
+Alfred Dunhill,Icon,2,Black,black
+Alfred Dunhill,Icon,3,Pepper,pepper
+Alfred Dunhill,Icon,4,Petitgrain,petitgrain
+Alfred Dunhill,Icon,5,Black,black
+Alfred Dunhill,Icon,6,Pepper,pepper
+Alfred Dunhill,Icon,7,Lavender,lavender
+Alfred Dunhill,Icon,8,Cardamom,cardamom
+Alfred Dunhill,Icon,9,Juniper,juniper
+Alfred Dunhill,Icon,10,Berries,berries
+Alfred Dunhill,Icon,11,Sage,sage
+Alfred Dunhill,Icon,12,Vetiver,vetiver
+Alfred Dunhill,Icon,13,Oakmoss,oakmoss
+Alfred Dunhill,Icon,14,Agarwood,agarwood
+Alfred Dunhill,Icon,15,Oud,oud
+Alfred Dunhill,Icon,16,iris,iris
+Alfred Dunhill,Icon,17,Leather,leather
+John Varvatos,Dark Rebel ,0,Rum,rum
+John Varvatos,Dark Rebel ,1,Sugar,sugar
+John Varvatos,Dark Rebel ,2,Cane,cane
+John Varvatos,Dark Rebel ,3,Cardamom,cardamom
+John Varvatos,Dark Rebel ,4,Clary,clary
+John Varvatos,Dark Rebel ,5,Sage,sage
+John Varvatos,Dark Rebel ,6,Artemisia,artemisia
+John Varvatos,Dark Rebel ,7,Leather,leather
+John Varvatos,Dark Rebel ,8,Fir,fir
+John Varvatos,Dark Rebel ,9,Resin,resin
+John Varvatos,Dark Rebel ,10,Pepper,pepper
+John Varvatos,Dark Rebel ,11,Styrax,styrax
+John Varvatos,Dark Rebel ,12,Tobacco,tobacco
+John Varvatos,Dark Rebel ,13,Leaf,leaf
+John Varvatos,Dark Rebel ,14,Woody,woody
+John Varvatos,Dark Rebel ,15,Notes,notes
+John Varvatos,Dark Rebel ,16,Castoreum,castoreum
+John Varvatos,Dark Rebel ,17,Akigalawood,akigalawood
+John Varvatos,Dark Rebel ,18,Mexican,mexican
+John Varvatos,Dark Rebel ,19,Vanilla,vanilla
+John Varvatos,Dark Rebel ,20,Juniper,juniper
+Chanel,Antaeus,0,Myrhh,myrhh
+Chanel,Antaeus,1,Clary,clary
+Chanel,Antaeus,2,Sage,sage
+Chanel,Antaeus,3,Coriander,coriander
+Chanel,Antaeus,4,Bergamot,bergamot
+Chanel,Antaeus,5,Lime,lime
+Chanel,Antaeus,6,Amalfi,amalfi
+Chanel,Antaeus,7,Lemon,lemon
+Chanel,Antaeus,8,Rose,rose
+Chanel,Antaeus,9,Thyme,thyme
+Chanel,Antaeus,10,Basil,basil
+Chanel,Antaeus,11,Jasmine,jasmine
+Chanel,Antaeus,12,Castoreum,castoreum
+Chanel,Antaeus,13,Oakmoss,oakmoss
+Chanel,Antaeus,14,Patchouli,patchouli
+Chanel,Antaeus,15,French,french
+Chanel,Antaeus,16,labdanum,labdanum
+Prada,Prada L'Homme,0,Neroli,neroli
+Prada,Prada L'Homme,1,Black,black
+Prada,Prada L'Homme,2,Pepper,pepper
+Prada,Prada L'Homme,3,Cardamom,cardamom
+Prada,Prada L'Homme,4,Carrot,carrot
+Prada,Prada L'Homme,5,Seeds,seeds
+Prada,Prada L'Homme,6,iris,iris
+Prada,Prada L'Homme,7,Violet,violet
+Prada,Prada L'Homme,8,Geranium,geranium
+Prada,Prada L'Homme,9,Mate,mate
+Prada,Prada L'Homme,10,Amber,amber
+Prada,Prada L'Homme,11,Cedar,cedar
+Prada,Prada L'Homme,12,Patchouli,patchouli
+Prada,Prada L'Homme,13,Sandalwood,sandalwood
+Versace,Versace Pour Homme Dylan Blue,0,Calabrian,calabrian
+Versace,Versace Pour Homme Dylan Blue,1,bergamot,bergamot
+Versace,Versace Pour Homme Dylan Blue,2,Grapefruit,grapefruit
+Versace,Versace Pour Homme Dylan Blue,3,Water,water
+Versace,Versace Pour Homme Dylan Blue,4,Notes,notes
+Versace,Versace Pour Homme Dylan Blue,5,Fig,fig
+Versace,Versace Pour Homme Dylan Blue,6,Leaf,leaf
+Versace,Versace Pour Homme Dylan Blue,7,Ambroxan,ambroxan
+Versace,Versace Pour Homme Dylan Blue,8,Patchouli,patchouli
+Versace,Versace Pour Homme Dylan Blue,9,Black,black
+Versace,Versace Pour Homme Dylan Blue,10,Pepper,pepper
+Versace,Versace Pour Homme Dylan Blue,11,Violet,violet
+Versace,Versace Pour Homme Dylan Blue,12,Leaf,leaf
+Versace,Versace Pour Homme Dylan Blue,13,Papyrus,papyrus
+Versace,Versace Pour Homme Dylan Blue,14,Incense,incense
+Versace,Versace Pour Homme Dylan Blue,15,Musk,musk
+Versace,Versace Pour Homme Dylan Blue,16,Tonka,tonka
+Versace,Versace Pour Homme Dylan Blue,17,Bean,bean
+Versace,Versace Pour Homme Dylan Blue,18,Saffron,saffron
+Knize,Knize Ten,0,Geranium,geranium
+Knize,Knize Ten,1,Rosemary,rosemary
+Knize,Knize Ten,2,Bergamot,bergamot
+Knize,Knize Ten,3,Orange,orange
+Knize,Knize Ten,4,Petitgrain,petitgrain
+Knize,Knize Ten,5,Amalfi,amalfi
+Knize,Knize Ten,6,Lemon,lemon
+Knize,Knize Ten,7,Carnation,carnation
+Knize,Knize Ten,8,Patchouli,patchouli
+Knize,Knize Ten,9,Sandalwood,sandalwood
+Knize,Knize Ten,10,Orris,orris
+Knize,Knize Ten,11,tincture,tincture
+Knize,Knize Ten,12,of,of
+Knize,Knize Ten,13,rose,rose
+Knize,Knize Ten,14,Virginia,virginia
+Knize,Knize Ten,15,Cedar,cedar
+Knize,Knize Ten,16,Cinnamon,cinnamon
+Knize,Knize Ten,17,Orange,orange
+Knize,Knize Ten,18,Blossom,blossom
+Knize,Knize Ten,19,Leather,leather
+Knize,Knize Ten,20,Castoreum,castoreum
+Knize,Knize Ten,21,oak,oak
+Knize,Knize Ten,22,moss,moss
+Knize,Knize Ten,23,Amber,amber
+Knize,Knize Ten,24,Musk,musk
+Knize,Knize Ten,25,Vanilla,vanilla
+Jardin de France,Eau givree,0,Amalfi,amalfi
+Jardin de France,Eau givree,1,Lemon,lemon
+Jardin de France,Eau givree,2,Bergamot,bergamot
+Jardin de France,Eau givree,3,Sea,sea
+Jardin de France,Eau givree,4,water,water
+Jardin de France,Eau givree,5,Lavender,lavender
+Jardin de France,Eau givree,6,Sandalwood,sandalwood
+Jardin de France,Eau givree,7,Patchouli,patchouli
+Jardin de France,Eau givree,8,Virginia,virginia
+Jardin de France,Eau givree,9,Cedar,cedar
+Jardin de France,Eau boisee,0,Virginia,virginia
+Jardin de France,Eau boisee,1,Cedar,cedar
+Jardin de France,Eau boisee,2,Tea,tea
+Jardin de France,Eau boisee,3,Amalfi,amalfi
+Jardin de France,Eau boisee,4,Lemon,lemon
+Jardin de France,Eau boisee,5,Rose,rose
+Jardin de France,Eau boisee,6,Jasmine,jasmine
+Jardin de France,Eau boisee,7,Artemisia,artemisia
+Jardin de France,Eau boisee,8,Ginger,ginger
+Jardin de France,Eau boisee,9,Musk,musk
+The Crown Perfumery Co.,Crown Spiced Limes,0,Lime,lime
+The Crown Perfumery Co.,Crown Spiced Limes,1,Lemon,lemon
+The Crown Perfumery Co.,Crown Spiced Limes,2,Clary,clary
+The Crown Perfumery Co.,Crown Spiced Limes,3,Sage,sage
+The Crown Perfumery Co.,Crown Spiced Limes,4,Basil,basil
+The Crown Perfumery Co.,Crown Spiced Limes,5,Coriander,coriander
+The Crown Perfumery Co.,Crown Spiced Limes,6,Oakmoss,oakmoss
+The Crown Perfumery Co.,Crown Spiced Limes,7,Vetiver,vetiver
+Panama 1924,Panama,0,Lavender,lavender
+Panama 1924,Panama,1,Mandarin,mandarin
+Panama 1924,Panama,2,Orange,orange
+Panama 1924,Panama,3,Lemon,lemon
+Panama 1924,Panama,4,Mint,mint
+Panama 1924,Panama,5,Chinese,chinese
+Panama 1924,Panama,6,Cinnamon,cinnamon
+Panama 1924,Panama,7,Wood,wood
+Panama 1924,Panama,8,Rose,rose
+Panama 1924,Panama,9,Red,red
+Panama 1924,Panama,10,Thyme,thyme
+Panama 1924,Panama,11,Cumin,cumin
+Panama 1924,Panama,12,Coriander,coriander
+Panama 1924,Panama,13,Sandalwood,sandalwood
+Panama 1924,Panama Millesime,0,Saffron,saffron
+Panama 1924,Panama Millesime,1,Rum,rum
+Panama 1924,Panama Millesime,2,Rhuburb,rhuburb
+Panama 1924,Panama Millesime,3,Tea,tea
+Panama 1924,Panama Millesime,4,Amalfi,amalfi
+Panama 1924,Panama Millesime,5,Lemon,lemon
+Panama 1924,Panama Millesime,6,Cardamom,cardamom
+Panama 1924,Panama Millesime,7,Coriander,coriander
+Panama 1924,Panama Millesime,8,Jasmine,jasmine
+Panama 1924,Panama Millesime,9,Cinnamon,cinnamon
+Panama 1924,Panama Millesime,10,Vetiver,vetiver
+Panama 1924,Panama Millesime,11,Virginia,virginia
+Panama 1924,Panama Millesime,12,Cedar,cedar
+Panama 1924,Panama Millesime,13,Ambrette,ambrette
+Panama 1924,Panama Millesime,14,Musk,musk
+Panama 1924,Panama Millesime,15,Mallow,mallow
+Panama 1924,Panama Millesime,16,Musk,musk
+Montblanc,Individuel,0,Cinnamon,cinnamon
+Montblanc,Individuel,1,Lavender,lavender
+Montblanc,Individuel,2,Pineapple,pineapple
+Montblanc,Individuel,3,Juniper,juniper
+Montblanc,Individuel,4,Berries,berries
+Montblanc,Individuel,5,Mint,mint
+Montblanc,Individuel,6,Bergamot,bergamot
+Montblanc,Individuel,7,Rosemary,rosemary
+Montblanc,Individuel,8,Coriander,coriander
+Montblanc,Individuel,9,Cardamom,cardamom
+Montblanc,Individuel,10,Orange,orange
+Montblanc,Individuel,11,Blossom,blossom
+Montblanc,Individuel,12,Violet,violet
+Montblanc,Individuel,13,Geranium,geranium
+Montblanc,Individuel,14,Jasmine,jasmine
+Montblanc,Individuel,15,Raspberry,raspberry
+Montblanc,Individuel,16,Vanilla,vanilla
+Montblanc,Individuel,17,Sandalwood,sandalwood
+Montblanc,Individuel,18,Dark,dark
+Montblanc,Individuel,19,Chocolate,chocolate
+Montblanc,Individuel,20,Musk,musk
+Montblanc,Individuel,21,Amber,amber
+Montblanc,Individuel,22,Patchouli,patchouli
+Montblanc,Individuel,23,Vetiver,vetiver
+Montblanc,Individuel,24,Oakmoss,oakmoss
+Chanel,Allure Homme Sport,0,Orange,orange
+Chanel,Allure Homme Sport,1,Sea,sea
+Chanel,Allure Homme Sport,2,Notes,notes
+Chanel,Allure Homme Sport,3,Aldehydes,aldehydes
+Chanel,Allure Homme Sport,4,Blood,blood
+Chanel,Allure Homme Sport,5,Mandarin,mandarin
+Chanel,Allure Homme Sport,6,Pepper,pepper
+Chanel,Allure Homme Sport,7,Neroli,neroli
+Chanel,Allure Homme Sport,8,Cedar,cedar
+Chanel,Allure Homme Sport,9,Tonka,tonka
+Chanel,Allure Homme Sport,10,Bean,bean
+Chanel,Allure Homme Sport,11,Vanilla,vanilla
+Chanel,Allure Homme Sport,12,White,white
+Chanel,Allure Homme Sport,13,Musk,musk
+Chanel,Allure Homme Sport,14,Amber,amber
+Chanel,Allure Homme Sport,15,Vetiver,vetiver
+Chanel,Allure Homme Sport,16,Elemi,elemi
+Chanel,Allure Homme Sport,17,resin,resin
+Giorgio Armani,Armani Code,0,Lemon,lemon
+Giorgio Armani,Armani Code,1,Bergamot,bergamot
+Giorgio Armani,Armani Code,2,Star,star
+Giorgio Armani,Armani Code,3,Anise,anise
+Giorgio Armani,Armani Code,4,Olive,olive
+Giorgio Armani,Armani Code,5,Blossom,blossom
+Giorgio Armani,Armani Code,6,Guaiac,guaiac
+Giorgio Armani,Armani Code,7,Wood,wood
+Giorgio Armani,Armani Code,8,Leather,leather
+Giorgio Armani,Armani Code,9,Tonka,tonka
+Giorgio Armani,Armani Code,10,Bean,bean
+Giorgio Armani,Armani Code,11,Tobacco,tobacco
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,0,Rosemary,rosemary
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,1,Lime,lime
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,2,Orangewood,orangewood
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,3,Mandarin,mandarin
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,4,Orange,orange
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,5,Lemongrass,lemongrass
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,6,Cypress,cypress
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,7,Juniper,juniper
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,8,Berries,berries
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,9,Ginger,ginger
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,10,Lavender,lavender
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,11,Pink,pink
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,12,Pepper,pepper
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,13,May,may
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,14,Rose,rose
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,15,Star,star
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,16,Anise,anise
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,17,Nasturtium,nasturtium
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,18,Atlas,atlas
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,19,Cedar,cedar
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,20,Patchouli,patchouli
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,21,Oakmoss,oakmoss
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,22,Sandalwood,sandalwood
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,23,Amber,amber
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,24,Ambrette,ambrette
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,25,Musk,musk
+Issey Miyake,L'Eau Bleue d'Issey Pour Homme,26,Mallow,mallow
+John Varvatos,John Varvatos,1,Leather,leather
+John Varvatos,John Varvatos,2,Amber,amber
+John Varvatos,John Varvatos,3,Tamarind,tamarind
+John Varvatos,John Varvatos,4,Dates,dates
+John Varvatos,John Varvatos,5,Vanilla,vanilla
+John Varvatos,John Varvatos,6,Balsam,balsam
+John Varvatos,John Varvatos,7,Fir,fir
+John Varvatos,John Varvatos,8,Herbal,herbal
+John Varvatos,John Varvatos,9,Notes,notes
+John Varvatos,John Varvatos,10,Caramel,caramel
+John Varvatos,John Varvatos,11,Hay,hay
+John Varvatos,John Varvatos,12,Olibanum,olibanum
+John Varvatos,John Varvatos,13,Agarwood,agarwood
+John Varvatos,John Varvatos,14,Oud,oud
+John Varvatos,John Varvatos,15,Styrax,styrax
+Guerlain,L'Instant de Guerlain pour Homme,0,Lemon,lemon
+Guerlain,L'Instant de Guerlain pour Homme,1,Bergamot,bergamot
+Guerlain,L'Instant de Guerlain pour Homme,2,Anise,anise
+Guerlain,L'Instant de Guerlain pour Homme,3,Grapefruit,grapefruit
+Guerlain,L'Instant de Guerlain pour Homme,4,Jasmine,jasmine
+Guerlain,L'Instant de Guerlain pour Homme,5,Cacao,cacao
+Guerlain,L'Instant de Guerlain pour Homme,6,Patchouli,patchouli
+Guerlain,L'Instant de Guerlain pour Homme,7,Sandalwood,sandalwood
+Guerlain,L'Instant de Guerlain pour Homme,8,Tea,tea
+Guerlain,L'Instant de Guerlain pour Homme,9,Cedar,cedar
+Guerlain,L'Instant de Guerlain pour Homme,10,Lavender,lavender
+Guerlain,L'Instant de Guerlain pour Homme,11,Natural,natural
+Guerlain,L'Instant de Guerlain pour Homme,12,Musk,musk
+Guerlain,L'Instant de Guerlain pour Homme,13,Hibiscus,hibiscus
+Guerlain,L'Instant de Guerlain pour Homme,14,Seed,seed
+Guerlain,L'Instant de Guerlain pour Homme,15,Elemi,elemi
+Guerlain,L'Instant de Guerlain pour Homme,16,resin,resin
+Burberry,Burberry Brit for Men,0,Ginger,ginger
+Burberry,Burberry Brit for Men,1,Cardamom,cardamom
+Burberry,Burberry Brit for Men,2,Green,green
+Burberry,Burberry Brit for Men,3,Mandarin,mandarin
+Burberry,Burberry Brit for Men,4,Bergamot,bergamot
+Burberry,Burberry Brit for Men,5,Wild,wild
+Burberry,Burberry Brit for Men,6,Rose,rose
+Burberry,Burberry Brit for Men,7,Nutmeg,nutmeg
+Burberry,Burberry Brit for Men,8,Cedar,cedar
+Burberry,Burberry Brit for Men,9,Spicy,spicy
+Burberry,Burberry Brit for Men,10,Notes,notes
+Burberry,Burberry Brit for Men,11,Tonka,tonka
+Burberry,Burberry Brit for Men,12,Bean,bean
+Burberry,Burberry Brit for Men,13,Cedar,cedar
+Burberry,Burberry Brit for Men,14,Gray,gray
+Burberry,Burberry Brit for Men,15,Musk,musk
+Burberry,Burberry Brit for Men,16,Oriental,oriental
+Burberry,Burberry Brit for Men,17,Woodsy,woodsy
+Burberry,Burberry Brit for Men,18,notes,notes
+Burberry,Burberry Brit for Men,19,Patchouli,patchouli
+Comme des Garcons,Comme des Garcons 2 Man,0,Aldehydes,aldehydes
+Comme des Garcons,Comme des Garcons 2 Man,1,Nutmeg,nutmeg
+Comme des Garcons,Comme des Garcons 2 Man,2,Caraway,caraway
+Comme des Garcons,Comme des Garcons 2 Man,3,Kumquat,kumquat
+Comme des Garcons,Comme des Garcons 2 Man,4,Mint,mint
+Comme des Garcons,Comme des Garcons 2 Man,5,Vetiver,vetiver
+Comme des Garcons,Comme des Garcons 2 Man,6,Saffron,saffron
+Comme des Garcons,Comme des Garcons 2 Man,7,iris,iris
+Comme des Garcons,Comme des Garcons 2 Man,8,Incense,incense
+Comme des Garcons,Comme des Garcons 2 Man,9,Mahogany,mahogany
+Comme des Garcons,Comme des Garcons 2 Man,10,Leather,leather
+Jacques Bogart,Bogart Pour Homme,0,Lavender,lavender
+Jacques Bogart,Bogart Pour Homme,1,Bergamot,bergamot
+Jacques Bogart,Bogart Pour Homme,2,Orange,orange
+Jacques Bogart,Bogart Pour Homme,3,Blossom,blossom
+Jacques Bogart,Bogart Pour Homme,4,Rose,rose
+Jacques Bogart,Bogart Pour Homme,5,Lily,lily
+Jacques Bogart,Bogart Pour Homme,6,of,of
+Jacques Bogart,Bogart Pour Homme,7,the,the
+Jacques Bogart,Bogart Pour Homme,8,Valley,valley
+Jacques Bogart,Bogart Pour Homme,9,Tonka,tonka
+Jacques Bogart,Bogart Pour Homme,10,Bean,bean
+Jacques Bogart,Bogart Pour Homme,11,Patchouli,patchouli
+Jacques Bogart,Bogart Pour Homme,12,Cedar,cedar
+Jacques Bogart,Bogart Pour Homme,13,Oakmoss,oakmoss
+Jacques Bogart,Bogart Pour Homme,14,Musk,musk
+Nasomatto,Pardon,0,Magnolia,magnolia
+Nasomatto,Pardon,1,Flowers,flowers
+Nasomatto,Pardon,2,Dark,dark
+Nasomatto,Pardon,3,Chocolate,chocolate
+Nasomatto,Pardon,4,Tonka,tonka
+Nasomatto,Pardon,5,Bean,bean
+Nasomatto,Pardon,6,Cinnamon,cinnamon
+Nasomatto,Pardon,7,Agarwood,agarwood
+Nasomatto,Pardon,8,Oud,oud
+Nasomatto,Pardon,9,Sandalwood,sandalwood
+Zara,Warm Black,0,Ginger,ginger
+Zara,Warm Black,1,Vanilla,vanilla
+Zara,Warm Black,2,Tonka,tonka
+Zara,Warm Black,3,Bean,bean
+Bvlgari,Aqva Pour Homme,0,Mandarin,mandarin
+Bvlgari,Aqva Pour Homme,1,Orange,orange
+Bvlgari,Aqva Pour Homme,2,Orange,orange
+Bvlgari,Aqva Pour Homme,3,Petitgrain,petitgrain
+Bvlgari,Aqva Pour Homme,4,Seaweed,seaweed
+Bvlgari,Aqva Pour Homme,5,Lavender,lavender
+Bvlgari,Aqva Pour Homme,6,Cotton,cotton
+Bvlgari,Aqva Pour Homme,7,Flower,flower
+Bvlgari,Aqva Pour Homme,8,Virginia,virginia
+Bvlgari,Aqva Pour Homme,9,Cedar,cedar
+Bvlgari,Aqva Pour Homme,10,Woodsy,woodsy
+Bvlgari,Aqva Pour Homme,11,Notes,notes
+Bvlgari,Aqva Pour Homme,12,Patchouli,patchouli
+Bvlgari,Aqva Pour Homme,13,Clary,clary
+Bvlgari,Aqva Pour Homme,14,Sage,sage
+Bvlgari,Aqva Pour Homme,15,Amber,amber
+Versace,Versace Pour Homme,0,Lemon,lemon
+Versace,Versace Pour Homme,1,Neroli,neroli
+Versace,Versace Pour Homme,2,Bergamot,bergamot
+Versace,Versace Pour Homme,3,Rose,rose
+Versace,Versace Pour Homme,4,de,de
+Versace,Versace Pour Homme,5,Mai,mai
+Versace,Versace Pour Homme,6,Hyacinth,hyacinth
+Versace,Versace Pour Homme,7,Cedar,cedar
+Versace,Versace Pour Homme,8,Clary,clary
+Versace,Versace Pour Homme,9,Sage,sage
+Versace,Versace Pour Homme,10,Geranium,geranium
+Versace,Versace Pour Homme,11,Tonka,tonka
+Versace,Versace Pour Homme,12,Bean,bean
+Versace,Versace Pour Homme,13,Musk,musk
+Versace,Versace Pour Homme,14,Amber,amber
+Paco Rabanne,1 Million,0,Blood,blood
+Paco Rabanne,1 Million,1,Mandarin,mandarin
+Paco Rabanne,1 Million,2,Grapefruit,grapefruit
+Paco Rabanne,1 Million,3,Mint,mint
+Paco Rabanne,1 Million,4,Cinnamon,cinnamon
+Paco Rabanne,1 Million,5,Rose,rose
+Paco Rabanne,1 Million,6,Spicy,spicy
+Paco Rabanne,1 Million,7,Notes,notes
+Paco Rabanne,1 Million,8,Amber,amber
+Paco Rabanne,1 Million,9,Leather,leather
+Paco Rabanne,1 Million,10,Woody,woody
+Paco Rabanne,1 Million,11,Notes,notes
+Paco Rabanne,1 Million,12,Indian,indian
+Paco Rabanne,1 Million,13,Patchouli,patchouli
+Dolce&Gabbana,The One for Men,0,Grapefruit,grapefruit
+Dolce&Gabbana,The One for Men,1,Coriander,coriander
+Dolce&Gabbana,The One for Men,2,Basil,basil
+Dolce&Gabbana,The One for Men,3,Ginger,ginger
+Dolce&Gabbana,The One for Men,4,Cardamom,cardamom
+Dolce&Gabbana,The One for Men,5,Orange,orange
+Dolce&Gabbana,The One for Men,6,Blossom,blossom
+Dolce&Gabbana,The One for Men,7,Amber,amber
+Dolce&Gabbana,The One for Men,8,Tobacco,tobacco
+Dolce&Gabbana,The One for Men,9,Cedar,cedar
+Amouage,Jubilation XXV Man,0,Blackberry,blackberry
+Amouage,Jubilation XXV Man,1,Olibanum,olibanum
+Amouage,Jubilation XXV Man,2,Orange,orange
+Amouage,Jubilation XXV Man,3,Labdanum,labdanum
+Amouage,Jubilation XXV Man,4,Coriander,coriander
+Amouage,Jubilation XXV Man,5,Tarragon,tarragon
+Amouage,Jubilation XXV Man,6,Honey,honey
+Amouage,Jubilation XXV Man,7,Guaiac,guaiac
+Amouage,Jubilation XXV Man,8,Wood,wood
+Amouage,Jubilation XXV Man,9,Cinnamon,cinnamon
+Amouage,Jubilation XXV Man,10,Bay,bay
+Amouage,Jubilation XXV Man,11,Leaf,leaf
+Amouage,Jubilation XXV Man,12,Clove,clove
+Amouage,Jubilation XXV Man,13,Rose,rose
+Amouage,Jubilation XXV Man,14,Orchid,orchid
+Amouage,Jubilation XXV Man,15,Celery,celery
+Amouage,Jubilation XXV Man,16,Seeds,seeds
+Amouage,Jubilation XXV Man,17,Opoponax,opoponax
+Amouage,Jubilation XXV Man,18,Agarwood,agarwood
+Amouage,Jubilation XXV Man,19,Oud,oud
+Amouage,Jubilation XXV Man,20,Myrrh,myrrh
+Amouage,Jubilation XXV Man,21,Patchouli,patchouli
+Amouage,Jubilation XXV Man,22,Cedar,cedar
+Amouage,Jubilation XXV Man,23,Ambergris,ambergris
+Amouage,Jubilation XXV Man,24,Immortelle,immortelle
+Amouage,Jubilation XXV Man,25,Musk,musk
+Amouage,Jubilation XXV Man,26,Oakmoss,oakmoss
+Chanel,Allure Homme Edition Blanche,1,Sicilian,sicilian
+Chanel,Allure Homme Edition Blanche,2,Lemon,lemon
+Chanel,Allure Homme Edition Blanche,3,Madagascar,madagascar
+Chanel,Allure Homme Edition Blanche,4,Vanilla,vanilla
+Chanel,Allure Homme Edition Blanche,5,Pink,pink
+Chanel,Allure Homme Edition Blanche,6,Pepper,pepper
+Chanel,Allure Homme Edition Blanche,7,Calabrian,calabrian
+Chanel,Allure Homme Edition Blanche,8,bergamot,bergamot
+Chanel,Allure Homme Edition Blanche,9,Sandalwood,sandalwood
+Chanel,Allure Homme Edition Blanche,10,Tonka,tonka
+Chanel,Allure Homme Edition Blanche,11,Bean,bean
+Chanel,Allure Homme Edition Blanche,12,Tahitian,tahitian
+Chanel,Allure Homme Edition Blanche,13,Vetiver,vetiver
+Chanel,Allure Homme Edition Blanche,14,Musk,musk
+Chanel,Allure Homme Edition Blanche,15,Amber,amber
+Chanel,Allure Homme Edition Blanche,16,Cedar,cedar
+Amouage,Amouage Lyric Man,0,Lime,lime
+Amouage,Amouage Lyric Man,1,Bergamot,bergamot
+Amouage,Amouage Lyric Man,2,Rose,rose
+Amouage,Amouage Lyric Man,3,Angelica,angelica
+Amouage,Amouage Lyric Man,4,Ginger,ginger
+Amouage,Amouage Lyric Man,5,Saffron,saffron
+Amouage,Amouage Lyric Man,6,Orange,orange
+Amouage,Amouage Lyric Man,7,Blossom,blossom
+Amouage,Amouage Lyric Man,8,Nutmeg,nutmeg
+Amouage,Amouage Lyric Man,9,Galbanum,galbanum
+Amouage,Amouage Lyric Man,10,Musk,musk
+Amouage,Amouage Lyric Man,11,Incense,incense
+Amouage,Amouage Lyric Man,12,Pine,pine
+Amouage,Amouage Lyric Man,13,Tree,tree
+Amouage,Amouage Lyric Man,14,Sandalwood,sandalwood
+Amouage,Amouage Lyric Man,15,Vanilla,vanilla
+Bvlgari,Aqva Pour Homme Marine,0,Grapefruit,grapefruit
+Bvlgari,Aqva Pour Homme Marine,1,Neroli,neroli
+Bvlgari,Aqva Pour Homme Marine,2,Mandarin,mandarin
+Bvlgari,Aqva Pour Homme Marine,3,Orange,orange
+Bvlgari,Aqva Pour Homme Marine,4,Petitgrain,petitgrain
+Bvlgari,Aqva Pour Homme Marine,5,Water,water
+Bvlgari,Aqva Pour Homme Marine,6,Notes,notes
+Bvlgari,Aqva Pour Homme Marine,7,Seaweed,seaweed
+Bvlgari,Aqva Pour Homme Marine,8,Rosemary,rosemary
+Bvlgari,Aqva Pour Homme Marine,9,Virginia,virginia
+Bvlgari,Aqva Pour Homme Marine,10,Cedar,cedar
+Bvlgari,Aqva Pour Homme Marine,11,Amber,amber
+Lalique,Lalique White,0,Lemon,lemon
+Lalique,Lalique White,1,Leaf,leaf
+Lalique,Lalique White,2,Bergamot,bergamot
+Lalique,Lalique White,3,Tamarind,tamarind
+Lalique,Lalique White,4,elemi,elemi
+Lalique,Lalique White,5,White,white
+Lalique,Lalique White,6,Pepper,pepper
+Lalique,Lalique White,7,Nutmeg,nutmeg
+Lalique,Lalique White,8,Cardamom,cardamom
+Lalique,Lalique White,9,Violet,violet
+Lalique,Lalique White,10,Cedar,cedar
+Lalique,Lalique White,11,Musk,musk
+Lalique,Lalique White,12,Oakmoss,oakmoss
+Lalique,Lalique White,13,Amber,amber
+Yves Saint Laurent,La Nuit de l'Homme,0,Cardamom,cardamom
+Yves Saint Laurent,La Nuit de l'Homme,1,Lavender,lavender
+Yves Saint Laurent,La Nuit de l'Homme,2,Virginia,virginia
+Yves Saint Laurent,La Nuit de l'Homme,3,Cedar,cedar
+Yves Saint Laurent,La Nuit de l'Homme,4,Bergamot,bergamot
+Yves Saint Laurent,La Nuit de l'Homme,5,Vetiver,vetiver
+Yves Saint Laurent,La Nuit de l'Homme,6,Caraway,caraway
+Mugler,A*Men Pure Malt,0,Fruity,fruity
+Mugler,A*Men Pure Malt,1,Notes,notes
+Mugler,A*Men Pure Malt,2,Orange,orange
+Mugler,A*Men Pure Malt,3,Bergamot,bergamot
+Mugler,A*Men Pure Malt,4,Malt,malt
+Mugler,A*Men Pure Malt,5,Whiskey,whiskey
+Mugler,A*Men Pure Malt,6,Patchouli,patchouli
+Mugler,A*Men Pure Malt,7,Coffee,coffee
+Mugler,A*Men Pure Malt,8,Cedar,cedar
+Mugler,A*Men Pure Malt,9,Peat,peat
+Mugler,A*Men Pure Malt,10,Vanilla,vanilla
+Mugler,A*Men Pure Malt,11,Amber,amber
+Mugler,A*Men Pure Malt,12,Musk,musk
+Tom Ford,Grey Vetiver,0,Grapefruit,grapefruit
+Tom Ford,Grey Vetiver,1,Orange,orange
+Tom Ford,Grey Vetiver,2,Blossom,blossom
+Tom Ford,Grey Vetiver,3,Sage,sage
+Tom Ford,Grey Vetiver,4,Nutmeg,nutmeg
+Tom Ford,Grey Vetiver,5,Orris,orris
+Tom Ford,Grey Vetiver,6,Root,root
+Tom Ford,Grey Vetiver,7,Pimento,pimento
+Tom Ford,Grey Vetiver,8,Vetiver,vetiver
+Tom Ford,Grey Vetiver,9,Woodsy,woodsy
+Tom Ford,Grey Vetiver,10,Notes,notes
+Tom Ford,Grey Vetiver,11,Oakmoss,oakmoss
+Tom Ford,Grey Vetiver,12,Amber,amber
+Salvatore Ferragamo,F by Ferragamo Black,0,Lavender,lavender
+Salvatore Ferragamo,F by Ferragamo Black,1,Apple,apple
+Salvatore Ferragamo,F by Ferragamo Black,2,Black,black
+Salvatore Ferragamo,F by Ferragamo Black,3,Pepper,pepper
+Salvatore Ferragamo,F by Ferragamo Black,4,Coriander,coriander
+Salvatore Ferragamo,F by Ferragamo Black,5,Tonka,tonka
+Salvatore Ferragamo,F by Ferragamo Black,6,Bean,bean
+Salvatore Ferragamo,F by Ferragamo Black,7,Labdanum,labdanum
+Hermès,Terre d'Hermes Parfum,0,Orange,orange
+Hermès,Terre d'Hermes Parfum,1,Grapefruit,grapefruit
+Hermès,Terre d'Hermes Parfum,2,Flint,flint
+Hermès,Terre d'Hermes Parfum,3,Woodsy,woodsy
+Hermès,Terre d'Hermes Parfum,4,Notes,notes
+Hermès,Terre d'Hermes Parfum,5,oak,oak
+Hermès,Terre d'Hermes Parfum,6,moss,moss
+Hermès,Terre d'Hermes Parfum,7,Benzoin,benzoin
+Creed,Aventus,0,Pineapple,pineapple
+Creed,Aventus,1,Black,black
+Creed,Aventus,2,Currant,currant
+Creed,Aventus,3,Bergamot,bergamot
+Creed,Aventus,4,Apple,apple
+Creed,Aventus,5,Birch,birch
+Creed,Aventus,6,Patchouli,patchouli
+Creed,Aventus,7,Moroccan,moroccan
+Creed,Aventus,8,Jasmine,jasmine
+Creed,Aventus,9,Rose,rose
+Creed,Aventus,10,Musk,musk
+Creed,Aventus,11,oak,oak
+Creed,Aventus,12,moss,moss
+Creed,Aventus,13,Ambergris,ambergris
+Creed,Aventus,14,Vanille,vanille
+Chanel,Bleu de Chanel,0,Grapefruit,grapefruit
+Chanel,Bleu de Chanel,1,Lemon,lemon
+Chanel,Bleu de Chanel,2,Mint,mint
+Chanel,Bleu de Chanel,3,Pink,pink
+Chanel,Bleu de Chanel,4,Pepper,pepper
+Chanel,Bleu de Chanel,5,Ginger,ginger
+Chanel,Bleu de Chanel,6,Nutmeg,nutmeg
+Chanel,Bleu de Chanel,7,Jasmine,jasmine
+Chanel,Bleu de Chanel,8,Iso,iso
+Chanel,Bleu de Chanel,9,E,e
+Chanel,Bleu de Chanel,10,Super,super
+Chanel,Bleu de Chanel,11,Incense,incense
+Chanel,Bleu de Chanel,12,Vetiver,vetiver
+Chanel,Bleu de Chanel,13,Cedar,cedar
+Chanel,Bleu de Chanel,14,Sandalwood,sandalwood
+Chanel,Bleu de Chanel,15,Patchouli,patchouli
+Chanel,Bleu de Chanel,16,Labdanum,labdanum
+Chanel,Bleu de Chanel,17,White,white
+Chanel,Bleu de Chanel,18,Musk,musk
+Versace,The Dreamer,0,Juniper,juniper
+Versace,The Dreamer,1,Tarragon,tarragon
+Versace,The Dreamer,2,Artemisia,artemisia
+Versace,The Dreamer,3,iris,iris
+Versace,The Dreamer,4,Lily,lily
+Versace,The Dreamer,5,Flax,flax
+Versace,The Dreamer,6,Tobacco,tobacco
+Versace,The Dreamer,7,blossom,blossom
+Versace,The Dreamer,8,Amber,amber
+Acqua di Parma,Essenza di Colonia,1,Neroli,neroli
+Acqua di Parma,Essenza di Colonia,2,Bergamot,bergamot
+Acqua di Parma,Essenza di Colonia,3,Grapefruit,grapefruit
+Acqua di Parma,Essenza di Colonia,4,Jasmine,jasmine
+Acqua di Parma,Essenza di Colonia,5,Petitgrain,petitgrain
+Acqua di Parma,Essenza di Colonia,6,Orange,orange
+Acqua di Parma,Essenza di Colonia,7,Musk,musk
+Acqua di Parma,Essenza di Colonia,8,Mandarin,mandarin
+Acqua di Parma,Essenza di Colonia,9,Orange,orange
+Acqua di Parma,Essenza di Colonia,10,vetyver,vetyver
+Acqua di Parma,Essenza di Colonia,11,Rosemary,rosemary
+Acqua di Parma,Essenza di Colonia,12,Rose,rose
+Acqua di Parma,Essenza di Colonia,13,Oakmoss,oakmoss
+Acqua di Parma,Essenza di Colonia,14,Lily,lily
+Acqua di Parma,Essenza di Colonia,15,of,of
+Acqua di Parma,Essenza di Colonia,16,the,the
+Acqua di Parma,Essenza di Colonia,17,Valley,valley
+Acqua di Parma,Essenza di Colonia,18,Cloves,cloves
+Acqua di Parma,Essenza di Colonia,19,Sage,sage
+Acqua di Parma,Essenza di Colonia,20,Patchouli,patchouli
+Acqua di Parma,Essenza di Colonia,21,Amber,amber
+Amouage,Memoir Man,0,Wormwood,wormwood
+Amouage,Memoir Man,1,Mint,mint
+Amouage,Memoir Man,2,Basil,basil
+Amouage,Memoir Man,3,Incense,incense
+Amouage,Memoir Man,4,Lavender,lavender
+Amouage,Memoir Man,5,Rose,rose
+Amouage,Memoir Man,6,Tobacco,tobacco
+Amouage,Memoir Man,7,Leather,leather
+Amouage,Memoir Man,8,Sandalwood,sandalwood
+Amouage,Memoir Man,9,Guaiac,guaiac
+Amouage,Memoir Man,10,Wood,wood
+Amouage,Memoir Man,11,Vetiver,vetiver
+Amouage,Memoir Man,12,oak,oak
+Amouage,Memoir Man,13,moss,moss
+Amouage,Memoir Man,14,Amber,amber
+Amouage,Memoir Man,15,Vanille,vanille
+Amouage,Memoir Man,16,Musk,musk
+Van Cleef & Arpels,Midnight in Paris,0,Leather,leather
+Van Cleef & Arpels,Midnight in Paris,1,Bergamot,bergamot
+Van Cleef & Arpels,Midnight in Paris,2,Amalfi,amalfi
+Van Cleef & Arpels,Midnight in Paris,3,Lemon,lemon
+Van Cleef & Arpels,Midnight in Paris,4,Holly,holly
+Van Cleef & Arpels,Midnight in Paris,5,Rosemary,rosemary
+Van Cleef & Arpels,Midnight in Paris,6,Tea,tea
+Van Cleef & Arpels,Midnight in Paris,7,Styrax,styrax
+Van Cleef & Arpels,Midnight in Paris,8,Lily,lily
+Van Cleef & Arpels,Midnight in Paris,9,of,of
+Van Cleef & Arpels,Midnight in Paris,10,the,the
+Van Cleef & Arpels,Midnight in Paris,11,Valley,valley
+Van Cleef & Arpels,Midnight in Paris,12,Tonka,tonka
+Van Cleef & Arpels,Midnight in Paris,13,Bean,bean
+Van Cleef & Arpels,Midnight in Paris,14,Incense,incense
+Van Cleef & Arpels,Midnight in Paris,15,Benzoin,benzoin
+Van Cleef & Arpels,Midnight in Paris,16,Almond,almond
+Van Cleef & Arpels,Midnight in Paris,17,Amber,amber
+Parfums de Marly,Godolphin,0,Fruity,fruity
+Parfums de Marly,Godolphin,1,Notes,notes
+Parfums de Marly,Godolphin,2,Saffron,saffron
+Parfums de Marly,Godolphin,3,Thyme,thyme
+Parfums de Marly,Godolphin,4,Mate,mate
+Parfums de Marly,Godolphin,5,Cypress,cypress
+Parfums de Marly,Godolphin,6,Green,green
+Parfums de Marly,Godolphin,7,Notes,notes
+Parfums de Marly,Godolphin,8,Rose,rose
+Parfums de Marly,Godolphin,9,Orris,orris
+Parfums de Marly,Godolphin,10,Jasmine,jasmine
+Parfums de Marly,Godolphin,11,Leather,leather
+Parfums de Marly,Godolphin,12,Amber,amber
+Parfums de Marly,Godolphin,13,Virginia,virginia
+Parfums de Marly,Godolphin,14,Cedar,cedar
+Parfums de Marly,Godolphin,15,Vetiver,vetiver
+Parfums de Marly,Godolphin,16,Musk,musk
+Parfums de Marly,Godolphin,17,Vanille,vanille
+Christian Dior,Dior Homme Intense 2011,0,Lavender,lavender
+Christian Dior,Dior Homme Intense 2011,1,iris,iris
+Christian Dior,Dior Homme Intense 2011,2,Ambrette,ambrette
+Christian Dior,Dior Homme Intense 2011,3,Musk,musk
+Christian Dior,Dior Homme Intense 2011,4,Mallow,mallow
+Christian Dior,Dior Homme Intense 2011,5,Pear,pear
+Christian Dior,Dior Homme Intense 2011,6,Virginia,virginia
+Christian Dior,Dior Homme Intense 2011,7,Cedar,cedar
+Christian Dior,Dior Homme Intense 2011,8,Vetiver,vetiver
+Mugler,A*Men Pure Havane,0,Tobacco,tobacco
+Mugler,A*Men Pure Havane,1,white,white
+Mugler,A*Men Pure Havane,2,honey,honey
+Mugler,A*Men Pure Havane,3,Vanille,vanille
+Mugler,A*Men Pure Havane,4,Cacao,cacao
+Mugler,A*Men Pure Havane,5,Patchouli,patchouli
+Mugler,A*Men Pure Havane,6,Amber,amber
+Mugler,A*Men Pure Havane,7,French,french
+Mugler,A*Men Pure Havane,8,labdanum,labdanum
+Mugler,A*Men Pure Havane,9,Styrax,styrax
+Christian Dior,Dior Homme,0,Lavender,lavender
+Christian Dior,Dior Homme,1,Bergamot,bergamot
+Christian Dior,Dior Homme,2,Sage,sage
+Christian Dior,Dior Homme,3,iris,iris
+Christian Dior,Dior Homme,4,Cacao,cacao
+Christian Dior,Dior Homme,5,Amber,amber
+Christian Dior,Dior Homme,6,Leather,leather
+Christian Dior,Dior Homme,7,Vetiver,vetiver
+Christian Dior,Dior Homme,8,Patchouli,patchouli
+Parfums de Marly,Pegasus,0,Heliotrope,heliotrope
+Parfums de Marly,Pegasus,1,Cumin,cumin
+Parfums de Marly,Pegasus,2,Bergamot,bergamot
+Parfums de Marly,Pegasus,3,Bitter,bitter
+Parfums de Marly,Pegasus,4,Almond,almond
+Parfums de Marly,Pegasus,5,Lavender,lavender
+Parfums de Marly,Pegasus,6,Jasmine,jasmine
+Parfums de Marly,Pegasus,7,Vanilla,vanilla
+Parfums de Marly,Pegasus,8,Sandalwood,sandalwood
+Parfums de Marly,Pegasus,9,Amber,amber
+Calvin Klein,CK One Shock For Him,0,Lavender,lavender
+Calvin Klein,CK One Shock For Him,1,Clementine,clementine
+Calvin Klein,CK One Shock For Him,2,Cucumber,cucumber
+Calvin Klein,CK One Shock For Him,3,Cardamom,cardamom
+Calvin Klein,CK One Shock For Him,4,Pepper,pepper
+Calvin Klein,CK One Shock For Him,5,Basil,basil
+Calvin Klein,CK One Shock For Him,6,Osmanthus,osmanthus
+Calvin Klein,CK One Shock For Him,7,Tobacco,tobacco
+Calvin Klein,CK One Shock For Him,8,Amber,amber
+Calvin Klein,CK One Shock For Him,9,Patchouli,patchouli
+Calvin Klein,CK One Shock For Him,10,Woodsy,woodsy
+Calvin Klein,CK One Shock For Him,11,Notes,notes
+Calvin Klein,CK One Shock For Him,12,Musk,musk
+Montblanc,Legend,0,Lavender,lavender
+Montblanc,Legend,1,Pineapple,pineapple
+Montblanc,Legend,2,Bergamot,bergamot
+Montblanc,Legend,3,Lemon,lemon
+Montblanc,Legend,4,Verbena,verbena
+Montblanc,Legend,5,Red,red
+Montblanc,Legend,6,Apple,apple
+Montblanc,Legend,7,Dried,dried
+Montblanc,Legend,8,Fruits,fruits
+Montblanc,Legend,9,oak,oak
+Montblanc,Legend,10,moss,moss
+Montblanc,Legend,11,Geranium,geranium
+Montblanc,Legend,12,Coumarin,coumarin
+Montblanc,Legend,13,Rose,rose
+Montblanc,Legend,14,Tonka,tonka
+Montblanc,Legend,15,Bean,bean
+Montblanc,Legend,16,Sandalwood,sandalwood
+Lacoste Fragrances,Eau de Lacoste L.12.12. White,0,Grapefruit,grapefruit
+Lacoste Fragrances,Eau de Lacoste L.12.12. White,1,Rosemary,rosemary
+Lacoste Fragrances,Eau de Lacoste L.12.12. White,2,Cardamom,cardamom
+Lacoste Fragrances,Eau de Lacoste L.12.12. White,3,Ylang,ylang
+Lacoste Fragrances,Eau de Lacoste L.12.12. White,4,Ylang,ylang
+Lacoste Fragrances,Eau de Lacoste L.12.12. White,5,Tuberose,tuberose
+Lacoste Fragrances,Eau de Lacoste L.12.12. White,6,Suede,suede
+Lacoste Fragrances,Eau de Lacoste L.12.12. White,7,Virginia,virginia
+Lacoste Fragrances,Eau de Lacoste L.12.12. White,8,Cedar,cedar
+Lacoste Fragrances,Eau de Lacoste L.12.12. White,9,Vetiver,vetiver
+Lacoste Fragrances,Eau de Lacoste L.12.12. White,10,Leather,leather
+Carolina Herrera,212 VIP Men,0,Passionfruit,passionfruit
+Carolina Herrera,212 VIP Men,1,Lime,lime
+Carolina Herrera,212 VIP Men,2,Pepper,pepper
+Carolina Herrera,212 VIP Men,3,Ginger,ginger
+Carolina Herrera,212 VIP Men,4,Vodka,vodka
+Carolina Herrera,212 VIP Men,5,Gin,gin
+Carolina Herrera,212 VIP Men,6,Mint,mint
+Carolina Herrera,212 VIP Men,7,Spices,spices
+Carolina Herrera,212 VIP Men,8,Amber,amber
+Carolina Herrera,212 VIP Men,9,Leather,leather
+Carolina Herrera,212 VIP Men,10,Woodsy,woodsy
+Carolina Herrera,212 VIP Men,11,Notes,notes
+Prada,Luna Rossa Sport,0,Juniper,juniper
+Prada,Luna Rossa Sport,1,Berries,berries
+Prada,Luna Rossa Sport,2,Ginger,ginger
+Prada,Luna Rossa Sport,3,Lavender,lavender
+Prada,Luna Rossa Sport,4,Vanilla,vanilla
+Prada,Luna Rossa Sport,5,Tonka,tonka
+Prada,Luna Rossa Sport,6,Bean,bean
+Brut Parfums Prestige,Brut,0,Lavender,lavender
+Brut Parfums Prestige,Brut,1,Anise,anise
+Brut Parfums Prestige,Brut,2,Bergamot,bergamot
+Brut Parfums Prestige,Brut,3,Basil,basil
+Brut Parfums Prestige,Brut,4,Orange,orange
+Brut Parfums Prestige,Brut,5,Blossom,blossom
+Brut Parfums Prestige,Brut,6,Lemon,lemon
+Brut Parfums Prestige,Brut,7,Ylang,ylang
+Brut Parfums Prestige,Brut,8,Ylang,ylang
+Brut Parfums Prestige,Brut,9,Geranium,geranium
+Brut Parfums Prestige,Brut,10,Jasmine,jasmine
+Brut Parfums Prestige,Brut,11,Coumarin,coumarin
+Brut Parfums Prestige,Brut,12,Musk,musk
+Brut Parfums Prestige,Brut,13,Sandalowood,sandalowood
+Brut Parfums Prestige,Brut,14,Oakmoss,oakmoss
+Brut Parfums Prestige,Brut,15,Tonka,tonka
+Brut Parfums Prestige,Brut,16,Bean,bean
+Brut Parfums Prestige,Brut,17,Vanila,vanila
+Brut Parfums Prestige,Brut,18,Vetiver,vetiver
+Brut Parfums Prestige,Brut,19,Patchouli,patchouli
+Rasasi,Faqat Lil Rijal,0,Agarwood,agarwood
+Rasasi,Faqat Lil Rijal,1,Oud,oud
+Rasasi,Faqat Lil Rijal,2,Saffron,saffron
+Rasasi,Faqat Lil Rijal,3,Bergamot,bergamot
+Rasasi,Faqat Lil Rijal,4,Geranium,geranium
+Rasasi,Faqat Lil Rijal,5,Jasmine,jasmine
+Rasasi,Faqat Lil Rijal,6,Cardamom,cardamom
+Rasasi,Faqat Lil Rijal,7,Rice,rice
+Rasasi,Faqat Lil Rijal,8,Agarwood,agarwood
+Rasasi,Faqat Lil Rijal,9,Oud,oud
+Rasasi,Faqat Lil Rijal,10,Leather,leather
+Rasasi,Faqat Lil Rijal,11,Patchouli,patchouli
+Rasasi,Faqat Lil Rijal,12,Sandalwood,sandalwood
+Rasasi,Faqat Lil Rijal,13,Musk,musk
+Xerjoff,Nio,0,Bergamot,bergamot
+Xerjoff,Nio,1,Neroli,neroli
+Xerjoff,Nio,2,Green,green
+Xerjoff,Nio,3,Notes,notes
+Xerjoff,Nio,4,Cardamom,cardamom
+Xerjoff,Nio,5,Pink,pink
+Xerjoff,Nio,6,Pepper,pepper
+Xerjoff,Nio,7,Jasmine,jasmine
+Xerjoff,Nio,8,Nutmeg,nutmeg
+Xerjoff,Nio,9,vetyver,vetyver
+Xerjoff,Nio,10,Virginia,virginia
+Xerjoff,Nio,11,Cedar,cedar
+Xerjoff,Nio,12,Guaiac,guaiac
+Xerjoff,Nio,13,Wood,wood
+Xerjoff,Nio,14,Amber,amber
+Xerjoff,Nio,15,Patchouli,patchouli
+Guerlain,Derby,0,Bergamot,bergamot
+Guerlain,Derby,1,Orange,orange
+Guerlain,Derby,2,Carnation,carnation
+Guerlain,Derby,3,Spices,spices
+Guerlain,Derby,4,Exotic,exotic
+Guerlain,Derby,5,Woods,woods
+Guerlain,Derby,6,Leather,leather
+Guerlain,Derby,7,Birch,birch
+Guerlain,Derby,8,Woody,woody
+Guerlain,Derby,9,Notes,notes
+Guerlain,Derby,10,Patchouli,patchouli
