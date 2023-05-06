@@ -195,7 +195,7 @@ First, let's take our #1 ranked men's cologne brand: Xerjoff. Xerjoff ranked ext
 <div style="text-align:left"> Alfred Dunhill is a good alternative for Xerjoff, at a more reasonable price. 
     
     
-Next, let's take our #1 ranked women's perfume brand: Van Cleef $\&$ Arpels. Van Cleef $\&$ Arpels ranked extremely highly in topic 7. Shown in Figure 16 are other fragrance brands that also ranked highly in topic 7. 
+Next, let's take our #1 ranked women's perfume brand: Van Cleef & Arpels. Van Cleef & Arpels ranked extremely highly in topic 7. Shown in Figure 16 are other fragrance brands that also ranked highly in topic 7. 
 
 ![vancleef_sub.png](https://github.com/alseekford/fragrance_reviews/blob/main/code/vancleef_sub.png)
 <div style="text-align:center"> Figure 16: Top Women's Fragrance Potential Similarities   
