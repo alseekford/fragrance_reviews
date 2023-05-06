@@ -67,7 +67,7 @@ I began by separating the data by gender using the `for_gender` column - i.e. cl
 
 Three LIB tables were created - one for fragrances classified as “for women”, “for men”, and “for men and women”. They include: `company`, `name`, `rating`, and `number_votes`. A snippet of the women’s fragrance LIB is shown below.
 
-<div style="text-align:center"><img src='attachment:a7b92265-735c-4c28-b51c-31de338f7f64.png' alt='LIB' width=400 height=400>
+<div style="text-align:center"><img src='(https://github.com/alseekford/fragrance_reviews/blob/main/code/lib.png)' alt='LIB' width=400 height=400>
 
 <div style="text-align:center"> Figure 1: Women's Fragrance LIB Table
 
