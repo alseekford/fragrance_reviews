@@ -78,29 +78,27 @@ Three LIB tables were created - one for fragrances classified as “for women”
 
 In the same manner that LIB was separated into categories, the CORPUS tables were divided. Two separate subcategory of CORPUS’s were made: one for the perfume/cologne notes, and one for the description of the fragrance. A snippet of the women’s fragrance notes CORPUS, in addition to the men’s fragrance description CORPUS is shown below. Six CORPUS tables were created in total.
     
-<div style="text-align:center"><img src='attachment:50fc0383-11b2-4042-8d91-c1a9fe6180c7.png' alt='CORPUS' width=400 height=400> 
     
+![corpus.png](https://github.com/alseekford/fragrance_reviews/blob/main/code/corpus.png)    
 <div style="text-align:center"> Figure 2: Women's Fragrance Notes CORPUS Table
 <br/><br/>    
     
     
-<div style="text-align:center"><img src='attachment:1a17ac57-429c-465d-9bd5-784458eea02f.png' alt='CORPUS' width=400 height=400> 
-    
+![corpus_m.png](https://github.com/alseekford/fragrance_reviews/blob/main/code/corpus_men_d.png)    
 <div style="text-align:center"> Figure 3: Men's Fragrance Description CORPUS Table
 <br/><br/>
     
 Next, the TFIDF values were calculated for each CORPUS. However, the CORPUS’s Bag of Words were additionally separated by various OHCO: by *brand*, i.e. designer or *scent*, i.e. perfume/cologne name. Figure 4 shows the TFIDF table for women’s fragrance notes, bagged by the *brand*. 
     
-<div style="text-align:center"><img src='attachment:1f3c4dd2-5a0e-4619-abe8-4ea5ab919dcf.png' alt='CORPUS' width=600 height=400> 
-    
+
+![tfidf_w.png](https://github.com/alseekford/fragrance_reviews/blob/main/code/tfidf_w.png)
 <div style="text-align:center"> Figure 4: Women's TFIDF Fragrance Notes
 <br/><br/>    
     
 Figure 5 shows the average TFIDF values for men’s fragrances notes, also bagged by the *brand*. Twelve distinct Bag of Words were created.
 
 <br/><br/>    
-<div style="text-align:center"><img src='attachment:80baaab1-d84a-464a-b190-f7429878cc3b.png' alt='CORPUS' width=200 height=200> 
-    
+![tfidf_m.png](https://github.com/alseekford/fragrance_reviews/blob/main/code/tfidf_mean_m.png)
 <div style="text-align:center"> Figure 5: Men's Mean TFIDF Fragrance Notes
 
     
@@ -109,8 +107,7 @@ Figure 5 shows the average TFIDF values for men’s fragrances notes, also bagge
 
 Following the TFIDF calculations, the six vocabulary tables were built. Men’s, women’s and men’s and women’s fragrances tables were manufactured for both the notes and descriptions. An example of the women’s fragrance notes vocabulary is shown below. It is important to note that I did not include part of speech tagging in this instance because they were all adjectives. 
     
-<div style="text-align:center"><img src='attachment:519bb2ac-fa3f-4403-a5ad-fb328c2a3a93.png' alt='VOCAB' width=200 height=200> 
-    
+![vocab.png](https://github.com/alseekford/fragrance_reviews/blob/main/code/vocab_w.png)
 <div style="text-align:center"> Figure 6: Women's Fragrance Notes VOCAB Table
 <br/><br/>    
 
@@ -118,22 +115,19 @@ Following the TFIDF calculations, the six vocabulary tables were built. Men’s,
 
 The first analysis method I performed was PCA. I began by obtaining the top 100 notes for each brand. It was interesting to explore the eigenvector pairs. Here are the eigenvector pairs for men’s fragrance notes. 
     
-<div style="text-align:center"><img src='attachment:12970767-0d33-4cdb-9865-bceb660ecae6.png' alt='PCA' width=200 height=200> 
-    
+![eigen.png](https://github.com/alseekford/fragrance_reviews/blob/main/code/eigen_m.png)
 <div style="text-align:center"> Figure 7: Eigen Pairs for Men's Fragrance Notes
 <br/><br/>    
     
 This was followed by receiving the top 5 components for both mens and womens fragrances, as shown in Figure 8. This dataframe exhibits the components merged with the women’s designers and fragrances themselves (the women’s LIB table). 
     
 <br/><br/>     
-<div style="text-align:center"><img src='attachment:ec2487e3-a0ae-4217-a2a7-3119db222c58.png' alt='PCA' width=600 height=400> 
-    
+![pca.png](https://github.com/alseekford/fragrance_reviews/blob/main/code/PCA.png)
 <div style="text-align:center"> Figure 8: Women's Top 5 Components  
 <br/><br/>    
     
     
-<div style="text-align:center"><img src='attachment:4d2683d8-7bc5-4202-967e-e0cfeda2d86a.png' alt='PCA' width=400 height=400> 
-    
+![dend.png](https://github.com/alseekford/fragrance_reviews/blob/main/code/pca_den.png)
 <div style="text-align:center"> Figure 9: "High" Ranked Perfume Dendrogram    
 <br/><br/>    
     
@@ -146,21 +140,20 @@ This was followed by classifying women’s fragrances by “high” ($\>$4.2 sta
 
 Four topic models were created in total. 1. Fragrance notes, by brand, and 2. Descriptions, by brand, one each for both women and men fragrances. In the notes topic models, five components were returned, each with six words. The men’s notes topic model data frame is seen below. 
 
-<div style="text-align:center"><img src='attachment:3f8c22e3-c1ba-44a6-8653-c3bb0f57d82b.png' alt='LDA' width=600 height=400> 
-    
+
+![lda.png](https://github.com/alseekford/fragrance_reviews/blob/main/code/LDA_m.png)                                                                                                 
 <div style="text-align:center"> Figure 10: Men's Notes Topic Model
 <br/><br/>    
     
 <div style="text-align:left"> For the descriptions topic models, ten components were returned, each with twelve words. Below shows the women’s topics of descriptions (Figure 11), in addition to the top ten brands that associated with topic “T02” (Figure 12).
     
 
-<div style="text-align:center"><img src='attachment:35d9cebe-76e1-4e54-a9e3-54f0b4b35640.png' alt='LDA' width=600 height=400> 
-    
+
+![LDA_wd.png](https://github.com/alseekford/fragrance_reviews/blob/main/code/LDA_wd.png)    
 <div style="text-align:center"> Figure 11: Women's Perfume Description Topics
 <br/><br/>    
     
-<div style="text-align:center"><img src='attachment:7339df14-6fe7-49cf-8708-e0cf13a337ee.png' alt='LDA' width=600 height=400> 
-    
+![LDA_t02.png](https://github.com/alseekford/fragrance_reviews/blob/main/code/LDA_t02.png) 
 <div style="text-align:center"> Figure 12: Top Ten Brands
 
 # 4. Exploration
@@ -172,13 +165,12 @@ A perfume's rating, represented by a number of stars, is often an indicator of i
 
 I began the rating analysis by visualizing the fragrances with the highest ratings, that had over 150 reviews. This is beneficial because it provides a more representative sample size of consumer preferences. This ensures that the analysis is based on a statistically significant number of reviews, reducing the risk of skewed or biased results that could be caused by a small sample size.
 
-<div style="text-align:center"><img src='attachment:e4fc1e8a-4c3a-4f1f-b5e1-37f4530bebd8.png' alt='Price' width=400 height=600> 
-    
+
+![womens.png](https://github.com/alseekford/fragrance_reviews/blob/main/code/womens.png)    
 <div style="text-align:center"> Figure 13: Top Women's Fragrance Ratings
 <br/><br/>      
     
-<div style="text-align:center"><img src='attachment:5133e7b5-0d40-455e-ad37-c319ba43d455.png' alt='Price' width=400 height=600> 
-    
+![mens.png](https://github.com/alseekford/fragrance_reviews/blob/main/code/mens.png)  
 <div style="text-align:center"> Figure 14: Top Men's Fragrance Ratings   
 <br/><br/>     
     
@@ -195,8 +187,8 @@ Through the topic model approach (LDA) we can find brands that are similar to bo
 
 First, let's take our #1 ranked men's cologne brand: Xerjoff. Xerjoff ranked extremely highly in topic model 8. Shown in Figure 15 are other fragrance brands that also ranked highly in topic 8. 
 
-<div style="text-align:center"><img src='attachment:e953e9dd-163e-4c4d-9964-1d18bd575ae1.png' alt='Xerjoff' width=300 height=300> 
-    
+
+![xerjoff_sub.png](https://github.com/alseekford/fragrance_reviews/blob/main/code/xerjoff_sub.png)    
 <div style="text-align:center"> Figure 15: Top Men's Fragrance Potential Similarities   
 <br/><br/>  
     
@@ -205,8 +197,7 @@ First, let's take our #1 ranked men's cologne brand: Xerjoff. Xerjoff ranked ext
     
 Next, let's take our #1 ranked women's perfume brand: Van Cleef $\&$ Arpels. Van Cleef $\&$ Arpels ranked extremely highly in topic 7. Shown in Figure 16 are other fragrance brands that also ranked highly in topic 7. 
 
-<div style="text-align:center"><img src='attachment:18f30b3c-f1f5-4228-aa3e-7cfa2c220a6d.png' alt='Xerjoff' width=300 height=300> 
-    
+![vancleef_sub.png](https://github.com/alseekford/fragrance_reviews/blob/main/code/vancleef_sub.png)
 <div style="text-align:center"> Figure 16: Top Women's Fragrance Potential Similarities   
 <br/><br/> 
     
