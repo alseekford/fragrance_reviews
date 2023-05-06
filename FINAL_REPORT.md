@@ -97,11 +97,11 @@ Next, the TFIDF values were calculated for each CORPUS. However, the CORPUS’s 
     
 Figure 5 shows the average TFIDF values for men’s fragrances notes, also bagged by the *brand*. Twelve distinct Bag of Words were created.
 
-<br/><br/>    
+ 
 ![tfidf_m.png](https://github.com/alseekford/fragrance_reviews/blob/main/code/tfidf_mean_m.png)
 <div style="text-align:center"> Figure 5: Men's Mean TFIDF Fragrance Notes
 
-    
+   <br/><br/>    
     
 **VOCAB**
 
