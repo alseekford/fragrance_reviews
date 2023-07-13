@@ -29,4 +29,6 @@ Model the annotated and vectorized model with tables and features derived from t
 - Explored results using statistical and visual methods.  
 - Presented conclusions about patterns observed in the corpus by means of these operations.
 
-  
+
+
+Please view `FINAL_REPORT.md` for full report.
